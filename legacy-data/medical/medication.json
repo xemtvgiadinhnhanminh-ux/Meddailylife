@@ -1,0 +1,74 @@
+[
+  {
+    "id": "med-medi-001",
+    "en": "Take this medication 3 times a day — morning, noon, and evening.",
+    "vn": "Uống thuốc này 3 lần/ngày — sáng, trưa, tối.",
+    "note": "OPC3"
+  },
+  {
+    "id": "med-medi-002",
+    "en": "Take one sachet after each main meal and before bedtime — 4 times a day.",
+    "vn": "Uống 1 gói sau mỗi 3 bữa ăn chính và trước khi ngủ — 4 lần/ngày.",
+    "note": "GEL"
+  },
+  {
+    "id": "med-medi-003",
+    "en": "Take paracetamol only when your temperature is above 38.5°C or when you have significant pain. One tablet every 6 hours.",
+    "vn": "Uống paracetamol khi sốt từ 38.5°C hoặc đau nhiều. 1 viên cách 6 giờ.",
+    "note": "PARA"
+  },
+  {
+    "id": "med-medi-004",
+    "en": "Take this stomach tablet once daily, 30 minutes before breakfast.",
+    "vn": "Uống thuốc dạ dày 1 viên mỗi ngày, trước bữa sáng 30 phút.",
+    "note": "PPI"
+  },
+  {
+    "id": "med-medi-005",
+    "en": "Ear drops: 5 drops into the ear twice a day — morning and evening.",
+    "vn": "Thuốc nhỏ tai: 5 giọt vào tai, ngày 2 lần — sáng và tối.",
+    "note": "NT"
+  },
+  {
+    "id": "med-medi-006",
+    "en": "Nasal spray: use every morning, 2 sprays in each nostril.",
+    "vn": "Thuốc xịt mũi: dùng mỗi sáng, 2 nhát mỗi bên mũi.",
+    "note": "XM"
+  },
+  {
+    "id": "med-medi-007",
+    "en": "This tablet dissolves under your tongue — do not swallow it.",
+    "vn": "Viên này ngậm dưới lưỡi — không nuốt.",
+    "note": "NDL - Ngậm dưới lưỡi"
+  },
+  {
+    "id": "med-medi-008",
+    "en": "Finish the entire course of antibiotics even if you feel better.",
+    "vn": "Uống hết kháng sinh kể cả khi thấy khỏe hơn.",
+    "note": "Quan trọng! Không bỏ thuốc giữa chừng."
+  },
+  {
+    "id": "med-medi-009",
+    "en": "Take this with food to protect your stomach.",
+    "vn": "Uống thuốc này cùng bữa ăn để bảo vệ dạ dày.",
+    "note": ""
+  },
+  {
+    "id": "med-medi-010",
+    "en": "If you experience any side effects, stop the medication and come back to see me.",
+    "vn": "Nếu có tác dụng phụ, ngừng thuốc và quay lại gặp tôi.",
+    "note": ""
+  },
+  {
+    "id": "med-medi-011",
+    "en": "Take 15ml three times a day — morning, noon, and evening.",
+    "vn": "Uống 15ml ngày 3 lần — sáng, trưa, tối.",
+    "note": "OPC3"
+  },
+  {
+    "id": "med-medi-012",
+    "en": "Do not exceed 4 tablets of paracetamol in 24 hours.",
+    "vn": "Không dùng quá 4 viên paracetamol trong 24 giờ.",
+    "note": ""
+  }
+]

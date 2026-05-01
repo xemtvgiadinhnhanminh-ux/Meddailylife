@@ -1,0 +1,179 @@
+[
+  {
+    "id": "lesson-001",
+    "title": "At the Doctor's Office",
+    "source": "VOA Learning English",
+    "level": "beginner",
+    "duration": "2 min",
+    "transcript": [
+      { "text": "Good morning. How can I help you today?", "vn": "Chao buoi sang. Toi co the giup gi cho ban?" },
+      { "text": "I've been having headaches for the past week.", "vn": "Toi bi dau dau ca tuan qua." },
+      { "text": "Can you describe the pain? Is it sharp or dull?", "vn": "Ban mo ta con dau duoc khong? Dau nhoi hay dau am?" },
+      { "text": "It's a dull pain, mostly in the front of my head.", "vn": "Dau am am, chu yeu o phia truoc dau." },
+      { "text": "How often do you get these headaches?", "vn": "Ban bi dau dau thuong xuyen khong?" },
+      { "text": "Almost every day, usually in the afternoon.", "vn": "Gan nhu moi ngay, thuong vao buoi chieu." },
+      { "text": "Are you drinking enough water? Dehydration can cause headaches.", "vn": "Ban co uong du nuoc khong? Mat nuoc co the gay dau dau." },
+      { "text": "I probably don't drink enough. I'll try to drink more.", "vn": "Co le toi khong uong du. Toi se co uong nhieu hon." }
+    ],
+    "vocab": [
+      { "word": "headache", "phonetic": "/ˈhedeɪk/", "meaning": "dau dau" },
+      { "word": "sharp pain", "phonetic": "/ʃɑːrp peɪn/", "meaning": "dau nhoi" },
+      { "word": "dull pain", "phonetic": "/dʌl peɪn/", "meaning": "dau am" },
+      { "word": "dehydration", "phonetic": "/ˌdiːhaɪˈdreɪʃn/", "meaning": "mat nuoc" }
+    ],
+    "quiz": [
+      { "question": "What is the patient's main complaint?", "options": ["Stomach pain", "Headaches", "Coughing", "Fever"], "answer": 1 },
+      { "question": "How often does the patient get headaches?", "options": ["Once a week", "Almost every day", "Only at night", "Once a month"], "answer": 1 },
+      { "question": "What might be causing the headaches?", "options": ["Too much exercise", "Dehydration", "Bad food", "Cold weather"], "answer": 1 }
+    ],
+    "connected_speech": [
+      { "phrase": "How can I help you", "phenomenon": "Linking: can_I → /kænaɪ/" },
+      { "phrase": "for the past week", "phenomenon": "Weak form: 'for' → /fər/" },
+      { "phrase": "Is it sharp or dull", "phenomenon": "Linking: sharp_or → /ʃɑːrpɔːr/" }
+    ]
+  },
+  {
+    "id": "lesson-002",
+    "title": "Ordering Food at a Restaurant",
+    "source": "BBC Learning English",
+    "level": "beginner",
+    "duration": "2 min",
+    "transcript": [
+      { "text": "Good evening. Welcome to The Garden. Do you have a reservation?", "vn": "Chao buoi toi. Chao mung den The Garden. Ban co dat ban truoc khong?" },
+      { "text": "Yes, under the name Wilson. A table for two, please.", "vn": "Co, ten Wilson. Ban cho hai nguoi." },
+      { "text": "Right this way. Here are your menus.", "vn": "Moi di theo toi. Day la thuc don." },
+      { "text": "Thank you. Could we have a few minutes to decide?", "vn": "Cam on. Cho chung toi vai phut de chon nhe?" },
+      { "text": "Of course. Would you like something to drink while you wait?", "vn": "Duoc a. Ban muon uong gi trong luc cho?" },
+      { "text": "I'll have a glass of water, please. And she'll have an orange juice.", "vn": "Cho toi mot ly nuoc. Va co ay uong nuoc cam." },
+      { "text": "Are you ready to order? What would you like?", "vn": "Ban san sang goi mon chua? Ban muon gi?" },
+      { "text": "I'd like the grilled salmon with vegetables, please.", "vn": "Cho toi ca hoi nuong voi rau." },
+      { "text": "Excellent choice. And for dessert?", "vn": "Lua chon tuyet voi. Con trang mieng?" },
+      { "text": "We'll decide later, thank you.", "vn": "Chung toi se chon sau, cam on." }
+    ],
+    "vocab": [
+      { "word": "reservation", "phonetic": "/ˌrezərˈveɪʃn/", "meaning": "dat ban/phong truoc" },
+      { "word": "menu", "phonetic": "/ˈmenjuː/", "meaning": "thuc don" },
+      { "word": "grilled", "phonetic": "/ɡrɪld/", "meaning": "nuong" },
+      { "word": "dessert", "phonetic": "/dɪˈzɜːrt/", "meaning": "trang mieng" }
+    ],
+    "quiz": [
+      { "question": "How many people are dining?", "options": ["One", "Two", "Three", "Four"], "answer": 1 },
+      { "question": "What does the man order?", "options": ["Steak", "Grilled salmon", "Pasta", "Chicken"], "answer": 1 },
+      { "question": "'I'd like' is a polite way to say:", "options": ["I need", "I want", "I demand", "I must have"], "answer": 1 }
+    ],
+    "connected_speech": [
+      { "phrase": "Do you have a reservation", "phenomenon": "Linking: have_a → /hævə/" },
+      { "phrase": "Would you like", "phenomenon": "Weak form: 'would you' → /wʊdʒə/" },
+      { "phrase": "I'll have a glass of", "phenomenon": "Contraction + linking: I'll_have_a → /aɪlhævə/" }
+    ]
+  },
+  {
+    "id": "lesson-003",
+    "title": "Describing Symptoms to a Doctor",
+    "source": "VOA Learning English",
+    "level": "intermediate",
+    "duration": "3 min",
+    "transcript": [
+      { "text": "Doctor, I've been feeling unwell for about a week now.", "vn": "Bac si, toi thay khong khoe khoang mot tuan nay." },
+      { "text": "I'm sorry to hear that. Can you tell me more about your symptoms?", "vn": "Toi rat tiec. Ban co the noi them ve cac trieu chung khong?" },
+      { "text": "Well, it started with a sore throat, and then I developed a cough.", "vn": "Bat dau bang dau hong, roi toi bi ho." },
+      { "text": "Is the cough productive? I mean, are you coughing up any mucus?", "vn": "Ho co dom khong? Toi muon noi, ban ho co ra chat nhay khong?" },
+      { "text": "Yes, it's thick and yellowish. And I've had a fever on and off.", "vn": "Co, dom dac va mau vang. Va toi bi sot luc co luc khong." },
+      { "text": "Have you taken any medication so far?", "vn": "Ban da uong thuoc gi chua?" },
+      { "text": "Just some over-the-counter pain relievers for the fever.", "vn": "Chi uong thuoc giam dau khong ke don de ha sot thoi." },
+      { "text": "I'd like to do a quick examination. Please open your mouth and say 'aah'.", "vn": "Toi muon kham nhanh. Vui long ha mieng va noi 'aah'." },
+      { "text": "Your throat is quite inflamed. I'm going to prescribe antibiotics.", "vn": "Hong ban bi viem kha nang. Toi se ke khang sinh." },
+      { "text": "How long should I take the antibiotics?", "vn": "Toi nen uong khang sinh bao lau?" },
+      { "text": "For seven days. Make sure you complete the full course, even if you feel better.", "vn": "Bay ngay. Nho uong het lieu, ngay ca khi ban thay tot hon." }
+    ],
+    "vocab": [
+      { "word": "sore throat", "phonetic": "/sɔːr θroʊt/", "meaning": "dau hong" },
+      { "word": "productive cough", "phonetic": "/prəˈdʌktɪv kɒf/", "meaning": "ho co dom" },
+      { "word": "mucus", "phonetic": "/ˈmjuːkəs/", "meaning": "chat nhay, dom" },
+      { "word": "inflamed", "phonetic": "/ɪnˈfleɪmd/", "meaning": "bi viem" },
+      { "word": "antibiotics", "phonetic": "/ˌæntɪbaɪˈɒtɪks/", "meaning": "khang sinh" },
+      { "word": "over-the-counter", "phonetic": "/ˌoʊvər ðə ˈkaʊntər/", "meaning": "khong ke don" }
+    ],
+    "quiz": [
+      { "question": "What was the first symptom?", "options": ["Cough", "Fever", "Sore throat", "Headache"], "answer": 2 },
+      { "question": "What color is the mucus?", "options": ["Clear", "Green", "Yellowish", "Red"], "answer": 2 },
+      { "question": "How long should the patient take antibiotics?", "options": ["3 days", "5 days", "7 days", "10 days"], "answer": 2 },
+      { "question": "'Over-the-counter' means:", "options": ["Very expensive", "Available without prescription", "Only in hospitals", "Imported"], "answer": 1 }
+    ],
+    "connected_speech": [
+      { "phrase": "I've been feeling", "phenomenon": "Contraction: I've → /aɪv/" },
+      { "phrase": "coughing up any", "phenomenon": "Linking: up_any → /ʌpeni/" },
+      { "phrase": "on and off", "phenomenon": "Phrasal: luc co luc khong" }
+    ]
+  },
+  {
+    "id": "lesson-004",
+    "title": "Making a Phone Appointment",
+    "source": "BBC Learning English",
+    "level": "beginner",
+    "duration": "2 min",
+    "transcript": [
+      { "text": "Good morning, City Medical Center. How may I help you?", "vn": "Chao buoi sang, Trung tam Y te Thanh pho. Toi giup gi duoc?" },
+      { "text": "Hello, I'd like to make an appointment with Dr. Smith, please.", "vn": "Xin chao, toi muon dat lich hen voi bac si Smith." },
+      { "text": "Is this for a routine check-up or is it urgent?", "vn": "Day la kham dinh ky hay khan cap?" },
+      { "text": "It's not urgent, but I'd like to be seen this week if possible.", "vn": "Khong khan cap, nhung toi muon duoc kham tuan nay neu duoc." },
+      { "text": "Let me check the schedule. Dr. Smith has an opening on Thursday at 2 PM.", "vn": "De toi xem lich. Bac si Smith con lich trong vao thu Nam luc 2 gio chieu." },
+      { "text": "Thursday at 2 PM works for me. Could I get a morning slot instead?", "vn": "Thu Nam 2 gio duoc. Co lich buoi sang khong?" },
+      { "text": "We have 10 AM available on Friday. Would that work?", "vn": "Chung toi co lich 10 gio sang thu Sau. Duoc khong?" },
+      { "text": "Friday at 10 AM is perfect. Thank you!", "vn": "Thu Sau 10 gio sang hoan hao. Cam on!" },
+      { "text": "May I have your name and date of birth, please?", "vn": "Cho toi xin ten va ngay sinh cua ban?" },
+      { "text": "It's Tran, T-R-A-N. Date of birth: March 15th, 1985.", "vn": "Tran, T-R-A-N. Ngay sinh: 15 thang 3 nam 1985." }
+    ],
+    "vocab": [
+      { "word": "appointment", "phonetic": "/əˈpɔɪntmənt/", "meaning": "lich hen" },
+      { "word": "routine check-up", "phonetic": "/ruːˈtiːn ˈtʃekʌp/", "meaning": "kham dinh ky" },
+      { "word": "urgent", "phonetic": "/ˈɜːrdʒənt/", "meaning": "khan cap" },
+      { "word": "opening/slot", "phonetic": "/ˈoʊpənɪŋ/", "meaning": "lich trong" }
+    ],
+    "quiz": [
+      { "question": "Why is the caller making an appointment?", "options": ["Emergency", "Routine check-up", "Surgery", "Getting test results"], "answer": 1 },
+      { "question": "When is the final appointment?", "options": ["Thursday 2 PM", "Friday 10 AM", "Wednesday 9 AM", "Monday 3 PM"], "answer": 1 },
+      { "question": "'May I have your name?' is asking for...", "options": ["Permission", "Information", "An opinion", "A favor"], "answer": 1 }
+    ],
+    "connected_speech": [
+      { "phrase": "How may I help you", "phenomenon": "Weak form: may_I → /meɪaɪ/" },
+      { "phrase": "I'd like to", "phenomenon": "Contraction: I'd → /aɪd/" },
+      { "phrase": "works for me", "phenomenon": "Common expression: phu hop voi toi" }
+    ]
+  },
+  {
+    "id": "lesson-005",
+    "title": "Explaining a Medical Procedure",
+    "source": "VOA Health",
+    "level": "intermediate",
+    "duration": "3 min",
+    "transcript": [
+      { "text": "Before we begin, I'd like to explain what we're going to do today.", "vn": "Truoc khi bat dau, toi muon giai thich hom nay chung ta se lam gi." },
+      { "text": "We're going to perform a minor procedure to examine your ear more closely.", "vn": "Chung toi se thuc hien mot thu thuat nho de kham tai ban ky hon." },
+      { "text": "First, I'll apply a local anesthetic so you won't feel any pain.", "vn": "Dau tien, toi se boi thuoc te tai cho de ban khong thay dau." },
+      { "text": "Then, I'll use a small instrument called an otoscope to look inside.", "vn": "Sau do, toi se dung dung cu nho goi la den soi tai de nhin ben trong." },
+      { "text": "You might feel some pressure, but it shouldn't be painful.", "vn": "Ban co the thay hoi ap luc, nhung se khong dau." },
+      { "text": "The whole thing should take about 10 to 15 minutes.", "vn": "Toan bo qua trinh khoang 10 den 15 phut." },
+      { "text": "Do you have any questions before we start?", "vn": "Ban co cau hoi gi truoc khi chung ta bat dau khong?" },
+      { "text": "Will I be able to hear normally after the procedure?", "vn": "Sau thu thuat toi nghe binh thuong duoc khong?" },
+      { "text": "Yes, your hearing should return to normal within a day or two.", "vn": "Co, thinh luc cua ban se tro lai binh thuong trong mot hai ngay." },
+      { "text": "If you experience any discomfort afterward, please don't hesitate to call us.", "vn": "Neu ban thay kho chiu sau do, dung ngai goi cho chung toi." }
+    ],
+    "vocab": [
+      { "word": "procedure", "phonetic": "/prəˈsiːdʒər/", "meaning": "thu thuat" },
+      { "word": "local anesthetic", "phonetic": "/ˌloʊkl ænəsˈθetɪk/", "meaning": "thuoc te tai cho" },
+      { "word": "otoscope", "phonetic": "/ˈoʊtəskoʊp/", "meaning": "den soi tai" },
+      { "word": "discomfort", "phonetic": "/dɪsˈkʌmfərt/", "meaning": "kho chiu" }
+    ],
+    "quiz": [
+      { "question": "What instrument will the doctor use?", "options": ["Stethoscope", "Otoscope", "Thermometer", "X-ray"], "answer": 1 },
+      { "question": "How long will the procedure take?", "options": ["5 minutes", "10-15 minutes", "30 minutes", "1 hour"], "answer": 1 },
+      { "question": "'Don't hesitate to call us' means:", "options": ["Don't call us", "Call us anytime", "Wait before calling", "Call emergency only"], "answer": 1 }
+    ],
+    "connected_speech": [
+      { "phrase": "what we're going to do", "phenomenon": "Weak form: 'to' → /tə/; contraction: we're → /wɪər/" },
+      { "phrase": "won't feel any pain", "phenomenon": "Contraction: won't → /woʊnt/" },
+      { "phrase": "don't hesitate to", "phenomenon": "Common phrase: dung ngai" }
+    ]
+  }
+]

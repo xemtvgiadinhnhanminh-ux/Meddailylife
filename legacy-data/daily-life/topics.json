@@ -1,0 +1,1940 @@
+{
+  "greetings": {
+    "id": "greetings",
+    "icon": "👋",
+    "title": "Greetings & Small Talk",
+    "vn": "Chào hỏi & Chuyện phiếm",
+    "color": "#3b82f6",
+    "phrases": [
+      {
+        "id": "daily-greetings-001",
+        "en": "Good morning! How are you doing today?",
+        "vn": "Chào buổi sáng! Hôm nay bạn thế nào?",
+        "note": "Câu mở đầu lịch sự nhất"
+      },
+      {
+        "id": "daily-greetings-002",
+        "en": "I'm doing great, thanks for asking!",
+        "vn": "Tôi rất tốt, cảm ơn bạn đã hỏi!",
+        "note": ""
+      },
+      {
+        "id": "daily-greetings-003",
+        "en": "Not bad, could be better. How about you?",
+        "vn": "Cũng ổn thôi, có thể tốt hơn. Còn bạn thì sao?",
+        "note": "Câu trung thực nhưng lịch sự"
+      },
+      {
+        "id": "daily-greetings-004",
+        "en": "Long time no see! What have you been up to?",
+        "vn": "Lâu không gặp! Dạo này bạn làm gì vậy?",
+        "note": ""
+      },
+      {
+        "id": "daily-greetings-005",
+        "en": "It's been a while. You look great!",
+        "vn": "Lâu rồi không gặp. Bạn trông rất tốt!",
+        "note": ""
+      },
+      {
+        "id": "daily-greetings-006",
+        "en": "What a small world — fancy meeting you here!",
+        "vn": "Thế giới thật nhỏ — thật trùng hợp khi gặp bạn ở đây!",
+        "note": "Khi gặp người quen bất ngờ"
+      },
+      {
+        "id": "daily-greetings-007",
+        "en": "I'm sorry, I didn't catch your name?",
+        "vn": "Xin lỗi, tôi chưa kịp nghe tên bạn?",
+        "note": "Lịch sự khi không nghe rõ tên"
+      },
+      {
+        "id": "daily-greetings-008",
+        "en": "It's nice to meet you. I'm [name].",
+        "vn": "Rất vui được gặp bạn. Tôi là [tên].",
+        "note": ""
+      },
+      {
+        "id": "daily-greetings-009",
+        "en": "How's the family?",
+        "vn": "Gia đình bạn thế nào rồi?",
+        "note": ""
+      },
+      {
+        "id": "daily-greetings-010",
+        "en": "I've been keeping busy. Work has been hectic lately.",
+        "vn": "Tôi khá bận. Công việc dạo này hơi hối hả.",
+        "note": "hectic = bận rộn, hối hả"
+      },
+      {
+        "id": "daily-greetings-011",
+        "en": "Anyway, it was great running into you!",
+        "vn": "Dù sao, thật vui khi tình cờ gặp bạn!",
+        "note": "Câu khi chia tay"
+      },
+      {
+        "id": "daily-greetings-012",
+        "en": "Take care! See you around.",
+        "vn": "Bảo trọng nhé! Hẹn gặp lại.",
+        "note": ""
+      }
+    ],
+    "dialogue": [
+      {
+        "id": "daily-greetings-dial-1",
+        "speaker": "A",
+        "en": "Hey James! Long time no see. How have you been?",
+        "vn": "Ê James! Lâu quá không gặp. Bạn có khỏe không?"
+      },
+      {
+        "id": "daily-greetings-dial-2",
+        "speaker": "B",
+        "en": "Oh wow, it's great to see you! I've been really well, just busy with work.",
+        "vn": "Ôi, thật tuyệt khi gặp bạn! Tôi vẫn khỏe, chỉ là bận công việc thôi."
+      },
+      {
+        "id": "daily-greetings-dial-3",
+        "speaker": "A",
+        "en": "I know the feeling! Are you still at City Hospital?",
+        "vn": "Tôi hiểu cảm giác đó! Bạn vẫn làm ở Bệnh viện Thành phố không?"
+      },
+      {
+        "id": "daily-greetings-dial-4",
+        "speaker": "B",
+        "en": "Yes, still there. What about you?",
+        "vn": "Vâng, vẫn ở đó. Còn bạn thì sao?"
+      },
+      {
+        "id": "daily-greetings-dial-5",
+        "speaker": "A",
+        "en": "Same. Listen, we should catch up properly. Coffee sometime?",
+        "vn": "Như cũ. Này, chúng ta nên gặp nhau kỹ hơn. Uống cà phê hôm nào đó không?"
+      },
+      {
+        "id": "daily-greetings-dial-6",
+        "speaker": "B",
+        "en": "Absolutely! I'll text you.",
+        "vn": "Nhất định rồi! Tôi sẽ nhắn tin cho bạn."
+      }
+    ],
+    "vocab": [
+      {
+        "id": "daily-greetings-vocab-1",
+        "word": "hectic",
+        "phonetic": "/ˈhektɪk/",
+        "meaning": "bận rộn, hối hả"
+      },
+      {
+        "id": "daily-greetings-vocab-2",
+        "word": "run into",
+        "phonetic": "/rʌn ˈɪntʊ/",
+        "meaning": "tình cờ gặp ai đó"
+      },
+      {
+        "id": "daily-greetings-vocab-3",
+        "word": "catch up",
+        "phonetic": "/kætʃ ʌp/",
+        "meaning": "gặp gỡ, cập nhật tin tức nhau"
+      },
+      {
+        "id": "daily-greetings-vocab-4",
+        "word": "fancy",
+        "phonetic": "/ˈfænsi/",
+        "meaning": "(Anh) ngạc nhiên, ai ngờ"
+      }
+    ],
+    "tips": [
+      "Người Anh/Mỹ thường hỏi 'How are you?' mà không cần câu trả lời chi tiết — 'Fine, thanks!' là đủ.",
+      "Khi không nghe rõ tên: 'Sorry, could you spell that for me?' — Xin lỗi, bạn có thể đánh vần không?",
+      "Small talk phổ biến: thời tiết, cuối tuần, công việc, thể thao — tránh nói chính trị hoặc thu nhập."
+    ]
+  },
+  "cafe": {
+    "id": "cafe",
+    "icon": "☕",
+    "title": "Café & Coffee Shop",
+    "vn": "Quán cà phê",
+    "color": "#a16207",
+    "phrases": [
+      {
+        "id": "daily-cafe-001",
+        "en": "Hi, can I get a medium latte, please?",
+        "vn": "Xin chào, cho tôi một ly latte cỡ vừa nhé?",
+        "note": "medium = cỡ vừa (Starbucks: tall/grande/venti)"
+      },
+      {
+        "id": "daily-cafe-002",
+        "en": "Could I have that with oat milk instead?",
+        "vn": "Bạn có thể dùng sữa yến mạch thay thế không?",
+        "note": "oat milk = sữa yến mạch; popular substitution"
+      },
+      {
+        "id": "daily-cafe-003",
+        "en": "Make it decaf, please.",
+        "vn": "Không cà phê nhé (decaf).",
+        "note": "decaf = không caffeine"
+      },
+      {
+        "id": "daily-cafe-004",
+        "en": "Can I have an extra shot of espresso?",
+        "vn": "Cho thêm một shot espresso được không?",
+        "note": "extra shot = thêm một phần espresso"
+      },
+      {
+        "id": "daily-cafe-005",
+        "en": "Is this seat taken?",
+        "vn": "Ghế này có ai ngồi chưa?",
+        "note": "Câu hỏi khi muốn ngồi cạnh người lạ"
+      },
+      {
+        "id": "daily-cafe-006",
+        "en": "Do you have free Wi-Fi here? What's the password?",
+        "vn": "Ở đây có Wi-Fi miễn phí không? Mật khẩu là gì?",
+        "note": ""
+      },
+      {
+        "id": "daily-cafe-007",
+        "en": "Could I get this to go?",
+        "vn": "Tôi có thể lấy mang về không?",
+        "note": "to go = mang về; dine in = ăn tại chỗ"
+      },
+      {
+        "id": "daily-cafe-008",
+        "en": "I'll have the same as her.",
+        "vn": "Cho tôi giống như của cô ấy.",
+        "note": "Câu nhanh gọn khi muốn gọi giống người khác"
+      },
+      {
+        "id": "daily-cafe-009",
+        "en": "Can I get a refill?",
+        "vn": "Tôi có thể xin thêm không?",
+        "note": "refill = rót thêm (thường miễn phí ở Mỹ)"
+      },
+      {
+        "id": "daily-cafe-010",
+        "en": "Do you have any dairy-free options?",
+        "vn": "Bạn có lựa chọn không có sữa không?",
+        "note": "dairy-free = không chứa sản phẩm từ sữa"
+      },
+      {
+        "id": "daily-cafe-011",
+        "en": "I'd like to order a slice of cheesecake too.",
+        "vn": "Cho tôi thêm một miếng cheesecake nữa.",
+        "note": ""
+      },
+      {
+        "id": "daily-cafe-012",
+        "en": "Could I get a receipt?",
+        "vn": "Cho tôi hóa đơn được không?",
+        "note": ""
+      }
+    ],
+    "dialogue": [
+      {
+        "id": "daily-cafe-dial-1",
+        "speaker": "Barista",
+        "en": "Hi there! What can I get for you today?",
+        "vn": "Xin chào! Hôm nay bạn muốn gọi gì?"
+      },
+      {
+        "id": "daily-cafe-dial-2",
+        "speaker": "You",
+        "en": "Hi! I'd like a grande cappuccino, please.",
+        "vn": "Xin chào! Cho tôi một cappuccino cỡ vừa lớn."
+      },
+      {
+        "id": "daily-cafe-dial-3",
+        "speaker": "Barista",
+        "en": "Sure! Whole milk or would you like an alternative?",
+        "vn": "Được! Sữa nguyên kem hay bạn muốn loại khác?"
+      },
+      {
+        "id": "daily-cafe-dial-4",
+        "speaker": "You",
+        "en": "Oat milk please. And could I add an extra shot?",
+        "vn": "Sữa yến mạch nhé. Và cho thêm một shot espresso được không?"
+      },
+      {
+        "id": "daily-cafe-dial-5",
+        "speaker": "Barista",
+        "en": "Of course! For here or to go?",
+        "vn": "Dĩ nhiên! Uống tại đây hay mang về?"
+      },
+      {
+        "id": "daily-cafe-dial-6",
+        "speaker": "You",
+        "en": "To go, please. And your Wi-Fi password?",
+        "vn": "Mang về nhé. Và mật khẩu Wi-Fi của bạn là gì?"
+      },
+      {
+        "id": "daily-cafe-dial-7",
+        "speaker": "Barista",
+        "en": "It's on the board — CafeBlue2025. That'll be $6.50.",
+        "vn": "Trên bảng đó — CafeBlue2025. Tổng cộng là 6.50$."
+      },
+      {
+        "id": "daily-cafe-dial-8",
+        "speaker": "You",
+        "en": "Here you go. Keep the change!",
+        "vn": "Đây nhé. Bạn giữ tiền thối lại đi!"
+      }
+    ],
+    "vocab": [
+      {
+        "id": "daily-cafe-vocab-1",
+        "word": "decaf",
+        "phonetic": "/ˈdiːkæf/",
+        "meaning": "cà phê không caffeine"
+      },
+      {
+        "id": "daily-cafe-vocab-2",
+        "word": "to go",
+        "phonetic": "/tə ɡəʊ/",
+        "meaning": "mang về"
+      },
+      {
+        "id": "daily-cafe-vocab-3",
+        "word": "refill",
+        "phonetic": "/ˈriːfɪl/",
+        "meaning": "rót thêm, nạp lại"
+      },
+      {
+        "id": "daily-cafe-vocab-4",
+        "word": "alternative",
+        "phonetic": "/ɔːlˈtɜːnətɪv/",
+        "meaning": "sự lựa chọn thay thế"
+      },
+      {
+        "id": "daily-cafe-vocab-5",
+        "word": "Keep the change",
+        "phonetic": "",
+        "meaning": "Giữ tiền thối lại (boa)"
+      }
+    ],
+    "tips": [
+      "Ở Mỹ, tip khoảng 15-20% là thông lệ, kể cả ở quán cà phê.",
+      "'Can I get...' tự nhiên hơn 'I want...' khi gọi đồ ở quán.",
+      "Phân biệt: 'for here' (ăn tại chỗ) vs 'to go' (mang về)."
+    ]
+  },
+  "restaurant": {
+    "id": "restaurant",
+    "icon": "🍽️",
+    "title": "Restaurant — Dining Out",
+    "vn": "Nhà hàng — Ăn ngoài",
+    "color": "#dc2626",
+    "phrases": [
+      {
+        "id": "daily-restaurant-001",
+        "en": "Do you have a table for two available?",
+        "vn": "Bạn có bàn trống cho 2 người không?",
+        "note": ""
+      },
+      {
+        "id": "daily-restaurant-002",
+        "en": "I have a reservation under Dr. [Name] at 7 pm.",
+        "vn": "Tôi có đặt bàn với tên bác sĩ [Tên] lúc 7 giờ tối.",
+        "note": ""
+      },
+      {
+        "id": "daily-restaurant-003",
+        "en": "Could we see the menu, please?",
+        "vn": "Cho chúng tôi xem thực đơn được không?",
+        "note": ""
+      },
+      {
+        "id": "daily-restaurant-004",
+        "en": "What do you recommend? What's the specialty here?",
+        "vn": "Bạn gợi ý món gì? Đặc sản ở đây là gì?",
+        "note": ""
+      },
+      {
+        "id": "daily-restaurant-005",
+        "en": "I'm allergic to shellfish — no shrimp, crab, or oyster.",
+        "vn": "Tôi dị ứng hải sản có vỏ — không tôm, cua, hay hàu.",
+        "note": "shellfish = hải sản có vỏ"
+      },
+      {
+        "id": "daily-restaurant-006",
+        "en": "I'd like my steak medium-rare, please.",
+        "vn": "Cho tôi bít tết chín tái vừa nhé.",
+        "note": "rare/medium-rare/medium/well-done"
+      },
+      {
+        "id": "daily-restaurant-007",
+        "en": "Could I substitute the fries for a salad?",
+        "vn": "Tôi có thể đổi khoai chiên lấy salad không?",
+        "note": "substitute = đổi, thay thế"
+      },
+      {
+        "id": "daily-restaurant-008",
+        "en": "Excuse me, we've been waiting for 20 minutes.",
+        "vn": "Xin lỗi, chúng tôi đã đợi 20 phút rồi.",
+        "note": "Lịch sự nhưng rõ ràng"
+      },
+      {
+        "id": "daily-restaurant-009",
+        "en": "This isn't what I ordered. I asked for the salmon.",
+        "vn": "Đây không phải món tôi gọi. Tôi đã gọi cá hồi.",
+        "note": ""
+      },
+      {
+        "id": "daily-restaurant-010",
+        "en": "Could we get some more water, please?",
+        "vn": "Cho chúng tôi thêm nước được không?",
+        "note": ""
+      },
+      {
+        "id": "daily-restaurant-011",
+        "en": "Everything was delicious. Compliments to the chef.",
+        "vn": "Mọi thứ đều ngon. Khen đầu bếp giúp tôi nhé.",
+        "note": ""
+      },
+      {
+        "id": "daily-restaurant-012",
+        "en": "Could we get the bill please? We'll split it.",
+        "vn": "Cho chúng tôi tính tiền nhé? Chúng tôi chia đôi.",
+        "note": "split the bill = chia tiền"
+      },
+      {
+        "id": "daily-restaurant-013",
+        "en": "Is service charge included in the bill?",
+        "vn": "Phí phục vụ có bao gồm trong hóa đơn không?",
+        "note": ""
+      }
+    ],
+    "dialogue": [
+      {
+        "id": "daily-restaurant-dial-1",
+        "speaker": "Waiter",
+        "en": "Good evening! Do you have a reservation?",
+        "vn": "Chào buổi tối! Quý khách có đặt bàn trước không?"
+      },
+      {
+        "id": "daily-restaurant-dial-2",
+        "speaker": "You",
+        "en": "Yes, under Dr. Nguyen. A table for three.",
+        "vn": "Có, tên bác sĩ Nguyễn. Bàn cho 3 người."
+      },
+      {
+        "id": "daily-restaurant-dial-3",
+        "speaker": "Waiter",
+        "en": "Right this way please. Here are your menus.",
+        "vn": "Mời quý khách theo tôi. Đây là thực đơn."
+      },
+      {
+        "id": "daily-restaurant-dial-4",
+        "speaker": "You",
+        "en": "Thank you. What do you recommend tonight?",
+        "vn": "Cảm ơn. Tối nay bạn gợi ý món gì?"
+      },
+      {
+        "id": "daily-restaurant-dial-5",
+        "speaker": "Waiter",
+        "en": "The grilled salmon and the ribeye steak are excellent tonight.",
+        "vn": "Cá hồi nướng và bít tết sườn cực kỳ ngon tối nay."
+      },
+      {
+        "id": "daily-restaurant-dial-6",
+        "speaker": "You",
+        "en": "I'll have the salmon. And could I have it with vegetables instead of fries?",
+        "vn": "Cho tôi cá hồi. Và cho tôi rau thay khoai chiên được không?"
+      },
+      {
+        "id": "daily-restaurant-dial-7",
+        "speaker": "Waiter",
+        "en": "Of course! Any allergies I should know about?",
+        "vn": "Dĩ nhiên! Quý khách có dị ứng thực phẩm gì không?"
+      },
+      {
+        "id": "daily-restaurant-dial-8",
+        "speaker": "You",
+        "en": "I'm allergic to shellfish. Please make sure the salmon hasn't been near shrimp.",
+        "vn": "Tôi dị ứng hải sản có vỏ. Vui lòng đảm bảo cá hồi không tiếp xúc tôm."
+      }
+    ],
+    "vocab": [
+      {
+        "id": "daily-restaurant-vocab-1",
+        "word": "medium-rare",
+        "phonetic": "/ˌmiːdiəm ˈreər/",
+        "meaning": "chín tái vừa (bít tết)"
+      },
+      {
+        "id": "daily-restaurant-vocab-2",
+        "word": "substitute",
+        "phonetic": "/ˈsʌbstɪtjuːt/",
+        "meaning": "thay thế, đổi"
+      },
+      {
+        "id": "daily-restaurant-vocab-3",
+        "word": "split",
+        "phonetic": "/splɪt/",
+        "meaning": "chia đôi (tiền)"
+      },
+      {
+        "id": "daily-restaurant-vocab-4",
+        "word": "allergy",
+        "phonetic": "/ˈælərdʒi/",
+        "meaning": "dị ứng"
+      },
+      {
+        "id": "daily-restaurant-vocab-5",
+        "word": "specialty",
+        "phonetic": "/ˈspeʃəlti/",
+        "meaning": "đặc sản, món đặc biệt"
+      }
+    ],
+    "tips": [
+      "Luôn đề cập dị ứng thực phẩm ngay khi ngồi vào bàn, trước khi gọi món.",
+      "Mức độ chín bít tết: rare (tái) → medium-rare → medium → medium-well → well-done (chín kỹ).",
+      "Ở Mỹ: tip 18-20%. Ở Anh/Úc: 10-15% hoặc tùy ý."
+    ]
+  },
+  "transport": {
+    "id": "transport",
+    "icon": "🚕",
+    "title": "Transportation & Getting Around",
+    "vn": "Di chuyển & Hỏi đường",
+    "color": "#0891b2",
+    "phrases": [
+      {
+        "id": "daily-transport-001",
+        "en": "Could you take me to the Marriott Hotel on Nguyen Hue Street?",
+        "vn": "Bạn có thể đưa tôi đến khách sạn Marriott trên đường Nguyễn Huệ không?",
+        "note": ""
+      },
+      {
+        "id": "daily-transport-002",
+        "en": "How long will it take to get there?",
+        "vn": "Mất bao lâu để đến đó?",
+        "note": ""
+      },
+      {
+        "id": "daily-transport-003",
+        "en": "Could you please turn on the air conditioning?",
+        "vn": "Bạn có thể bật điều hòa được không?",
+        "note": ""
+      },
+      {
+        "id": "daily-transport-004",
+        "en": "Please drop me off at the corner.",
+        "vn": "Vui lòng để tôi xuống ở góc đường.",
+        "note": "drop off = để xuống (xe)"
+      },
+      {
+        "id": "daily-transport-005",
+        "en": "Keep the change.",
+        "vn": "Bạn giữ tiền lẻ đi.",
+        "note": "Câu boa cho tài xế"
+      },
+      {
+        "id": "daily-transport-006",
+        "en": "Excuse me, how do I get to the nearest subway station?",
+        "vn": "Xin lỗi, tôi đi đến trạm tàu điện ngầm gần nhất như thế nào?",
+        "note": ""
+      },
+      {
+        "id": "daily-transport-007",
+        "en": "Is this the right bus for the city centre?",
+        "vn": "Đây có phải xe buýt đi trung tâm thành phố không?",
+        "note": ""
+      },
+      {
+        "id": "daily-transport-008",
+        "en": "Where should I get off for the museum?",
+        "vn": "Tôi nên xuống trạm nào để đến bảo tàng?",
+        "note": "get off = xuống (xe buýt/tàu)"
+      },
+      {
+        "id": "daily-transport-009",
+        "en": "I think I'm lost. Can you show me on the map?",
+        "vn": "Tôi nghĩ mình bị lạc. Bạn có thể chỉ cho tôi trên bản đồ không?",
+        "note": ""
+      },
+      {
+        "id": "daily-transport-010",
+        "en": "How far is it on foot from here?",
+        "vn": "Từ đây đi bộ bao xa?",
+        "note": "on foot = đi bộ"
+      },
+      {
+        "id": "daily-transport-011",
+        "en": "Could you call me an Uber/Grab?",
+        "vn": "Bạn có thể gọi Uber/Grab cho tôi không?",
+        "note": ""
+      },
+      {
+        "id": "daily-transport-012",
+        "en": "I'll be at the departures terminal in 10 minutes.",
+        "vn": "Tôi sẽ đến sảnh khởi hành trong 10 phút.",
+        "note": ""
+      }
+    ],
+    "dialogue": [
+      {
+        "id": "daily-transport-dial-1",
+        "speaker": "You",
+        "en": "Hi, I need to get to St. Mary's Hospital. How long will that take?",
+        "vn": "Xin chào, tôi cần đến Bệnh viện St. Mary's. Mất bao lâu?"
+      },
+      {
+        "id": "daily-transport-dial-2",
+        "speaker": "Driver",
+        "en": "About 20 minutes in this traffic. Is that okay?",
+        "vn": "Khoảng 20 phút trong tình trạng kẹt xe này. Được không?"
+      },
+      {
+        "id": "daily-transport-dial-3",
+        "speaker": "You",
+        "en": "That's fine. Could you take the expressway? I'm running a bit late.",
+        "vn": "Được rồi. Bạn có thể đi đường cao tốc không? Tôi hơi trễ giờ rồi."
+      },
+      {
+        "id": "daily-transport-dial-4",
+        "speaker": "Driver",
+        "en": "Sure. There's a toll — about $2. Is that all right?",
+        "vn": "Được. Có phí cầu đường — khoảng 2$. Được không?"
+      },
+      {
+        "id": "daily-transport-dial-5",
+        "speaker": "You",
+        "en": "No problem. Actually, please stop at the main entrance.",
+        "vn": "Không vấn đề. Thực ra, cho tôi xuống ở cổng chính nhé."
+      },
+      {
+        "id": "daily-transport-dial-6",
+        "speaker": "Driver",
+        "en": "Here we are. That's $18.50.",
+        "vn": "Đến rồi. 18.50$."
+      },
+      {
+        "id": "daily-transport-dial-7",
+        "speaker": "You",
+        "en": "Here's $20. Keep the change.",
+        "vn": "Đây 20$. Bạn giữ tiền lẻ đi."
+      }
+    ],
+    "vocab": [
+      {
+        "id": "daily-transport-vocab-1",
+        "word": "drop off",
+        "phonetic": "/drɒp ɒf/",
+        "meaning": "để xuống, dừng cho ai xuống xe"
+      },
+      {
+        "id": "daily-transport-vocab-2",
+        "word": "on foot",
+        "phonetic": "/ɒn fʊt/",
+        "meaning": "đi bộ"
+      },
+      {
+        "id": "daily-transport-vocab-3",
+        "word": "get off",
+        "phonetic": "/ɡet ɒf/",
+        "meaning": "xuống xe buýt/tàu"
+      },
+      {
+        "id": "daily-transport-vocab-4",
+        "word": "toll",
+        "phonetic": "/toʊl/",
+        "meaning": "phí cầu đường"
+      },
+      {
+        "id": "daily-transport-vocab-5",
+        "word": "expressway",
+        "phonetic": "/ˈeksprɛsweɪ/",
+        "meaning": "đường cao tốc"
+      }
+    ],
+    "tips": [
+      "Luôn nói địa chỉ rõ ràng: số nhà + tên đường + khu vực. Ví dụ: '42 Baker Street, Marylebone'.",
+      "'Excuse me' trước khi hỏi đường — bao giờ cũng lịch sự hơn.",
+      "Khi không hiểu chỉ đường: 'Could you write that down for me?' — Bạn có thể viết ra cho tôi không?"
+    ]
+  },
+  "shopping": {
+    "id": "shopping",
+    "icon": "🛍️",
+    "title": "Shopping & Pharmacy",
+    "vn": "Mua sắm & Nhà thuốc",
+    "color": "#7c3aed",
+    "phrases": [
+      {
+        "id": "daily-shopping-001",
+        "en": "I'm just browsing, thank you.",
+        "vn": "Tôi chỉ đang xem thôi, cảm ơn.",
+        "note": "Khi nhân viên hỏi có cần giúp không"
+      },
+      {
+        "id": "daily-shopping-002",
+        "en": "Do you have this in a larger size?",
+        "vn": "Bạn có cái này size lớn hơn không?",
+        "note": ""
+      },
+      {
+        "id": "daily-shopping-003",
+        "en": "Could I try this on? Where's the fitting room?",
+        "vn": "Tôi có thể mặc thử không? Phòng thử đồ ở đâu?",
+        "note": ""
+      },
+      {
+        "id": "daily-shopping-004",
+        "en": "This is a bit tight. Do you have the next size up?",
+        "vn": "Cái này hơi chật. Bạn có size lớn hơn một bậc không?",
+        "note": ""
+      },
+      {
+        "id": "daily-shopping-005",
+        "en": "Is this on sale? Do you have any discounts?",
+        "vn": "Cái này có đang giảm giá không?",
+        "note": ""
+      },
+      {
+        "id": "daily-shopping-006",
+        "en": "Do you do tax refunds for tourists?",
+        "vn": "Bạn có hoàn thuế cho khách du lịch không?",
+        "note": "tax refund = hoàn thuế"
+      },
+      {
+        "id": "daily-shopping-007",
+        "en": "Could I return this if it doesn't fit?",
+        "vn": "Tôi có thể trả lại nếu không vừa không?",
+        "note": ""
+      },
+      {
+        "id": "daily-shopping-008",
+        "en": "Do you have ibuprofen over the counter?",
+        "vn": "Bạn có ibuprofen bán không cần toa không?",
+        "note": "over the counter = không cần toa thuốc"
+      },
+      {
+        "id": "daily-shopping-009",
+        "en": "I need something for a cold and a sore throat.",
+        "vn": "Tôi cần thuốc cho cảm lạnh và đau họng.",
+        "note": ""
+      },
+      {
+        "id": "daily-shopping-010",
+        "en": "Is this medication safe to take with antibiotics?",
+        "vn": "Thuốc này có an toàn khi dùng cùng kháng sinh không?",
+        "note": ""
+      },
+      {
+        "id": "daily-shopping-011",
+        "en": "What are the dosage instructions?",
+        "vn": "Hướng dẫn liều dùng là gì?",
+        "note": "dosage = liều dùng"
+      },
+      {
+        "id": "daily-shopping-012",
+        "en": "Do I need a prescription for this?",
+        "vn": "Tôi có cần toa thuốc cho loại này không?",
+        "note": "prescription = toa thuốc"
+      }
+    ],
+    "dialogue": [
+      {
+        "id": "daily-shopping-dial-1",
+        "speaker": "Pharmacist",
+        "en": "Hi, can I help you with anything?",
+        "vn": "Xin chào, tôi có thể giúp gì cho bạn?"
+      },
+      {
+        "id": "daily-shopping-dial-2",
+        "speaker": "You",
+        "en": "Yes please. I have a bad cold and a really sore throat.",
+        "vn": "Vâng, cảm ơn. Tôi bị cảm nặng và đau họng dữ lắm."
+      },
+      {
+        "id": "daily-shopping-dial-3",
+        "speaker": "Pharmacist",
+        "en": "How long have you had the symptoms?",
+        "vn": "Bạn bị triệu chứng này bao lâu rồi?"
+      },
+      {
+        "id": "daily-shopping-dial-4",
+        "speaker": "You",
+        "en": "Since yesterday. I also have a slight fever — 37.8.",
+        "vn": "Từ hôm qua. Tôi cũng sốt nhẹ — 37.8 độ."
+      },
+      {
+        "id": "daily-shopping-dial-5",
+        "speaker": "Pharmacist",
+        "en": "Are you currently taking any other medication?",
+        "vn": "Bạn đang dùng thuốc nào khác không?"
+      },
+      {
+        "id": "daily-shopping-dial-6",
+        "speaker": "You",
+        "en": "Yes, I'm on a course of amoxicillin.",
+        "vn": "Vâng, tôi đang uống amoxicillin."
+      },
+      {
+        "id": "daily-shopping-dial-7",
+        "speaker": "Pharmacist",
+        "en": "In that case I'd recommend this paracetamol and these throat lozenges. They're safe with antibiotics.",
+        "vn": "Trong trường hợp đó tôi khuyên dùng paracetamol này và kẹo ngậm ho này. Chúng an toàn với kháng sinh."
+      },
+      {
+        "id": "daily-shopping-dial-8",
+        "speaker": "You",
+        "en": "Thank you. What's the dosage for the paracetamol?",
+        "vn": "Cảm ơn. Liều dùng paracetamol là bao nhiêu?"
+      }
+    ],
+    "vocab": [
+      {
+        "id": "daily-shopping-vocab-1",
+        "word": "over the counter",
+        "phonetic": "/ˌoʊvər ðə ˈkaʊntər/",
+        "meaning": "thuốc không cần toa"
+      },
+      {
+        "id": "daily-shopping-vocab-2",
+        "word": "prescription",
+        "phonetic": "/prɪˈskrɪpʃən/",
+        "meaning": "toa thuốc"
+      },
+      {
+        "id": "daily-shopping-vocab-3",
+        "word": "dosage",
+        "phonetic": "/ˈdoʊsɪdʒ/",
+        "meaning": "liều dùng"
+      },
+      {
+        "id": "daily-shopping-vocab-4",
+        "word": "lozenge",
+        "phonetic": "/ˈlɒzɪndʒ/",
+        "meaning": "kẹo ngậm ho"
+      },
+      {
+        "id": "daily-shopping-vocab-5",
+        "word": "fitting room",
+        "phonetic": "/ˈfɪtɪŋ ruːm/",
+        "meaning": "phòng thử đồ"
+      }
+    ],
+    "tips": [
+      "Ở nhà thuốc nước ngoài: luôn mang toa thuốc gốc khi cần mua thuốc kê đơn.",
+      "'I'm browsing' = đang xem thôi, không cần người bán hàng theo sát.",
+      "Hỏi về tương tác thuốc: 'Does this interact with...?' — Thuốc này có tương tác với... không?"
+    ]
+  },
+  "hotel": {
+    "id": "hotel",
+    "icon": "🏨",
+    "title": "Hotel — Check-in & Stay",
+    "vn": "Khách sạn",
+    "color": "#059669",
+    "phrases": [
+      {
+        "id": "daily-hotel-001",
+        "en": "I have a reservation. The name is Dr. Nguyen.",
+        "vn": "Tôi có đặt phòng. Tên là bác sĩ Nguyễn.",
+        "note": ""
+      },
+      {
+        "id": "daily-hotel-002",
+        "en": "Could I have a room with a higher floor?",
+        "vn": "Tôi có thể có phòng tầng cao hơn không?",
+        "note": ""
+      },
+      {
+        "id": "daily-hotel-003",
+        "en": "Is the breakfast included?",
+        "vn": "Bữa sáng có bao gồm không?",
+        "note": ""
+      },
+      {
+        "id": "daily-hotel-004",
+        "en": "What time is checkout?",
+        "vn": "Checkout lúc mấy giờ?",
+        "note": ""
+      },
+      {
+        "id": "daily-hotel-005",
+        "en": "Could I request a late checkout — around noon?",
+        "vn": "Tôi có thể xin checkout muộn — khoảng trưa không?",
+        "note": "late checkout = checkout muộn hơn giờ quy định"
+      },
+      {
+        "id": "daily-hotel-006",
+        "en": "The air conditioning doesn't seem to be working.",
+        "vn": "Điều hòa không chạy được.",
+        "note": ""
+      },
+      {
+        "id": "daily-hotel-007",
+        "en": "There's no hot water in my room.",
+        "vn": "Phòng tôi không có nước nóng.",
+        "note": ""
+      },
+      {
+        "id": "daily-hotel-008",
+        "en": "Could I get some extra towels and toiletries?",
+        "vn": "Cho tôi xin thêm khăn và đồ vệ sinh cá nhân.",
+        "note": "toiletries = đồ vệ sinh cá nhân"
+      },
+      {
+        "id": "daily-hotel-009",
+        "en": "Could you arrange an airport transfer for 6 am?",
+        "vn": "Bạn có thể sắp xếp xe đưa ra sân bay lúc 6 giờ sáng không?",
+        "note": ""
+      },
+      {
+        "id": "daily-hotel-010",
+        "en": "I'd like to extend my stay by one night.",
+        "vn": "Tôi muốn ở thêm một đêm nữa.",
+        "note": ""
+      },
+      {
+        "id": "daily-hotel-011",
+        "en": "Can I leave my luggage here while I check out?",
+        "vn": "Tôi có thể để hành lý ở đây trong khi checkout không?",
+        "note": ""
+      },
+      {
+        "id": "daily-hotel-012",
+        "en": "Could you recommend a good local restaurant nearby?",
+        "vn": "Bạn có thể giới thiệu một nhà hàng địa phương ngon gần đây không?",
+        "note": ""
+      }
+    ],
+    "dialogue": [
+      {
+        "id": "daily-hotel-dial-1",
+        "speaker": "Receptionist",
+        "en": "Welcome to the Grand Hotel. How can I help?",
+        "vn": "Chào mừng đến Grand Hotel. Tôi có thể giúp gì?"
+      },
+      {
+        "id": "daily-hotel-dial-2",
+        "speaker": "You",
+        "en": "Hello. I have a reservation under Dr. Nguyen, checking in for 3 nights.",
+        "vn": "Xin chào. Tôi có đặt phòng tên bác sĩ Nguyễn, nhận phòng 3 đêm."
+      },
+      {
+        "id": "daily-hotel-dial-3",
+        "speaker": "Receptionist",
+        "en": "Let me pull up your reservation. Could I see your passport?",
+        "vn": "Để tôi tra đặt phòng. Cho tôi xem hộ chiếu được không?"
+      },
+      {
+        "id": "daily-hotel-dial-4",
+        "speaker": "You",
+        "en": "Of course. Here you go. Is it possible to get a room on a higher floor?",
+        "vn": "Dĩ nhiên. Đây nhé. Có thể có phòng ở tầng cao hơn không?"
+      },
+      {
+        "id": "daily-hotel-dial-5",
+        "speaker": "Receptionist",
+        "en": "Certainly. I've given you room 1402. Checkout is at noon. Is there anything else?",
+        "vn": "Dĩ nhiên. Tôi đã xếp phòng 1402. Checkout lúc 12 giờ trưa. Có gì khác không?"
+      },
+      {
+        "id": "daily-hotel-dial-6",
+        "speaker": "You",
+        "en": "Is breakfast included? And do you have the Wi-Fi password?",
+        "vn": "Bữa sáng có bao gồm không? Và mật khẩu Wi-Fi là gì?"
+      },
+      {
+        "id": "daily-hotel-dial-7",
+        "speaker": "Receptionist",
+        "en": "Breakfast is from 7 to 10 in the restaurant on level 2. Wi-Fi is on your key card.",
+        "vn": "Bữa sáng từ 7 đến 10 giờ ở nhà hàng tầng 2. Wi-Fi ở trên thẻ chìa khóa."
+      }
+    ],
+    "vocab": [
+      {
+        "id": "daily-hotel-vocab-1",
+        "word": "late checkout",
+        "phonetic": "/leɪt ˈtʃekaʊt/",
+        "meaning": "trả phòng muộn hơn giờ quy định"
+      },
+      {
+        "id": "daily-hotel-vocab-2",
+        "word": "toiletries",
+        "phonetic": "/ˈtɔɪlətriz/",
+        "meaning": "đồ vệ sinh cá nhân (dầu gội, xà phòng...)"
+      },
+      {
+        "id": "daily-hotel-vocab-3",
+        "word": "luggage",
+        "phonetic": "/ˈlʌɡɪdʒ/",
+        "meaning": "hành lý"
+      },
+      {
+        "id": "daily-hotel-vocab-4",
+        "word": "transfer",
+        "phonetic": "/ˈtrænsfer/",
+        "meaning": "xe đưa đón"
+      },
+      {
+        "id": "daily-hotel-vocab-5",
+        "word": "amenities",
+        "phonetic": "/əˈmiːnɪtiz/",
+        "meaning": "tiện nghi, dịch vụ"
+      }
+    ],
+    "tips": [
+      "Khi check-in, luôn hỏi về late checkout — thường miễn phí nếu phòng không có khách.",
+      "Nếu phòng có vấn đề: báo ngay để được đổi phòng hoặc giảm giá.",
+      "Giữ key card đến khi checkout — thường cũng là thẻ tiêu mini-bar."
+    ]
+  },
+  "phone": {
+    "id": "phone",
+    "icon": "📞",
+    "title": "Phone Calls & Appointments",
+    "vn": "Điện thoại & Đặt lịch hẹn",
+    "color": "#0284c7",
+    "phrases": [
+      {
+        "id": "daily-phone-001",
+        "en": "Hello, this is Dr. Nguyen calling.",
+        "vn": "Xin chào, tôi là bác sĩ Nguyễn gọi.",
+        "note": "Câu mở đầu điện thoại công việc"
+      },
+      {
+        "id": "daily-phone-002",
+        "en": "Could I speak to Dr. Smith, please?",
+        "vn": "Tôi có thể nói chuyện với bác sĩ Smith không?",
+        "note": ""
+      },
+      {
+        "id": "daily-phone-003",
+        "en": "I'm sorry, could you speak a bit louder? The line isn't great.",
+        "vn": "Xin lỗi, bạn có thể nói to hơn một chút không? Đường truyền không tốt lắm.",
+        "note": ""
+      },
+      {
+        "id": "daily-phone-004",
+        "en": "Sorry, I didn't catch that. Could you repeat?",
+        "vn": "Xin lỗi, tôi không nghe rõ. Bạn có thể nói lại không?",
+        "note": "Câu quan trọng! Đừng ngại dùng."
+      },
+      {
+        "id": "daily-phone-005",
+        "en": "I'd like to make an appointment for next Tuesday.",
+        "vn": "Tôi muốn đặt lịch hẹn vào thứ Ba tuần tới.",
+        "note": ""
+      },
+      {
+        "id": "daily-phone-006",
+        "en": "Could we reschedule our meeting? Something's come up.",
+        "vn": "Chúng ta có thể đổi lịch họp không? Có việc đột xuất.",
+        "note": "reschedule = đổi lịch; something came up = có việc đột xuất"
+      },
+      {
+        "id": "daily-phone-007",
+        "en": "What time works best for you?",
+        "vn": "Thời gian nào phù hợp nhất với bạn?",
+        "note": ""
+      },
+      {
+        "id": "daily-phone-008",
+        "en": "Would 3 pm on Thursday work?",
+        "vn": "3 giờ chiều thứ Năm có được không?",
+        "note": ""
+      },
+      {
+        "id": "daily-phone-009",
+        "en": "Could you send me a calendar invite?",
+        "vn": "Bạn có thể gửi cho tôi lời mời lịch không?",
+        "note": "calendar invite = lời mời trên lịch"
+      },
+      {
+        "id": "daily-phone-010",
+        "en": "I'll have to get back to you on that.",
+        "vn": "Tôi sẽ phải trả lời bạn sau về vấn đề đó.",
+        "note": "get back to someone = liên hệ lại"
+      },
+      {
+        "id": "daily-phone-011",
+        "en": "Let me check my schedule and confirm.",
+        "vn": "Để tôi kiểm tra lịch và xác nhận.",
+        "note": ""
+      },
+      {
+        "id": "daily-phone-012",
+        "en": "I'm afraid I have to cancel our appointment.",
+        "vn": "Tôi e rằng phải hủy cuộc hẹn của chúng ta.",
+        "note": "I'm afraid = tiếc rằng (lịch sự)"
+      }
+    ],
+    "dialogue": [
+      {
+        "id": "daily-phone-dial-1",
+        "speaker": "Receptionist",
+        "en": "Good afternoon, St. James Clinic. How can I help?",
+        "vn": "Chào buổi chiều, Phòng khám St. James. Tôi có thể giúp gì?"
+      },
+      {
+        "id": "daily-phone-dial-2",
+        "speaker": "You",
+        "en": "Hello, this is Dr. Nguyen. I'd like to speak with Dr. Collins if she's available.",
+        "vn": "Xin chào, đây là bác sĩ Nguyễn. Tôi muốn nói chuyện với bác sĩ Collins nếu bà ấy rảnh."
+      },
+      {
+        "id": "daily-phone-dial-3",
+        "speaker": "Receptionist",
+        "en": "She's with a patient right now. Can I take a message?",
+        "vn": "Bà ấy đang với bệnh nhân. Tôi có thể nhắn tin lại không?"
+      },
+      {
+        "id": "daily-phone-dial-4",
+        "speaker": "You",
+        "en": "Yes please. Could you let her know I called about the ENT conference next month?",
+        "vn": "Vâng. Bạn có thể nhắn với bà ấy rằng tôi gọi về hội nghị TMH tháng tới không?"
+      },
+      {
+        "id": "daily-phone-dial-5",
+        "speaker": "Receptionist",
+        "en": "Of course. Does she have your number?",
+        "vn": "Dĩ nhiên. Bà ấy có số của bạn không?"
+      },
+      {
+        "id": "daily-phone-dial-6",
+        "speaker": "You",
+        "en": "She should, but just in case it's 0912-345-678.",
+        "vn": "Bà ấy nên có, nhưng phòng hờ thì là 0912-345-678."
+      },
+      {
+        "id": "daily-phone-dial-7",
+        "speaker": "Receptionist",
+        "en": "Got it. I'll pass the message along.",
+        "vn": "Ghi rồi. Tôi sẽ chuyển lời nhắn."
+      }
+    ],
+    "vocab": [
+      {
+        "id": "daily-phone-vocab-1",
+        "word": "reschedule",
+        "phonetic": "/ˌriːˈʃedjuːl/",
+        "meaning": "đổi lịch, dời lịch"
+      },
+      {
+        "id": "daily-phone-vocab-2",
+        "word": "get back to",
+        "phonetic": "/ɡet bæk tuː/",
+        "meaning": "liên hệ lại, trả lời sau"
+      },
+      {
+        "id": "daily-phone-vocab-3",
+        "word": "calendar invite",
+        "phonetic": "",
+        "meaning": "lời mời lịch điện tử"
+      },
+      {
+        "id": "daily-phone-vocab-4",
+        "word": "pass the message",
+        "phonetic": "",
+        "meaning": "chuyển lời nhắn"
+      },
+      {
+        "id": "daily-phone-vocab-5",
+        "word": "confirm",
+        "phonetic": "/kənˈfɜːrm/",
+        "meaning": "xác nhận"
+      }
+    ],
+    "tips": [
+      "Bắt đầu điện thoại: 'This is [name]' (không nói 'I am [name]').",
+      "Khi không nghe rõ: 'I'm sorry, you're breaking up' = tín hiệu bị gián đoạn.",
+      "Khi nhắn lại: 'Could you ask them to call me back?' — nhờ gọi lại."
+    ]
+  },
+  "airport": {
+    "id": "airport",
+    "icon": "✈️",
+    "title": "At the Airport",
+    "vn": "Ở Sân Bay",
+    "color": "#0369a1",
+    "phrases": [
+      {
+        "id": "daily-airport-001",
+        "en": "Could you tell me where the check-in counter for Singapore Airlines is?",
+        "vn": "Bạn có thể chỉ cho tôi quầy check-in của Singapore Airlines ở đâu không?",
+        "note": ""
+      },
+      {
+        "id": "daily-airport-002",
+        "en": "I'd prefer a window seat, please.",
+        "vn": "Tôi muốn ngồi ghế cạnh cửa sổ.",
+        "note": "window / middle / aisle seat"
+      },
+      {
+        "id": "daily-airport-003",
+        "en": "Is my flight on time?",
+        "vn": "Chuyến bay của tôi có đúng giờ không?",
+        "note": ""
+      },
+      {
+        "id": "daily-airport-004",
+        "en": "My flight has been delayed. Is there another option?",
+        "vn": "Chuyến bay của tôi bị hoãn. Có lựa chọn nào khác không?",
+        "note": ""
+      },
+      {
+        "id": "daily-airport-005",
+        "en": "I need to make my connecting flight in Singapore.",
+        "vn": "Tôi cần kịp chuyến bay nối ở Singapore.",
+        "note": "connecting flight = chuyến bay nối"
+      },
+      {
+        "id": "daily-airport-006",
+        "en": "My luggage is overweight. What's the excess baggage fee?",
+        "vn": "Hành lý của tôi bị quá cân. Phí hành lý thêm là bao nhiêu?",
+        "note": ""
+      },
+      {
+        "id": "daily-airport-007",
+        "en": "Where is gate C12?",
+        "vn": "Cửa ra máy bay C12 ở đâu?",
+        "note": ""
+      },
+      {
+        "id": "daily-airport-008",
+        "en": "Could I get a transit hotel voucher?",
+        "vn": "Tôi có thể nhận voucher khách sạn quá cảnh không?",
+        "note": "transit = quá cảnh"
+      },
+      {
+        "id": "daily-airport-009",
+        "en": "Could I request a wheelchair for my patient?",
+        "vn": "Tôi có thể yêu cầu xe lăn cho bệnh nhân của tôi không?",
+        "note": ""
+      },
+      {
+        "id": "daily-airport-010",
+        "en": "Do I need to re-check my bags for the connecting flight?",
+        "vn": "Tôi có cần check lại hành lý cho chuyến bay nối không?",
+        "note": ""
+      },
+      {
+        "id": "daily-airport-011",
+        "en": "Where is the duty-free shopping area?",
+        "vn": "Khu mua sắm miễn thuế ở đâu?",
+        "note": "duty-free = hàng miễn thuế"
+      },
+      {
+        "id": "daily-airport-012",
+        "en": "What's the Wi-Fi password for the lounge?",
+        "vn": "Mật khẩu Wi-Fi của phòng chờ là gì?",
+        "note": ""
+      }
+    ],
+    "dialogue": [
+      {
+        "id": "daily-airport-dial-1",
+        "speaker": "Agent",
+        "en": "Good morning! Passport and ticket please.",
+        "vn": "Chào buổi sáng! Cho tôi hộ chiếu và vé."
+      },
+      {
+        "id": "daily-airport-dial-2",
+        "speaker": "You",
+        "en": "Here you go. I'd like a window seat if possible.",
+        "vn": "Đây nhé. Tôi muốn ghế cửa sổ nếu được."
+      },
+      {
+        "id": "daily-airport-dial-3",
+        "speaker": "Agent",
+        "en": "Let me check. Yes, 22A is available. That's a window seat.",
+        "vn": "Để tôi kiểm tra. Vâng, 22A còn trống. Đó là ghế cửa sổ."
+      },
+      {
+        "id": "daily-airport-dial-4",
+        "speaker": "You",
+        "en": "Perfect. Is the flight on time?",
+        "vn": "Tuyệt vời. Chuyến bay có đúng giờ không?"
+      },
+      {
+        "id": "daily-airport-dial-5",
+        "speaker": "Agent",
+        "en": "There's a 30-minute delay due to air traffic. Boarding starts at 10:15.",
+        "vn": "Trễ 30 phút do kiểm soát không lưu. Boarding bắt đầu lúc 10:15."
+      },
+      {
+        "id": "daily-airport-dial-6",
+        "speaker": "You",
+        "en": "I have a connecting flight in Singapore at 2pm. Will I still make it?",
+        "vn": "Tôi có chuyến bay nối ở Singapore lúc 2 giờ chiều. Tôi có kịp không?"
+      },
+      {
+        "id": "daily-airport-dial-7",
+        "speaker": "Agent",
+        "en": "That should be fine. The connection is about 3 hours so you'll have time.",
+        "vn": "Nên ổn. Thời gian transit khoảng 3 tiếng nên bạn có đủ thời gian."
+      }
+    ],
+    "vocab": [
+      {
+        "id": "daily-airport-vocab-1",
+        "word": "connecting flight",
+        "phonetic": "/kəˈnektɪŋ flaɪt/",
+        "meaning": "chuyến bay nối"
+      },
+      {
+        "id": "daily-airport-vocab-2",
+        "word": "transit",
+        "phonetic": "/ˈtrænsɪt/",
+        "meaning": "quá cảnh"
+      },
+      {
+        "id": "daily-airport-vocab-3",
+        "word": "duty-free",
+        "phonetic": "/ˌdjuːti ˈfriː/",
+        "meaning": "hàng miễn thuế"
+      },
+      {
+        "id": "daily-airport-vocab-4",
+        "word": "overweight",
+        "phonetic": "/ˌoʊvərˈweɪt/",
+        "meaning": "quá cân (hành lý)"
+      },
+      {
+        "id": "daily-airport-vocab-5",
+        "word": "boarding",
+        "phonetic": "/ˈbɔːrdɪŋ/",
+        "meaning": "lên máy bay"
+      }
+    ],
+    "tips": [
+      "Luôn hỏi về connecting flight khi check-in — nhân viên sẽ ghi chú để ưu tiên.",
+      "Nếu chuyến bay bị hủy: yêu cầu 'meal voucher' và 'accommodation voucher' nếu delay qua đêm.",
+      "Phòng chờ (lounge): với thẻ tín dụng Premium hoặc thẻ Priority Pass, bạn thường vào miễn phí."
+    ]
+  },
+  "social": {
+    "id": "social",
+    "icon": "🗣️",
+    "title": "Expressing Opinions & Feelings",
+    "vn": "Bày tỏ ý kiến & Cảm xúc",
+    "color": "#be185d",
+    "phrases": [
+      {
+        "id": "daily-social-001",
+        "en": "In my opinion, this approach works better because...",
+        "vn": "Theo ý kiến của tôi, cách này hiệu quả hơn vì...",
+        "note": ""
+      },
+      {
+        "id": "daily-social-002",
+        "en": "That's a good point, but I see it slightly differently.",
+        "vn": "Đó là điểm hay, nhưng tôi thấy hơi khác một chút.",
+        "note": "Cách phản bác lịch sự"
+      },
+      {
+        "id": "daily-social-003",
+        "en": "I completely agree with you on that.",
+        "vn": "Tôi hoàn toàn đồng ý với bạn về điều đó.",
+        "note": ""
+      },
+      {
+        "id": "daily-social-004",
+        "en": "I'm not sure I agree — could you explain more?",
+        "vn": "Tôi không chắc đồng ý — bạn có thể giải thích thêm không?",
+        "note": ""
+      },
+      {
+        "id": "daily-social-005",
+        "en": "To be honest, I'm not really a fan of that idea.",
+        "vn": "Thật ra, tôi không mấy hứng thú với ý tưởng đó.",
+        "note": "to be honest = thật ra, nói thật"
+      },
+      {
+        "id": "daily-social-006",
+        "en": "That's fascinating! I hadn't thought of it that way.",
+        "vn": "Thú vị thật! Tôi chưa nghĩ theo hướng đó.",
+        "note": ""
+      },
+      {
+        "id": "daily-social-007",
+        "en": "I'm really impressed by how they managed that.",
+        "vn": "Tôi thực sự ấn tượng với cách họ xử lý điều đó.",
+        "note": ""
+      },
+      {
+        "id": "daily-social-008",
+        "en": "Honestly, I'm a bit overwhelmed at the moment.",
+        "vn": "Thật ra, tôi đang hơi bị quá tải lúc này.",
+        "note": "overwhelmed = quá tải, ngập đầu"
+      },
+      {
+        "id": "daily-social-009",
+        "en": "I couldn't agree more — that's exactly how I feel.",
+        "vn": "Tôi đồng ý hoàn toàn — đó chính xác là cảm giác của tôi.",
+        "note": ""
+      },
+      {
+        "id": "daily-social-010",
+        "en": "Let me think about that for a moment.",
+        "vn": "Để tôi suy nghĩ một chút.",
+        "note": "Câu hay để câu giờ khi cần nghĩ"
+      },
+      {
+        "id": "daily-social-011",
+        "en": "I see where you're coming from.",
+        "vn": "Tôi hiểu ý bạn nói.",
+        "note": "Thể hiện bạn đang nghe và hiểu"
+      },
+      {
+        "id": "daily-social-012",
+        "en": "Fair enough — you make a valid point.",
+        "vn": "Có lý đó — bạn đưa ra quan điểm xác đáng.",
+        "note": "fair enough = có lý"
+      }
+    ],
+    "dialogue": [
+      {
+        "id": "daily-social-dial-1",
+        "speaker": "Colleague",
+        "en": "What did you think of the new hospital management system?",
+        "vn": "Bạn nghĩ gì về hệ thống quản lý bệnh viện mới?"
+      },
+      {
+        "id": "daily-social-dial-2",
+        "speaker": "You",
+        "en": "To be honest, I think it has potential, but the interface is quite complex.",
+        "vn": "Thật ra, tôi nghĩ nó có tiềm năng, nhưng giao diện khá phức tạp."
+      },
+      {
+        "id": "daily-social-dial-3",
+        "speaker": "Colleague",
+        "en": "I completely agree. It took me a week just to learn the basics.",
+        "vn": "Tôi hoàn toàn đồng ý. Tôi mất cả tuần chỉ để học cơ bản."
+      },
+      {
+        "id": "daily-social-dial-4",
+        "speaker": "You",
+        "en": "That said, the patient records section is actually very well designed.",
+        "vn": "Tuy nhiên, phần hồ sơ bệnh nhân thực sự được thiết kế rất tốt."
+      },
+      {
+        "id": "daily-social-dial-5",
+        "speaker": "Colleague",
+        "en": "Fair enough. I guess it's just a matter of getting used to it.",
+        "vn": "Có lý đó. Tôi đoán chỉ là vấn đề làm quen thôi."
+      }
+    ],
+    "vocab": [
+      {
+        "id": "daily-social-vocab-1",
+        "word": "overwhelmed",
+        "phonetic": "/ˌoʊvərˈwelmd/",
+        "meaning": "quá tải, ngập đầu"
+      },
+      {
+        "id": "daily-social-vocab-2",
+        "word": "fair enough",
+        "phonetic": "/feər ɪˈnʌf/",
+        "meaning": "có lý, được thôi"
+      },
+      {
+        "id": "daily-social-vocab-3",
+        "word": "valid",
+        "phonetic": "/ˈvælɪd/",
+        "meaning": "hợp lệ, xác đáng"
+      },
+      {
+        "id": "daily-social-vocab-4",
+        "word": "potential",
+        "phonetic": "/pəˈtenʃəl/",
+        "meaning": "tiềm năng"
+      },
+      {
+        "id": "daily-social-vocab-5",
+        "word": "fascinating",
+        "phonetic": "/ˈfæsɪneɪtɪŋ/",
+        "meaning": "hấp dẫn, thú vị"
+      }
+    ],
+    "tips": [
+      "Khi không đồng ý: bắt đầu bằng 'I see your point, but...' — thể hiện bạn đã nghe đối phương.",
+      "'Let me think about that' = câu câu giờ rất tự nhiên, không có gì sai khi nói câu này.",
+      "Thêm 'actually' để nhấn mạnh: 'I actually really liked it!' — thực ra tôi rất thích nó!"
+    ]
+  },
+  "plans": {
+    "id": "plans",
+    "icon": "📅",
+    "title": "Making Plans & Invitations",
+    "vn": "Lên kế hoạch & Mời mọc",
+    "color": "#0f766e",
+    "phrases": [
+      {
+        "id": "daily-plans-001",
+        "en": "Are you free this weekend?",
+        "vn": "Cuối tuần này bạn rảnh không?",
+        "note": ""
+      },
+      {
+        "id": "daily-plans-002",
+        "en": "Would you like to grab dinner after the conference?",
+        "vn": "Bạn có muốn ăn tối sau hội nghị không?",
+        "note": "grab = rủ đi (thân mật)"
+      },
+      {
+        "id": "daily-plans-003",
+        "en": "I was wondering if you'd like to join us for drinks?",
+        "vn": "Tôi tự hỏi liệu bạn có muốn cùng chúng tôi đi uống không?",
+        "note": "Cách mời lịch sự, ít áp lực hơn"
+      },
+      {
+        "id": "daily-plans-004",
+        "en": "That sounds great! What time were you thinking?",
+        "vn": "Nghe hay đó! Bạn nghĩ khoảng mấy giờ?",
+        "note": ""
+      },
+      {
+        "id": "daily-plans-005",
+        "en": "I'd love to, but I have a prior commitment.",
+        "vn": "Tôi rất muốn, nhưng tôi có việc đã hẹn trước.",
+        "note": "prior commitment = việc đã có trước"
+      },
+      {
+        "id": "daily-plans-006",
+        "en": "Could we do it another time? I'm swamped this week.",
+        "vn": "Chúng ta có thể làm lần khác không? Tuần này tôi kẹt lắm.",
+        "note": "swamped = ngập đầu công việc"
+      },
+      {
+        "id": "daily-plans-007",
+        "en": "Let me check and get back to you.",
+        "vn": "Để tôi kiểm tra rồi trả lời bạn sau.",
+        "note": ""
+      },
+      {
+        "id": "daily-plans-008",
+        "en": "Count me in!",
+        "vn": "Tính tôi vào!",
+        "note": "count me in = tôi tham gia"
+      },
+      {
+        "id": "daily-plans-009",
+        "en": "I'll have to take a rain check on that.",
+        "vn": "Tôi phải hoãn lại lần này.",
+        "note": "rain check = hẹn lại lần khác (thành ngữ Mỹ)"
+      },
+      {
+        "id": "daily-plans-010",
+        "en": "Do you want to split a cab to the restaurant?",
+        "vn": "Bạn có muốn đi chung taxi đến nhà hàng không?",
+        "note": "split a cab = đi chung taxi chia tiền"
+      },
+      {
+        "id": "daily-plans-011",
+        "en": "It's my treat tonight.",
+        "vn": "Tối nay tôi mời.",
+        "note": "my treat = tôi mời (trả tiền)"
+      },
+      {
+        "id": "daily-plans-012",
+        "en": "Dutch? We'll split the bill.",
+        "vn": "Chia đôi nhé? Chúng ta chia tiền.",
+        "note": "go Dutch = chia tiền"
+      }
+    ],
+    "dialogue": [
+      {
+        "id": "daily-plans-dial-1",
+        "speaker": "Colleague",
+        "en": "A few of us are going to that new seafood place tonight. Want to join?",
+        "vn": "Một số chúng tôi đang đến nhà hàng hải sản mới tối nay. Bạn muốn đi không?"
+      },
+      {
+        "id": "daily-plans-dial-2",
+        "speaker": "You",
+        "en": "That sounds amazing! What time?",
+        "vn": "Nghe hấp dẫn quá! Mấy giờ vậy?"
+      },
+      {
+        "id": "daily-plans-dial-3",
+        "speaker": "Colleague",
+        "en": "We're heading there around 7:30. Meet at the hotel lobby?",
+        "vn": "Chúng tôi đi khoảng 7:30. Gặp nhau ở sảnh khách sạn nhé?"
+      },
+      {
+        "id": "daily-plans-dial-4",
+        "speaker": "You",
+        "en": "Perfect. Just so you know, I'm allergic to shellfish.",
+        "vn": "Tuyệt. Bạn biết đấy, tôi dị ứng hải sản có vỏ."
+      },
+      {
+        "id": "daily-plans-dial-5",
+        "speaker": "Colleague",
+        "en": "Good to know! They have plenty of other options too.",
+        "vn": "Tốt là biết trước! Họ có nhiều lựa chọn khác nữa."
+      },
+      {
+        "id": "daily-plans-dial-6",
+        "speaker": "You",
+        "en": "Great. Should we split a cab? It might be faster.",
+        "vn": "Tốt. Chúng ta đi chung taxi không? Có thể nhanh hơn."
+      },
+      {
+        "id": "daily-plans-dial-7",
+        "speaker": "Colleague",
+        "en": "Good idea. See you at 7:15 then!",
+        "vn": "Ý hay đó. Hẹn gặp lúc 7:15 nhé!"
+      }
+    ],
+    "vocab": [
+      {
+        "id": "daily-plans-vocab-1",
+        "word": "prior commitment",
+        "phonetic": "/ˈpraɪər kəˈmɪtmənt/",
+        "meaning": "việc đã hẹn trước"
+      },
+      {
+        "id": "daily-plans-vocab-2",
+        "word": "swamped",
+        "phonetic": "/swɒmpt/",
+        "meaning": "ngập đầu công việc"
+      },
+      {
+        "id": "daily-plans-vocab-3",
+        "word": "rain check",
+        "phonetic": "/reɪn tʃek/",
+        "meaning": "hẹn lại lần khác"
+      },
+      {
+        "id": "daily-plans-vocab-4",
+        "word": "count me in",
+        "phonetic": "/kaʊnt miː ɪn/",
+        "meaning": "tính tôi vào, tôi đồng ý tham gia"
+      },
+      {
+        "id": "daily-plans-vocab-5",
+        "word": "my treat",
+        "phonetic": "/maɪ triːt/",
+        "meaning": "tôi mời, tôi trả tiền"
+      }
+    ],
+    "tips": [
+      "'I'll have to take a rain check' = từ chối lịch sự, ngụ ý muốn hẹn lần khác.",
+      "'Count me in!' = câu nhiệt tình, tự nhiên khi đồng ý tham gia.",
+      "Từ chối lịch sự: luôn có 'I'd love to, but...' trước khi nêu lý do."
+    ]
+  },
+  "problems": {
+    "id": "problems",
+    "icon": "⚠️",
+    "title": "Handling Problems & Complaints",
+    "vn": "Xử lý vấn đề & Phàn nàn",
+    "color": "#b45309",
+    "phrases": [
+      {
+        "id": "daily-problems-001",
+        "en": "Excuse me, I think there's been a mistake with my order.",
+        "vn": "Xin lỗi, tôi nghĩ có sự nhầm lẫn với đơn của tôi.",
+        "note": ""
+      },
+      {
+        "id": "daily-problems-002",
+        "en": "I'm not happy with the service I received today.",
+        "vn": "Tôi không hài lòng với dịch vụ hôm nay.",
+        "note": "Câu phàn nàn nhẹ nhàng"
+      },
+      {
+        "id": "daily-problems-003",
+        "en": "I'd like to speak with the manager, please.",
+        "vn": "Tôi muốn nói chuyện với quản lý.",
+        "note": ""
+      },
+      {
+        "id": "daily-problems-004",
+        "en": "This isn't what I was told. I was promised that...",
+        "vn": "Đây không phải những gì tôi được nói. Tôi được hứa rằng...",
+        "note": ""
+      },
+      {
+        "id": "daily-problems-005",
+        "en": "Could you help me resolve this issue?",
+        "vn": "Bạn có thể giúp tôi giải quyết vấn đề này không?",
+        "note": ""
+      },
+      {
+        "id": "daily-problems-006",
+        "en": "I was overcharged. The menu says $15 but I was charged $20.",
+        "vn": "Tôi bị tính tiền sai. Menu ghi 15$ nhưng tôi bị tính 20$.",
+        "note": ""
+      },
+      {
+        "id": "daily-problems-007",
+        "en": "I'd like a refund, please.",
+        "vn": "Tôi muốn được hoàn tiền.",
+        "note": "refund = hoàn tiền"
+      },
+      {
+        "id": "daily-problems-008",
+        "en": "There's been a mix-up with my booking.",
+        "vn": "Có sự nhầm lẫn với đặt chỗ của tôi.",
+        "note": "mix-up = nhầm lẫn"
+      },
+      {
+        "id": "daily-problems-009",
+        "en": "I understand you're busy, but this has been going on for a while.",
+        "vn": "Tôi hiểu bạn đang bận, nhưng vấn đề này đã kéo dài một lúc rồi.",
+        "note": ""
+      },
+      {
+        "id": "daily-problems-010",
+        "en": "I appreciate your help in sorting this out.",
+        "vn": "Tôi đánh giá cao sự giúp đỡ của bạn trong việc giải quyết điều này.",
+        "note": "sorting out = giải quyết, sắp xếp"
+      },
+      {
+        "id": "daily-problems-011",
+        "en": "Could I have that in writing?",
+        "vn": "Tôi có thể có điều đó bằng văn bản không?",
+        "note": ""
+      },
+      {
+        "id": "daily-problems-012",
+        "en": "I'll follow up with an email.",
+        "vn": "Tôi sẽ theo dõi bằng email.",
+        "note": ""
+      }
+    ],
+    "dialogue": [
+      {
+        "id": "daily-problems-dial-1",
+        "speaker": "You",
+        "en": "Excuse me, I think there's been an issue with my hotel room charge.",
+        "vn": "Xin lỗi, tôi nghĩ có vấn đề với phí phòng khách sạn của tôi."
+      },
+      {
+        "id": "daily-problems-dial-2",
+        "speaker": "Manager",
+        "en": "I'm sorry to hear that. Could you tell me what happened?",
+        "vn": "Tôi rất tiếc khi nghe điều đó. Bạn có thể cho tôi biết chuyện gì xảy ra không?"
+      },
+      {
+        "id": "daily-problems-dial-3",
+        "speaker": "You",
+        "en": "I booked a standard room but was charged for a suite. The difference is $150.",
+        "vn": "Tôi đặt phòng tiêu chuẩn nhưng bị tính tiền phòng suite. Chênh lệch là 150$."
+      },
+      {
+        "id": "daily-problems-dial-4",
+        "speaker": "Manager",
+        "en": "Let me look into that for you right away. Could I have your room number?",
+        "vn": "Để tôi xem ngay. Cho tôi số phòng của bạn được không?"
+      },
+      {
+        "id": "daily-problems-dial-5",
+        "speaker": "You",
+        "en": "Room 1402. I also have the original booking confirmation here.",
+        "vn": "Phòng 1402. Tôi cũng có xác nhận đặt phòng gốc ở đây."
+      },
+      {
+        "id": "daily-problems-dial-6",
+        "speaker": "Manager",
+        "en": "You're absolutely right. I do apologize — we'll adjust the bill immediately.",
+        "vn": "Bạn hoàn toàn đúng. Tôi xin lỗi — chúng tôi sẽ điều chỉnh hóa đơn ngay."
+      },
+      {
+        "id": "daily-problems-dial-7",
+        "speaker": "You",
+        "en": "Thank you. Could I have a revised receipt?",
+        "vn": "Cảm ơn. Tôi có thể nhận hóa đơn đã sửa không?"
+      }
+    ],
+    "vocab": [
+      {
+        "id": "daily-problems-vocab-1",
+        "word": "refund",
+        "phonetic": "/ˈriːfʌnd/",
+        "meaning": "hoàn tiền"
+      },
+      {
+        "id": "daily-problems-vocab-2",
+        "word": "overcharged",
+        "phonetic": "/ˌoʊvərˈtʃɑːrdʒd/",
+        "meaning": "bị tính tiền quá nhiều"
+      },
+      {
+        "id": "daily-problems-vocab-3",
+        "word": "mix-up",
+        "phonetic": "/ˈmɪksʌp/",
+        "meaning": "nhầm lẫn"
+      },
+      {
+        "id": "daily-problems-vocab-4",
+        "word": "sort out",
+        "phonetic": "/sɔːrt aʊt/",
+        "meaning": "giải quyết, sắp xếp"
+      },
+      {
+        "id": "daily-problems-vocab-5",
+        "word": "in writing",
+        "phonetic": "/ɪn ˈraɪtɪŋ/",
+        "meaning": "bằng văn bản"
+      }
+    ],
+    "tips": [
+      "Khi phàn nàn: giữ giọng bình tĩnh, rõ ràng — không tức giận sẽ được giải quyết nhanh hơn.",
+      "Luôn có bằng chứng: booking confirmation, hóa đơn cũ, ảnh chụp.",
+      "Câu kết hiệu quả: 'What can you do for me?' — Bạn có thể làm gì cho tôi?"
+    ]
+  },
+  "clarification": {
+    "id": "clarification",
+    "icon": "🤔",
+    "title": "When You Don't Understand",
+    "vn": "Khi chưa hiểu / Hỏi lại",
+    "color": "#6d28d9",
+    "phrases": [
+      {
+        "id": "daily-clarification-001",
+        "en": "Sorry, I didn't quite catch that. Could you repeat?",
+        "vn": "Xin lỗi, tôi không bắt kịp. Bạn có thể nói lại không?",
+        "note": "CÂU QUAN TRỌNG NHẤT — dùng tự tin!"
+      },
+      {
+        "id": "daily-clarification-002",
+        "en": "Could you slow down a little? My English is still improving.",
+        "vn": "Bạn có thể nói chậm hơn không? Tiếng Anh của tôi vẫn đang cải thiện.",
+        "note": ""
+      },
+      {
+        "id": "daily-clarification-003",
+        "en": "I'm sorry, could you say that in a different way?",
+        "vn": "Xin lỗi, bạn có thể diễn đạt theo cách khác không?",
+        "note": ""
+      },
+      {
+        "id": "daily-clarification-004",
+        "en": "Could you spell that out for me?",
+        "vn": "Bạn có thể đánh vần cho tôi không?",
+        "note": "Khi không nghe rõ tên/từ lạ"
+      },
+      {
+        "id": "daily-clarification-005",
+        "en": "What does [word] mean exactly?",
+        "vn": "[từ] có nghĩa chính xác là gì?",
+        "note": ""
+      },
+      {
+        "id": "daily-clarification-006",
+        "en": "So if I understand correctly, you're saying that...",
+        "vn": "Vậy nếu tôi hiểu đúng, bạn đang nói rằng...",
+        "note": "Xác nhận lại ý hiểu — rất chuyên nghiệp"
+      },
+      {
+        "id": "daily-clarification-007",
+        "en": "Let me make sure I understand — you mean...?",
+        "vn": "Để tôi chắc chắn tôi hiểu — ý bạn là...?",
+        "note": ""
+      },
+      {
+        "id": "daily-clarification-008",
+        "en": "Could you write that down? I want to make sure I get it right.",
+        "vn": "Bạn có thể viết ra không? Tôi muốn đảm bảo hiểu đúng.",
+        "note": ""
+      },
+      {
+        "id": "daily-clarification-009",
+        "en": "Sorry — the line is a bit unclear. Could you repeat that?",
+        "vn": "Xin lỗi — đường dây hơi không rõ. Bạn có thể nói lại không?",
+        "note": "Dùng qua điện thoại"
+      },
+      {
+        "id": "daily-clarification-010",
+        "en": "I think I understand, but let me confirm — you said [X], right?",
+        "vn": "Tôi nghĩ tôi hiểu, nhưng để tôi xác nhận — bạn nói [X], đúng không?",
+        "note": ""
+      },
+      {
+        "id": "daily-clarification-011",
+        "en": "Bear with me — I'm still thinking of the right word.",
+        "vn": "Chịu khó đợi tôi một chút — tôi vẫn đang nghĩ từ phù hợp.",
+        "note": "bear with me = kiên nhẫn với tôi"
+      },
+      {
+        "id": "daily-clarification-012",
+        "en": "Excuse my English — I'm still learning.",
+        "vn": "Xin lỗi vì tiếng Anh của tôi — tôi vẫn đang học.",
+        "note": "Câu tự tin và chân thành"
+      }
+    ],
+    "dialogue": [
+      {
+        "id": "daily-clarification-dial-1",
+        "speaker": "Colleague",
+        "en": "So for the case presentation, you'll need to include the aetiology and pathophysiology.",
+        "vn": "Vậy để trình bày ca, bạn cần bao gồm căn nguyên và sinh lý bệnh học."
+      },
+      {
+        "id": "daily-clarification-dial-2",
+        "speaker": "You",
+        "en": "Sorry — could you say that again? I'm not sure I caught the second part.",
+        "vn": "Xin lỗi — bạn có thể nói lại không? Tôi không chắc mình nghe rõ phần thứ hai."
+      },
+      {
+        "id": "daily-clarification-dial-3",
+        "speaker": "Colleague",
+        "en": "Of course. I said aetiology — which is the cause — and pathophysiology.",
+        "vn": "Dĩ nhiên. Tôi nói căn nguyên — là nguyên nhân — và sinh lý bệnh học."
+      },
+      {
+        "id": "daily-clarification-dial-4",
+        "speaker": "You",
+        "en": "I see. So if I understand correctly, you mean the cause and the disease mechanism?",
+        "vn": "Tôi hiểu rồi. Vậy nếu tôi hiểu đúng, bạn muốn nói nguyên nhân và cơ chế bệnh?"
+      },
+      {
+        "id": "daily-clarification-dial-5",
+        "speaker": "Colleague",
+        "en": "Exactly right! Your understanding is perfect.",
+        "vn": "Chính xác! Bạn hiểu rất tốt."
+      },
+      {
+        "id": "daily-clarification-dial-6",
+        "speaker": "You",
+        "en": "Thank you. Bear with me — I'm still getting used to the medical terminology in English.",
+        "vn": "Cảm ơn. Chịu khó đợi tôi — tôi vẫn đang làm quen với thuật ngữ y khoa bằng tiếng Anh."
+      }
+    ],
+    "vocab": [
+      {
+        "id": "daily-clarification-vocab-1",
+        "word": "bear with me",
+        "phonetic": "/beər wɪð miː/",
+        "meaning": "kiên nhẫn với tôi, chịu đợi"
+      },
+      {
+        "id": "daily-clarification-vocab-2",
+        "word": "clarify",
+        "phonetic": "/ˈklærɪfaɪ/",
+        "meaning": "làm rõ, giải thích rõ"
+      },
+      {
+        "id": "daily-clarification-vocab-3",
+        "word": "aetiology",
+        "phonetic": "/ˌiːtiˈɒlədʒi/",
+        "meaning": "căn nguyên (nguyên nhân bệnh)"
+      },
+      {
+        "id": "daily-clarification-vocab-4",
+        "word": "paraphrase",
+        "phonetic": "/ˈpærəfreɪz/",
+        "meaning": "diễn đạt lại bằng lời khác"
+      },
+      {
+        "id": "daily-clarification-vocab-5",
+        "word": "confirm",
+        "phonetic": "/kənˈfɜːrm/",
+        "meaning": "xác nhận"
+      }
+    ],
+    "tips": [
+      "ĐỪNG GIẢ VỜ HIỂU — hỏi lại là dấu hiệu của người thông minh, không phải yếu kém.",
+      "Kỹ thuật hay: lặp lại những gì nghe được 'So you mean... ?' để kiểm tra xem có đúng không.",
+      "'Excuse my English' là câu tự tin và chân thành — người bản xứ sẽ trân trọng điều này."
+    ]
+  }
+}

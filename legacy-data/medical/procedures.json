@@ -1,0 +1,354 @@
+[
+  {
+    "id": "earwax",
+    "icon": "👂",
+    "name": "Earwax Removal",
+    "vn": "Lấy ráy tai",
+    "steps": [
+      {
+        "id": "med-proc-001-step-1",
+        "en": "I need to remove some earwax from your ear today.",
+        "vn": "Hôm nay tôi cần lấy ráy tai cho bạn."
+      },
+      {
+        "id": "med-proc-001-step-2",
+        "en": "Please lie on your side — the right ear facing up.",
+        "vn": "Vui lòng nằm nghiêng, tai phải hướng lên trên."
+      },
+      {
+        "id": "med-proc-001-step-3",
+        "en": "First, I'll soften the earwax with a few drops of glycerine. This will take about 10 minutes.",
+        "vn": "Đầu tiên tôi sẽ nhỏ glycerine để làm mềm ráy tai, khoảng 10 phút."
+      },
+      {
+        "id": "med-proc-001-step-4",
+        "en": "I'm going to use a suction device to remove the earwax. You may hear a suction sound — that's normal.",
+        "vn": "Tôi sẽ dùng máy hút để lấy ráy tai. Bạn sẽ nghe tiếng hút — bình thường."
+      },
+      {
+        "id": "med-proc-001-step-5",
+        "en": "Please hold very still. Try not to move your head.",
+        "vn": "Vui lòng giữ thật yên. Đừng cử động đầu."
+      },
+      {
+        "id": "med-proc-001-step-6",
+        "en": "You may feel some mild discomfort but it should not be painful. Tell me if it hurts.",
+        "vn": "Bạn có thể hơi khó chịu nhưng không nên đau. Cho tôi biết nếu đau."
+      },
+      {
+        "id": "med-proc-001-step-7",
+        "en": "I've finished. The earwax has been removed successfully.",
+        "vn": "Xong rồi. Đã lấy ráy tai thành công."
+      },
+      {
+        "id": "med-proc-001-step-8",
+        "en": "Please avoid getting water in your ear for the next 24 hours.",
+        "vn": "Tránh để nước vào tai trong 24 giờ tới."
+      }
+    ]
+  },
+  {
+    "id": "ear-wash",
+    "icon": "💧",
+    "name": "Ear Canal Irrigation",
+    "vn": "Rửa ống tai ngoài",
+    "steps": [
+      {
+        "id": "med-proc-002-step-1",
+        "en": "I'm going to clean your ear canal today.",
+        "vn": "Tôi sẽ rửa sạch ống tai của bạn hôm nay."
+      },
+      {
+        "id": "med-proc-002-step-2",
+        "en": "Please lie on your side, with the affected ear facing up.",
+        "vn": "Vui lòng nằm nghiêng, tai cần rửa hướng lên."
+      },
+      {
+        "id": "med-proc-002-step-3",
+        "en": "I'll flush your ear with a diluted hydrogen peroxide solution. It may bubble — that's normal.",
+        "vn": "Tôi sẽ bơm dung dịch oxy già pha loãng. Có thể có bọt — bình thường."
+      },
+      {
+        "id": "med-proc-002-step-4",
+        "en": "Then I'll use a suction device to remove the fluid and discharge.",
+        "vn": "Sau đó tôi dùng máy hút để hút dịch và mủ ra."
+      },
+      {
+        "id": "med-proc-002-step-5",
+        "en": "I'll clean the outer ear canal with povidone-iodine solution.",
+        "vn": "Tôi sẽ vệ sinh ống tai ngoài bằng dung dịch povidine pha loãng."
+      },
+      {
+        "id": "med-proc-002-step-6",
+        "en": "How are you feeling? Any pain or discomfort?",
+        "vn": "Bạn thấy thế nào? Có đau hay khó chịu không?"
+      },
+      {
+        "id": "med-proc-002-step-7",
+        "en": "The procedure is complete. Your ear is clean now.",
+        "vn": "Thủ thuật xong rồi. Tai bạn đã sạch."
+      }
+    ]
+  },
+  {
+    "id": "nasal-wash",
+    "icon": "🌊",
+    "name": "Nasal Sinus Irrigation",
+    "vn": "Rửa mũi xoang (HRM)",
+    "steps": [
+      {
+        "id": "med-proc-003-step-1",
+        "en": "I'm going to wash out your nasal sinuses today.",
+        "vn": "Hôm nay tôi sẽ rửa mũi xoang cho bạn."
+      },
+      {
+        "id": "med-proc-003-step-2",
+        "en": "Please lean your head back as far as comfortable.",
+        "vn": "Hãy ngửa đầu ra sau hết mức bạn thoải mái."
+      },
+      {
+        "id": "med-proc-003-step-3",
+        "en": "First I'll apply a decongestant spray to open up your nasal passages.",
+        "vn": "Đầu tiên tôi sẽ xịt thuốc co mạch để thông mũi."
+      },
+      {
+        "id": "med-proc-003-step-4",
+        "en": "I'll now block one nostril and ask you to say 'kê kê kê' to close your soft palate.",
+        "vn": "Tôi bịt một bên mũi và nhờ bạn nói 'kê kê kê' để đóng buồm hàm."
+      },
+      {
+        "id": "med-proc-003-step-5",
+        "en": "I'll flush the saline solution in and then suction it out with the secretions.",
+        "vn": "Tôi sẽ bơm nước muối vào và hút ra cùng dịch tiết."
+      },
+      {
+        "id": "med-proc-003-step-6",
+        "en": "After the irrigation, I'll put the medication into your sinuses.",
+        "vn": "Sau khi rửa, tôi sẽ đặt thuốc vào xoang cho bạn."
+      },
+      {
+        "id": "med-proc-003-step-7",
+        "en": "Please remain lying down for a few minutes so the medication doesn't drain into your throat.",
+        "vn": "Vui lòng nằm vài phút để thuốc không chảy xuống họng."
+      }
+    ]
+  },
+  {
+    "id": "ear-drops",
+    "icon": "💊",
+    "name": "Ear Drop Administration",
+    "vn": "Nhỏ tai (NT)",
+    "steps": [
+      {
+        "id": "med-proc-004-step-1",
+        "en": "I'm going to put some ear drops in your ear.",
+        "vn": "Tôi sẽ nhỏ thuốc vào tai bạn."
+      },
+      {
+        "id": "med-proc-004-step-2",
+        "en": "Please tilt your head so the affected ear faces upward.",
+        "vn": "Vui lòng nghiêng đầu để tai cần nhỏ thuốc hướng lên."
+      },
+      {
+        "id": "med-proc-004-step-3",
+        "en": "I'll put 5 drops into the ear. You'll feel the drops go in — stay still for a moment.",
+        "vn": "Tôi sẽ nhỏ 5 giọt vào tai. Bạn sẽ cảm thấy giọt thuốc — giữ yên một lúc."
+      },
+      {
+        "id": "med-proc-004-step-4",
+        "en": "At home, use the ear drops twice a day — morning and evening. 5 drops each time.",
+        "vn": "Ở nhà dùng thuốc nhỏ tai 2 lần/ngày — sáng và tối. Mỗi lần 5 giọt."
+      },
+      {
+        "id": "med-proc-004-step-5",
+        "en": "After putting the drops in, press gently on the small bump in front of your ear to help the drops go in.",
+        "vn": "Sau khi nhỏ thuốc, ấn nhẹ vào nắp tai phía trước để thuốc vào sâu hơn."
+      }
+    ]
+  },
+  {
+    "id": "nasal-spray",
+    "icon": "💨",
+    "name": "Nasal Spray Instruction",
+    "vn": "Xịt mũi (XM)",
+    "steps": [
+      {
+        "id": "med-proc-005-step-1",
+        "en": "I'm prescribing a nasal spray for you.",
+        "vn": "Tôi kê thuốc xịt mũi cho bạn."
+      },
+      {
+        "id": "med-proc-005-step-2",
+        "en": "Use it once every morning — 2 sprays in each nostril.",
+        "vn": "Dùng mỗi buổi sáng — 2 nhát mỗi bên mũi."
+      },
+      {
+        "id": "med-proc-005-step-3",
+        "en": "Before using, blow your nose gently to clear it.",
+        "vn": "Trước khi xịt, hỉ mũi nhẹ nhàng để thông mũi."
+      },
+      {
+        "id": "med-proc-005-step-4",
+        "en": "Point the nozzle slightly outward — away from the center of your nose.",
+        "vn": "Hướng đầu xịt hơi ra ngoài — không nhắm vào vách ngăn mũi."
+      },
+      {
+        "id": "med-proc-005-step-5",
+        "en": "Breathe in gently through your nose as you spray.",
+        "vn": "Hít nhẹ qua mũi trong khi xịt."
+      },
+      {
+        "id": "med-proc-005-step-6",
+        "en": "Don't blow your nose immediately after — wait at least 5 minutes.",
+        "vn": "Không hỉ mũi ngay sau khi xịt — đợi ít nhất 5 phút."
+      }
+    ]
+  },
+  {
+    "id": "endoscopy",
+    "icon": "🔭",
+    "name": "Nasal Endoscopy",
+    "vn": "Nội soi mũi",
+    "steps": [
+      {
+        "id": "med-proc-006-step-1",
+        "en": "I need to perform a nasal endoscopy to examine the inside of your nose.",
+        "vn": "Tôi cần nội soi mũi để xem bên trong mũi bạn."
+      },
+      {
+        "id": "med-proc-006-step-2",
+        "en": "I'll insert a thin, flexible tube with a small camera into your nose.",
+        "vn": "Tôi sẽ đưa ống nhỏ có camera vào mũi bạn."
+      },
+      {
+        "id": "med-proc-006-step-3",
+        "en": "First, I'll apply some local anesthetic to reduce discomfort.",
+        "vn": "Đầu tiên tôi sẽ xịt thuốc tê tại chỗ để giảm khó chịu."
+      },
+      {
+        "id": "med-proc-006-step-4",
+        "en": "You'll feel some pressure but it should not be painful. Please breathe through your mouth.",
+        "vn": "Bạn sẽ cảm thấy áp lực nhưng không nên đau. Hãy thở bằng miệng."
+      },
+      {
+        "id": "med-proc-006-step-5",
+        "en": "I can see some polyps / inflammation / mucus in your nasal passage.",
+        "vn": "Tôi thấy có polyp / viêm / dịch nhầy trong đường mũi bạn."
+      },
+      {
+        "id": "med-proc-006-step-6",
+        "en": "The examination is complete. Please don't blow your nose forcefully for the next hour.",
+        "vn": "Khám xong rồi. Vui lòng không hỉ mũi mạnh trong vòng 1 giờ."
+      }
+    ]
+  },
+  {
+    "id": "foreign-body-ear",
+    "icon": "🔎",
+    "name": "Foreign Body — Ear",
+    "vn": "Lấy dị vật tai",
+    "steps": [
+      {
+        "id": "med-proc-007-step-1",
+        "en": "I can see there's a foreign object in your ear. I'll remove it for you.",
+        "vn": "Tôi thấy có dị vật trong tai bạn. Tôi sẽ lấy ra cho bạn."
+      },
+      {
+        "id": "med-proc-007-step-2",
+        "en": "Please remain very still during this procedure. It's important you don't move.",
+        "vn": "Vui lòng giữ thật yên trong khi làm thủ thuật. Quan trọng là không cử động."
+      },
+      {
+        "id": "med-proc-007-step-3",
+        "en": "I'll use a specialized instrument to gently remove the object.",
+        "vn": "Tôi sẽ dùng dụng cụ chuyên biệt để lấy dị vật ra nhẹ nhàng."
+      },
+      {
+        "id": "med-proc-007-step-4",
+        "en": "This may feel a little uncomfortable but I'll be as gentle as possible.",
+        "vn": "Có thể hơi khó chịu nhưng tôi sẽ cố gắng nhẹ nhàng nhất có thể."
+      },
+      {
+        "id": "med-proc-007-step-5",
+        "en": "The object has been removed. Your ear looks clear now.",
+        "vn": "Đã lấy dị vật ra rồi. Tai bạn trông ổn rồi."
+      },
+      {
+        "id": "med-proc-007-step-6",
+        "en": "Make sure nothing is placed in the ear again.",
+        "vn": "Đảm bảo không đặt gì vào tai nữa."
+      }
+    ]
+  },
+  {
+    "id": "foreign-body-nose",
+    "icon": "👃",
+    "name": "Foreign Body — Nose",
+    "vn": "Lấy dị vật mũi",
+    "steps": [
+      {
+        "id": "med-proc-008-step-1",
+        "en": "Your child has a foreign object stuck in their nose. I'll remove it now.",
+        "vn": "Con bạn có dị vật trong mũi. Tôi sẽ lấy ra ngay bây giờ."
+      },
+      {
+        "id": "med-proc-008-step-2",
+        "en": "Please keep your child as calm and still as possible.",
+        "vn": "Vui lòng giữ cho trẻ bình tĩnh và yên tĩnh nhất có thể."
+      },
+      {
+        "id": "med-proc-008-step-3",
+        "en": "I'll use a small instrument to carefully retrieve the object.",
+        "vn": "Tôi sẽ dùng dụng cụ nhỏ để cẩn thận lấy dị vật ra."
+      },
+      {
+        "id": "med-proc-008-step-4",
+        "en": "Try not to try to remove it yourself — it can push the object further in.",
+        "vn": "Đừng tự lấy — có thể đẩy dị vật vào sâu hơn."
+      },
+      {
+        "id": "med-proc-008-step-5",
+        "en": "Done! The object is out. Please watch that this doesn't happen again.",
+        "vn": "Xong rồi! Đã lấy được. Vui lòng chú ý để không xảy ra lần nữa."
+      }
+    ]
+  },
+  {
+    "id": "nebulization",
+    "icon": "💨",
+    "name": "Nebulization (KDH/KDM)",
+    "vn": "Xông khí dung họng/mũi",
+    "steps": [
+      {
+        "id": "med-proc-009-step-1",
+        "en": "I'm going to give you a nebulizer treatment for your throat and nose.",
+        "vn": "Tôi sẽ cho bạn xông khí dung họng và mũi."
+      },
+      {
+        "id": "med-proc-009-step-2",
+        "en": "Please sit in a relaxed, comfortable position.",
+        "vn": "Vui lòng ngồi thư giãn, thoải mái."
+      },
+      {
+        "id": "med-proc-009-step-3",
+        "en": "This mask will deliver the medicated mist — breathe normally through it.",
+        "vn": "Mặt nạ này sẽ đưa thuốc dạng sương — thở bình thường qua đó."
+      },
+      {
+        "id": "med-proc-009-step-4",
+        "en": "The treatment takes about 10–15 minutes. Just relax.",
+        "vn": "Điều trị mất khoảng 10–15 phút. Cứ thư giãn."
+      },
+      {
+        "id": "med-proc-009-step-5",
+        "en": "The medication contains an anti-inflammatory and an antibiotic.",
+        "vn": "Thuốc có chứa kháng viêm và kháng sinh."
+      },
+      {
+        "id": "med-proc-009-step-6",
+        "en": "Try to breathe in deeply and slowly through your nose.",
+        "vn": "Cố hít thở sâu và chậm qua mũi."
+      }
+    ]
+  }
+]

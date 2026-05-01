@@ -1,0 +1,243 @@
+{
+  "restaurant": {
+    "label": "🍜 Nhà Hàng",
+    "phrases": [
+      {
+        "id": "med-daily-restaurant-001",
+        "en": "A table for two, please.",
+        "vn": "Cho tôi một bàn cho 2 người.",
+        "note": ""
+      },
+      {
+        "id": "med-daily-restaurant-002",
+        "en": "Could I see the menu, please?",
+        "vn": "Cho tôi xem thực đơn được không?",
+        "note": ""
+      },
+      {
+        "id": "med-daily-restaurant-003",
+        "en": "I'd like to order, please.",
+        "vn": "Tôi muốn gọi món.",
+        "note": ""
+      },
+      {
+        "id": "med-daily-restaurant-004",
+        "en": "What do you recommend?",
+        "vn": "Bạn gợi ý món gì?",
+        "note": "Câu hỏi tự nhiên và lịch sự"
+      },
+      {
+        "id": "med-daily-restaurant-005",
+        "en": "I'm allergic to shellfish.",
+        "vn": "Tôi bị dị ứng hải sản có vỏ.",
+        "note": "shellfish = tôm cua ốc"
+      },
+      {
+        "id": "med-daily-restaurant-006",
+        "en": "Could I have the bill, please?",
+        "vn": "Cho tôi tính tiền được không?",
+        "note": ""
+      },
+      {
+        "id": "med-daily-restaurant-007",
+        "en": "Is service charge included?",
+        "vn": "Đã bao gồm phí phục vụ chưa?",
+        "note": ""
+      },
+      {
+        "id": "med-daily-restaurant-008",
+        "en": "This is delicious! Compliments to the chef.",
+        "vn": "Ngon lắm! Khen đầu bếp giúp tôi.",
+        "note": ""
+      }
+    ]
+  },
+  "airport": {
+    "label": "✈️ Sân Bay",
+    "phrases": [
+      {
+        "id": "med-daily-airport-001",
+        "en": "Where is the check-in counter for Vietnam Airlines?",
+        "vn": "Quầy check-in của Vietnam Airlines ở đâu?",
+        "note": ""
+      },
+      {
+        "id": "med-daily-airport-002",
+        "en": "I'd like a window seat, please.",
+        "vn": "Cho tôi ghế cạnh cửa sổ.",
+        "note": "window seat = ghế cửa sổ, aisle seat = ghế lối đi"
+      },
+      {
+        "id": "med-daily-airport-003",
+        "en": "Is this flight on time?",
+        "vn": "Chuyến bay này có đúng giờ không?",
+        "note": ""
+      },
+      {
+        "id": "med-daily-airport-004",
+        "en": "My flight has been delayed. Can you rebook me?",
+        "vn": "Chuyến bay của tôi bị delay. Bạn có thể đặt lại không?",
+        "note": ""
+      },
+      {
+        "id": "med-daily-airport-005",
+        "en": "Where is gate B12?",
+        "vn": "Cửa ra máy bay B12 ở đâu?",
+        "note": "gate = cửa ra máy bay"
+      },
+      {
+        "id": "med-daily-airport-006",
+        "en": "I have a connecting flight. Will I make it in time?",
+        "vn": "Tôi có chuyến bay nối. Tôi có kịp không?",
+        "note": "connecting flight = chuyến bay nối"
+      },
+      {
+        "id": "med-daily-airport-007",
+        "en": "Can I have a transit hotel voucher?",
+        "vn": "Tôi có thể nhận voucher khách sạn quá cảnh không?",
+        "note": "transit = quá cảnh"
+      }
+    ]
+  },
+  "hotel": {
+    "label": "🏨 Khách Sạn",
+    "phrases": [
+      {
+        "id": "med-daily-hotel-001",
+        "en": "I have a reservation under the name Dr. [Name].",
+        "vn": "Tôi có đặt phòng với tên bác sĩ [Tên].",
+        "note": ""
+      },
+      {
+        "id": "med-daily-hotel-002",
+        "en": "Could I have a room with a city view?",
+        "vn": "Tôi có thể có phòng nhìn ra thành phố không?",
+        "note": ""
+      },
+      {
+        "id": "med-daily-hotel-003",
+        "en": "What time is checkout?",
+        "vn": "Check-out lúc mấy giờ?",
+        "note": ""
+      },
+      {
+        "id": "med-daily-hotel-004",
+        "en": "Is breakfast included?",
+        "vn": "Có bao gồm bữa sáng không?",
+        "note": ""
+      },
+      {
+        "id": "med-daily-hotel-005",
+        "en": "The air conditioning in my room isn't working.",
+        "vn": "Điều hòa trong phòng tôi không hoạt động.",
+        "note": ""
+      },
+      {
+        "id": "med-daily-hotel-006",
+        "en": "Could you send someone to fix it?",
+        "vn": "Bạn có thể cử ai đến sửa không?",
+        "note": ""
+      },
+      {
+        "id": "med-daily-hotel-007",
+        "en": "Can I extend my stay by one night?",
+        "vn": "Tôi có thể ở thêm một đêm nữa không?",
+        "note": ""
+      }
+    ]
+  },
+  "smalltalk": {
+    "label": "💬 Small Talk",
+    "phrases": [
+      {
+        "id": "med-daily-smalltalk-001",
+        "en": "Nice to meet you! I'm a doctor from Vietnam.",
+        "vn": "Rất vui được gặp bạn! Tôi là bác sĩ từ Việt Nam.",
+        "note": ""
+      },
+      {
+        "id": "med-daily-smalltalk-002",
+        "en": "I specialize in ENT — ear, nose, and throat.",
+        "vn": "Tôi chuyên khoa Tai Mũi Họng.",
+        "note": "ENT = Ear, Nose, Throat"
+      },
+      {
+        "id": "med-daily-smalltalk-003",
+        "en": "How long have you been in this field?",
+        "vn": "Bạn đã làm trong lĩnh vực này bao lâu rồi?",
+        "note": ""
+      },
+      {
+        "id": "med-daily-smalltalk-004",
+        "en": "The weather here is quite different from Vietnam!",
+        "vn": "Thời tiết ở đây khá khác Việt Nam nhỉ!",
+        "note": ""
+      },
+      {
+        "id": "med-daily-smalltalk-005",
+        "en": "Could you say that again, please? I want to make sure I understand.",
+        "vn": "Bạn có thể nói lại không? Tôi muốn chắc chắn mình hiểu đúng.",
+        "note": "Câu quan trọng khi không nghe rõ!"
+      },
+      {
+        "id": "med-daily-smalltalk-006",
+        "en": "I'm sorry, could you speak a little more slowly?",
+        "vn": "Xin lỗi, bạn có thể nói chậm hơn một chút không?",
+        "note": "Đừng ngại dùng câu này!"
+      },
+      {
+        "id": "med-daily-smalltalk-007",
+        "en": "Thank you so much. It's been a pleasure talking with you.",
+        "vn": "Cảm ơn bạn rất nhiều. Rất vui được nói chuyện với bạn.",
+        "note": ""
+      }
+    ]
+  },
+  "shopping": {
+    "label": "🛍️ Mua Sắm",
+    "phrases": [
+      {
+        "id": "med-daily-shopping-001",
+        "en": "How much is this?",
+        "vn": "Cái này bao nhiêu tiền?",
+        "note": ""
+      },
+      {
+        "id": "med-daily-shopping-002",
+        "en": "Do you have this in a different size?",
+        "vn": "Bạn có cái này size khác không?",
+        "note": ""
+      },
+      {
+        "id": "med-daily-shopping-003",
+        "en": "Can I try this on?",
+        "vn": "Tôi có thể mặc thử không?",
+        "note": ""
+      },
+      {
+        "id": "med-daily-shopping-004",
+        "en": "I'll take it.",
+        "vn": "Tôi lấy cái này.",
+        "note": ""
+      },
+      {
+        "id": "med-daily-shopping-005",
+        "en": "Do you accept credit cards?",
+        "vn": "Bạn có nhận thẻ tín dụng không?",
+        "note": ""
+      },
+      {
+        "id": "med-daily-shopping-006",
+        "en": "Could I get a receipt, please?",
+        "vn": "Cho tôi hóa đơn được không?",
+        "note": ""
+      },
+      {
+        "id": "med-daily-shopping-007",
+        "en": "Is this tax-free for tourists?",
+        "vn": "Cái này có miễn thuế cho khách du lịch không?",
+        "note": ""
+      }
+    ]
+  }
+}

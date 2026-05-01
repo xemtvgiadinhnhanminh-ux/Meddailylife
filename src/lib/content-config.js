@@ -1,0 +1,302 @@
+export const COLLECTIONS = {
+  dailyTopics: {
+    key: "dailyTopics",
+    label: "Daily Topics",
+    table: "daily_topics",
+    description: "12 chu de giao tiep hang ngay voi phrases, vocab, tips va dialogue.",
+    orderBy: "sort_order",
+    slugField: "slug",
+    routeBase: "/topics",
+    listFields: ["title", "vn_title", "slug", "published"],
+    emptyValue: {
+      slug: "",
+      title: "",
+      vn_title: "",
+      icon: "🌍",
+      color: "#0f766e",
+      description: "",
+      phrases: [],
+      vocab: [],
+      tips: [],
+      dialogue: [],
+      sort_order: 0,
+      published: true,
+    },
+    fields: [
+      { name: "slug", label: "Slug", type: "text", required: true },
+      { name: "title", label: "English Title", type: "text", required: true },
+      { name: "vn_title", label: "Vietnamese Title", type: "text", required: true },
+      { name: "icon", label: "Icon", type: "text" },
+      { name: "color", label: "Color", type: "text" },
+      { name: "description", label: "Short Description", type: "textarea" },
+      {
+        name: "phrases",
+        label: "Phrases JSON",
+        type: "json",
+        helper:
+          '[{ "en": "Could I have a table for two?", "vn": "Cho tôi bàn 2 người.", "note": "" }]',
+      },
+      {
+        name: "vocab",
+        label: "Vocabulary JSON",
+        type: "json",
+        helper:
+          '[{ "word": "reservation", "phonetic": "/ˌrez.əˈveɪ.ʃən/", "meaning": "đặt chỗ" }]',
+      },
+      {
+        name: "tips",
+        label: "Tips JSON",
+        type: "json",
+        helper: '["Use polite openers like Could I... or May I..."]',
+      },
+      {
+        name: "dialogue",
+        label: "Dialogue JSON",
+        type: "json",
+        helper:
+          '[{ "speaker": "You", "en": "Good evening.", "vn": "Chào buổi tối." }]',
+      },
+      { name: "sort_order", label: "Sort Order", type: "number" },
+      { name: "published", label: "Published", type: "boolean" },
+    ],
+  },
+  medicalSections: {
+    key: "medicalSections",
+    label: "Medical Sections",
+    table: "medical_sections",
+    description: "Consultation, conference, medication va phrase groups cho y khoa.",
+    orderBy: "sort_order",
+    slugField: "slug",
+    routeBase: "/medical",
+    listFields: ["title", "section_type", "slug", "published"],
+    emptyValue: {
+      section_type: "consultation",
+      slug: "",
+      title: "",
+      subtitle: "",
+      phrases: [],
+      sort_order: 0,
+      published: true,
+    },
+    fields: [
+      {
+        name: "section_type",
+        label: "Section Type",
+        type: "select",
+        options: [
+          { value: "consultation", label: "Consultation" },
+          { value: "conference", label: "Conference" },
+          { value: "medication", label: "Medication" },
+          { value: "medical_daily", label: "Medical Daily Phrases" },
+        ],
+      },
+      { name: "slug", label: "Slug", type: "text", required: true },
+      { name: "title", label: "Title", type: "text", required: true },
+      { name: "subtitle", label: "Subtitle", type: "textarea" },
+      {
+        name: "phrases",
+        label: "Phrases JSON",
+        type: "json",
+        helper:
+          '[{ "id": "med-001", "en": "What brings you here today?", "vn": "Hôm nay bạn đến vì gì?", "note": "" }]',
+      },
+      { name: "sort_order", label: "Sort Order", type: "number" },
+      { name: "published", label: "Published", type: "boolean" },
+    ],
+  },
+  procedures: {
+    key: "procedures",
+    label: "Procedures",
+    table: "procedures",
+    description: "Thu thuat TMH voi danh sach step chi tiet.",
+    orderBy: "sort_order",
+    slugField: "slug",
+    routeBase: "/procedures",
+    listFields: ["title", "vn_title", "slug", "published"],
+    emptyValue: {
+      slug: "",
+      title: "",
+      vn_title: "",
+      icon: "🔬",
+      steps: [],
+      sort_order: 0,
+      published: true,
+    },
+    fields: [
+      { name: "slug", label: "Slug", type: "text", required: true },
+      { name: "title", label: "English Title", type: "text", required: true },
+      { name: "vn_title", label: "Vietnamese Title", type: "text", required: true },
+      { name: "icon", label: "Icon", type: "text" },
+      {
+        name: "steps",
+        label: "Steps JSON",
+        type: "json",
+        helper:
+          '[{ "id": "step-1", "en": "I need to remove some earwax today.", "vn": "Hôm nay tôi cần lấy ráy tai." }]',
+      },
+      { name: "sort_order", label: "Sort Order", type: "number" },
+      { name: "published", label: "Published", type: "boolean" },
+    ],
+  },
+  drillItems: {
+    key: "drillItems",
+    label: "Drill Items",
+    table: "drill_items",
+    description: "Pool luyen noi tong hop, loc theo category.",
+    orderBy: "sort_order",
+    slugField: "legacy_id",
+    routeBase: "/drills",
+    listFields: ["english", "category", "legacy_id", "published"],
+    emptyValue: {
+      legacy_id: "",
+      category: "medical",
+      english: "",
+      vietnamese: "",
+      note: "",
+      sort_order: 0,
+      published: true,
+    },
+    fields: [
+      { name: "legacy_id", label: "Legacy ID", type: "text", required: true },
+      {
+        name: "category",
+        label: "Category",
+        type: "select",
+        options: [
+          { value: "medical", label: "Medical" },
+          { value: "daily-life", label: "Daily Life" },
+          { value: "conference", label: "Conference" },
+          { value: "general", label: "General" },
+        ],
+      },
+      { name: "english", label: "English", type: "textarea", required: true },
+      { name: "vietnamese", label: "Vietnamese", type: "textarea", required: true },
+      { name: "note", label: "Note", type: "textarea" },
+      { name: "sort_order", label: "Sort Order", type: "number" },
+      { name: "published", label: "Published", type: "boolean" },
+    ],
+  },
+  scenarios: {
+    key: "scenarios",
+    label: "AI Scenarios",
+    table: "scenarios",
+    description: "Tinh huong roleplay va prompt huong dan.",
+    orderBy: "sort_order",
+    slugField: "slug",
+    routeBase: "/scenarios",
+    listFields: ["title", "level", "slug", "published"],
+    emptyValue: {
+      slug: "",
+      title: "",
+      icon: "🎭",
+      level: "beginner",
+      description: "",
+      hint: "",
+      system_prompt: "",
+      opening_line: "",
+      sort_order: 0,
+      published: true,
+    },
+    fields: [
+      { name: "slug", label: "Slug", type: "text", required: true },
+      { name: "title", label: "Title", type: "text", required: true },
+      { name: "icon", label: "Icon", type: "text" },
+      {
+        name: "level",
+        label: "Level",
+        type: "select",
+        options: [
+          { value: "beginner", label: "Beginner" },
+          { value: "intermediate", label: "Intermediate" },
+        ],
+      },
+      { name: "description", label: "Description", type: "textarea" },
+      { name: "hint", label: "Hint", type: "textarea" },
+      { name: "opening_line", label: "Opening Line", type: "textarea" },
+      { name: "system_prompt", label: "System Prompt", type: "textarea" },
+      { name: "sort_order", label: "Sort Order", type: "number" },
+      { name: "published", label: "Published", type: "boolean" },
+    ],
+  },
+  listeningLessons: {
+    key: "listeningLessons",
+    label: "Listening Lessons",
+    table: "listening_lessons",
+    description: "VOA/BBC lessons voi transcript, vocab, connected speech va quiz.",
+    orderBy: "sort_order",
+    slugField: "slug",
+    routeBase: "/listening",
+    listFields: ["title", "source", "level", "published"],
+    emptyValue: {
+      slug: "",
+      title: "",
+      source: "",
+      level: "beginner",
+      duration: "2 min",
+      transcript: [],
+      connected_speech: [],
+      vocab: [],
+      quiz: [],
+      sort_order: 0,
+      published: true,
+    },
+    fields: [
+      { name: "slug", label: "Slug", type: "text", required: true },
+      { name: "title", label: "Title", type: "text", required: true },
+      { name: "source", label: "Source", type: "text", required: true },
+      {
+        name: "level",
+        label: "Level",
+        type: "select",
+        options: [
+          { value: "beginner", label: "Beginner" },
+          { value: "intermediate", label: "Intermediate" },
+          { value: "advanced", label: "Advanced" },
+        ],
+      },
+      { name: "duration", label: "Duration", type: "text" },
+      {
+        name: "transcript",
+        label: "Transcript JSON",
+        type: "json",
+        helper: '[{ "text": "Good morning.", "vn": "Chào buổi sáng." }]',
+      },
+      {
+        name: "connected_speech",
+        label: "Connected Speech JSON",
+        type: "json",
+        helper: '[{ "phrase": "can I", "phenomenon": "linking" }]',
+      },
+      {
+        name: "vocab",
+        label: "Vocabulary JSON",
+        type: "json",
+        helper:
+          '[{ "word": "appointment", "phonetic": "/əˈpɔɪnt.mənt/", "meaning": "lịch hẹn" }]',
+      },
+      {
+        name: "quiz",
+        label: "Quiz JSON",
+        type: "json",
+        helper:
+          '[{ "question": "What did the doctor ask?", "options": ["A", "B", "C"], "answer": 1 }]',
+      },
+      { name: "sort_order", label: "Sort Order", type: "number" },
+      { name: "published", label: "Published", type: "boolean" },
+    ],
+  },
+};
+
+export function listCollectionConfigs() {
+  return Object.values(COLLECTIONS);
+}
+
+export function getCollectionConfig(collectionKey) {
+  return COLLECTIONS[collectionKey] || null;
+}
+
+export function getCollectionRouteId(collection, item) {
+  const keys = ["id", collection.slugField, "legacy_id"];
+  const firstMatch = keys.find((key) => key && item?.[key]);
+  return firstMatch ? String(item[firstMatch]) : "";
+}

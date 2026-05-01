@@ -1,0 +1,125 @@
+{
+  "presentation": {
+    "label": "📊 Trình Bày Ca",
+    "phrases": [
+      {
+        "id": "med-conf-presentation-001",
+        "en": "Good morning everyone. I'd like to present an interesting case.",
+        "vn": "Chào buổi sáng mọi người. Tôi muốn trình bày một ca thú vị.",
+        "note": ""
+      },
+      {
+        "id": "med-conf-presentation-002",
+        "en": "The patient is a 45-year-old male presenting with a 3-week history of hearing loss.",
+        "vn": "Bệnh nhân nam 45 tuổi, bệnh sử 3 tuần giảm thính lực.",
+        "note": ""
+      },
+      {
+        "id": "med-conf-presentation-003",
+        "en": "On examination, we found significant cerumen impaction bilaterally.",
+        "vn": "Khi khám, chúng tôi thấy ráy tai tắc nghẽn 2 bên.",
+        "note": "cerumen impaction = ráy tai tắc; bilateral = 2 bên"
+      },
+      {
+        "id": "med-conf-presentation-004",
+        "en": "The CT scan revealed opacification of the right maxillary sinus.",
+        "vn": "CT scan cho thấy mờ đục xoang hàm phải.",
+        "note": "maxillary sinus = xoang hàm"
+      },
+      {
+        "id": "med-conf-presentation-005",
+        "en": "After treatment, the patient showed significant improvement.",
+        "vn": "Sau điều trị, bệnh nhân cải thiện đáng kể.",
+        "note": ""
+      },
+      {
+        "id": "med-conf-presentation-006",
+        "en": "In conclusion, this case highlights the importance of early diagnosis.",
+        "vn": "Kết luận, ca này nhấn mạnh tầm quan trọng của chẩn đoán sớm.",
+        "note": ""
+      },
+      {
+        "id": "med-conf-presentation-007",
+        "en": "I'd be happy to take any questions.",
+        "vn": "Tôi sẵn sàng nhận câu hỏi.",
+        "note": ""
+      }
+    ]
+  },
+  "networking": {
+    "label": "🤝 Networking",
+    "phrases": [
+      {
+        "id": "med-conf-networking-001",
+        "en": "Your presentation was very insightful. I have a similar experience in my practice.",
+        "vn": "Bài trình bày của bạn rất sâu sắc. Tôi có kinh nghiệm tương tự trong thực hành.",
+        "note": ""
+      },
+      {
+        "id": "med-conf-networking-002",
+        "en": "Could we exchange contact details? I'd love to collaborate.",
+        "vn": "Chúng ta có thể trao đổi thông tin liên hệ không? Tôi muốn hợp tác.",
+        "note": ""
+      },
+      {
+        "id": "med-conf-networking-003",
+        "en": "Which hospital do you work at?",
+        "vn": "Bạn làm ở bệnh viện nào?",
+        "note": ""
+      },
+      {
+        "id": "med-conf-networking-004",
+        "en": "Have you published any papers on this topic?",
+        "vn": "Bạn có đăng bài về chủ đề này chưa?",
+        "note": "paper = bài báo khoa học"
+      },
+      {
+        "id": "med-conf-networking-005",
+        "en": "What's your approach to difficult cases like this?",
+        "vn": "Cách tiếp cận của bạn với các ca khó như thế này là gì?",
+        "note": ""
+      },
+      {
+        "id": "med-conf-networking-006",
+        "en": "We use a slightly different protocol in Vietnam. Let me tell you about it.",
+        "vn": "Ở Việt Nam chúng tôi dùng phác đồ hơi khác. Để tôi kể cho bạn nghe.",
+        "note": ""
+      }
+    ]
+  },
+  "discussion": {
+    "label": "💬 Thảo Luận Khoa Học",
+    "phrases": [
+      {
+        "id": "med-conf-discussion-001",
+        "en": "I agree with your point, however I'd like to add...",
+        "vn": "Tôi đồng ý với quan điểm của bạn, nhưng tôi muốn bổ sung...",
+        "note": ""
+      },
+      {
+        "id": "med-conf-discussion-002",
+        "en": "Based on the evidence, I think the first-line treatment should be...",
+        "vn": "Dựa trên bằng chứng, tôi nghĩ điều trị hàng đầu nên là...",
+        "note": ""
+      },
+      {
+        "id": "med-conf-discussion-003",
+        "en": "What does the current literature say about this?",
+        "vn": "Tài liệu hiện tại nói gì về vấn đề này?",
+        "note": "literature = tài liệu y văn"
+      },
+      {
+        "id": "med-conf-discussion-004",
+        "en": "That's a valid point. We've seen similar results.",
+        "vn": "Đó là điểm hợp lệ. Chúng tôi cũng thấy kết quả tương tự.",
+        "note": ""
+      },
+      {
+        "id": "med-conf-discussion-005",
+        "en": "Could you clarify what you mean by that?",
+        "vn": "Bạn có thể làm rõ ý bạn không?",
+        "note": "Câu lịch sự để hỏi lại khi chưa hiểu."
+      }
+    ]
+  }
+}

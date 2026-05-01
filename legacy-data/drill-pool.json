@@ -1,0 +1,2130 @@
+[
+  {
+    "id": "med-consult-greeting-001",
+    "en": "Good morning! Please come in and have a seat.",
+    "vn": "Chào buổi sáng! Mời vào và ngồi đây.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "consult-greeting"
+  },
+  {
+    "id": "med-consult-greeting-002",
+    "en": "Hello, I'm Dr. [Your name]. How can I help you today?",
+    "vn": "Xin chào, tôi là bác sĩ [Tên]. Hôm nay bạn cần khám gì?",
+    "note": "",
+    "category": "medical",
+    "subcategory": "consult-greeting"
+  },
+  {
+    "id": "med-consult-greeting-003",
+    "en": "What brings you here today?",
+    "vn": "Hôm nay bạn đến vì vấn đề gì?",
+    "note": "Câu hỏi mở, thường dùng nhất khi bắt đầu khám.",
+    "category": "medical",
+    "subcategory": "consult-greeting"
+  },
+  {
+    "id": "med-consult-greeting-004",
+    "en": "How long have you had this problem?",
+    "vn": "Vấn đề này đã được bao lâu rồi?",
+    "note": "",
+    "category": "medical",
+    "subcategory": "consult-greeting"
+  },
+  {
+    "id": "med-consult-greeting-005",
+    "en": "Is this the first time you've experienced this?",
+    "vn": "Đây có phải lần đầu bạn bị như vậy không?",
+    "note": "",
+    "category": "medical",
+    "subcategory": "consult-greeting"
+  },
+  {
+    "id": "med-consult-greeting-006",
+    "en": "Please describe your symptoms.",
+    "vn": "Hãy mô tả các triệu chứng của bạn.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "consult-greeting"
+  },
+  {
+    "id": "med-consult-ear-001",
+    "en": "Do you have any ear pain?",
+    "vn": "Bạn có đau tai không?",
+    "note": "",
+    "category": "medical",
+    "subcategory": "consult-ear"
+  },
+  {
+    "id": "med-consult-ear-002",
+    "en": "Are you experiencing any hearing loss?",
+    "vn": "Bạn có bị giảm thính lực không?",
+    "note": "",
+    "category": "medical",
+    "subcategory": "consult-ear"
+  },
+  {
+    "id": "med-consult-ear-003",
+    "en": "Do you have any ringing in your ears?",
+    "vn": "Bạn có bị ù tai không?",
+    "note": "Ringing in ears = tinnitus /ˈtɪnɪtəs/",
+    "category": "medical",
+    "subcategory": "consult-ear"
+  },
+  {
+    "id": "med-consult-ear-004",
+    "en": "Is there any discharge coming from your ear?",
+    "vn": "Có dịch chảy ra từ tai không?",
+    "note": "discharge = dịch tiết",
+    "category": "medical",
+    "subcategory": "consult-ear"
+  },
+  {
+    "id": "med-consult-ear-005",
+    "en": "Do you feel dizzy or have problems with balance?",
+    "vn": "Bạn có chóng mặt hoặc mất thăng bằng không?",
+    "note": "dizzy = chóng mặt, balance = thăng bằng",
+    "category": "medical",
+    "subcategory": "consult-ear"
+  },
+  {
+    "id": "med-consult-ear-006",
+    "en": "I'm going to examine your ear now. Please hold still.",
+    "vn": "Tôi sẽ khám tai cho bạn bây giờ. Vui lòng giữ yên.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "consult-ear"
+  },
+  {
+    "id": "med-consult-ear-007",
+    "en": "I can see some earwax buildup. That's likely causing the problem.",
+    "vn": "Tôi thấy có ráy tai tích tụ. Đó có thể là nguyên nhân.",
+    "note": "earwax buildup = ráy tai tích tụ",
+    "category": "medical",
+    "subcategory": "consult-ear"
+  },
+  {
+    "id": "med-consult-ear-008",
+    "en": "Your eardrum looks normal.",
+    "vn": "Màng nhĩ của bạn trông bình thường.",
+    "note": "eardrum = màng nhĩ",
+    "category": "medical",
+    "subcategory": "consult-ear"
+  },
+  {
+    "id": "med-consult-ear-009",
+    "en": "There appears to be a foreign object in your ear.",
+    "vn": "Có vẻ có dị vật trong tai bạn.",
+    "note": "foreign object = dị vật",
+    "category": "medical",
+    "subcategory": "consult-ear"
+  },
+  {
+    "id": "med-consult-nose-001",
+    "en": "Do you have a stuffy or blocked nose?",
+    "vn": "Bạn có nghẹt mũi không?",
+    "note": "stuffy/blocked nose = nghẹt mũi",
+    "category": "medical",
+    "subcategory": "consult-nose"
+  },
+  {
+    "id": "med-consult-nose-002",
+    "en": "Are you experiencing any nasal discharge? What color is it?",
+    "vn": "Bạn có chảy nước mũi không? Màu gì?",
+    "note": "nasal discharge = nước mũi chảy",
+    "category": "medical",
+    "subcategory": "consult-nose"
+  },
+  {
+    "id": "med-consult-nose-003",
+    "en": "Do you have frequent nosebleeds?",
+    "vn": "Bạn có hay bị chảy máu mũi không?",
+    "note": "nosebleed = chảy máu cam",
+    "category": "medical",
+    "subcategory": "consult-nose"
+  },
+  {
+    "id": "med-consult-nose-004",
+    "en": "Have you lost your sense of smell?",
+    "vn": "Bạn có mất mùi không?",
+    "note": "sense of smell = khứu giác",
+    "category": "medical",
+    "subcategory": "consult-nose"
+  },
+  {
+    "id": "med-consult-nose-005",
+    "en": "Do you have any allergies?",
+    "vn": "Bạn có bị dị ứng gì không?",
+    "note": "",
+    "category": "medical",
+    "subcategory": "consult-nose"
+  },
+  {
+    "id": "med-consult-nose-006",
+    "en": "Has your nose been injured before?",
+    "vn": "Mũi bạn đã từng bị chấn thương chưa?",
+    "note": "",
+    "category": "medical",
+    "subcategory": "consult-nose"
+  },
+  {
+    "id": "med-consult-nose-007",
+    "en": "I'm going to spray some decongestant into your nose before the examination.",
+    "vn": "Tôi sẽ xịt thuốc co mạch vào mũi trước khi khám.",
+    "note": "decongestant = thuốc co mạch/thông mũi",
+    "category": "medical",
+    "subcategory": "consult-nose"
+  },
+  {
+    "id": "med-consult-throat-001",
+    "en": "Do you have a sore throat?",
+    "vn": "Bạn có đau họng không?",
+    "note": "",
+    "category": "medical",
+    "subcategory": "consult-throat"
+  },
+  {
+    "id": "med-consult-throat-002",
+    "en": "How long have you had trouble swallowing?",
+    "vn": "Bạn bị khó nuốt được bao lâu rồi?",
+    "note": "swallowing = nuốt",
+    "category": "medical",
+    "subcategory": "consult-throat"
+  },
+  {
+    "id": "med-consult-throat-003",
+    "en": "Do you have a hoarse voice?",
+    "vn": "Bạn có bị khàn tiếng không?",
+    "note": "hoarse = khàn giọng",
+    "category": "medical",
+    "subcategory": "consult-throat"
+  },
+  {
+    "id": "med-consult-throat-004",
+    "en": "Please open your mouth and say 'Ahh'.",
+    "vn": "Mở miệng ra và nói 'Ahh'.",
+    "note": "Câu dùng khi khám họng",
+    "category": "medical",
+    "subcategory": "consult-throat"
+  },
+  {
+    "id": "med-consult-throat-005",
+    "en": "Your tonsils are swollen.",
+    "vn": "Amidan của bạn đang sưng.",
+    "note": "tonsils = amidan",
+    "category": "medical",
+    "subcategory": "consult-throat"
+  },
+  {
+    "id": "med-consult-throat-006",
+    "en": "I can see some redness and swelling in your throat.",
+    "vn": "Tôi thấy có vùng đỏ và sưng trong họng bạn.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "consult-throat"
+  },
+  {
+    "id": "med-consult-diagnosis-001",
+    "en": "Based on my examination, you have a middle ear infection.",
+    "vn": "Dựa trên khám bệnh, bạn bị viêm tai giữa.",
+    "note": "middle ear infection = viêm tai giữa",
+    "category": "medical",
+    "subcategory": "consult-diagnosis"
+  },
+  {
+    "id": "med-consult-diagnosis-002",
+    "en": "You have sinusitis — inflammation of the sinuses.",
+    "vn": "Bạn bị viêm xoang.",
+    "note": "sinusitis = viêm xoang",
+    "category": "medical",
+    "subcategory": "consult-diagnosis"
+  },
+  {
+    "id": "med-consult-diagnosis-003",
+    "en": "I'd like to do a nasal endoscopy to get a better look.",
+    "vn": "Tôi muốn làm nội soi mũi để xem rõ hơn.",
+    "note": "endoscopy = nội soi",
+    "category": "medical",
+    "subcategory": "consult-diagnosis"
+  },
+  {
+    "id": "med-consult-diagnosis-004",
+    "en": "I'm going to prescribe some antibiotics for you.",
+    "vn": "Tôi sẽ kê kháng sinh cho bạn.",
+    "note": "prescribe = kê toa, antibiotics = kháng sinh",
+    "category": "medical",
+    "subcategory": "consult-diagnosis"
+  },
+  {
+    "id": "med-consult-diagnosis-005",
+    "en": "Please come back in one week if it doesn't improve.",
+    "vn": "Nếu không cải thiện, vui lòng tái khám sau một tuần.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "consult-diagnosis"
+  },
+  {
+    "id": "med-consult-diagnosis-006",
+    "en": "Do you have any questions for me?",
+    "vn": "Bạn có câu hỏi gì cho tôi không?",
+    "note": "Luôn hỏi câu này trước khi kết thúc khám.",
+    "category": "medical",
+    "subcategory": "consult-diagnosis"
+  },
+  {
+    "id": "med-consult-diagnosis-007",
+    "en": "I'll refer you to a specialist.",
+    "vn": "Tôi sẽ giới thiệu bạn đến bác sĩ chuyên khoa.",
+    "note": "refer = giới thiệu, specialist = bác sĩ chuyên khoa",
+    "category": "medical",
+    "subcategory": "consult-diagnosis"
+  },
+  {
+    "id": "drill-proc-0",
+    "en": "I need to remove some earwax from your ear today.",
+    "vn": "Hôm nay tôi cần lấy ráy tai cho bạn.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-1",
+    "en": "Please lie on your side — the right ear facing up.",
+    "vn": "Vui lòng nằm nghiêng, tai phải hướng lên trên.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-2",
+    "en": "First, I'll soften the earwax with a few drops of glycerine. This will take about 10 minutes.",
+    "vn": "Đầu tiên tôi sẽ nhỏ glycerine để làm mềm ráy tai, khoảng 10 phút.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-3",
+    "en": "I'm going to use a suction device to remove the earwax. You may hear a suction sound — that's normal.",
+    "vn": "Tôi sẽ dùng máy hút để lấy ráy tai. Bạn sẽ nghe tiếng hút — bình thường.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-4",
+    "en": "Please hold very still. Try not to move your head.",
+    "vn": "Vui lòng giữ thật yên. Đừng cử động đầu.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-5",
+    "en": "You may feel some mild discomfort but it should not be painful. Tell me if it hurts.",
+    "vn": "Bạn có thể hơi khó chịu nhưng không nên đau. Cho tôi biết nếu đau.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-6",
+    "en": "I've finished. The earwax has been removed successfully.",
+    "vn": "Xong rồi. Đã lấy ráy tai thành công.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-7",
+    "en": "Please avoid getting water in your ear for the next 24 hours.",
+    "vn": "Tránh để nước vào tai trong 24 giờ tới.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-8",
+    "en": "I'm going to clean your ear canal today.",
+    "vn": "Tôi sẽ rửa sạch ống tai của bạn hôm nay.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-9",
+    "en": "Please lie on your side, with the affected ear facing up.",
+    "vn": "Vui lòng nằm nghiêng, tai cần rửa hướng lên.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-10",
+    "en": "I'll flush your ear with a diluted hydrogen peroxide solution. It may bubble — that's normal.",
+    "vn": "Tôi sẽ bơm dung dịch oxy già pha loãng. Có thể có bọt — bình thường.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-11",
+    "en": "Then I'll use a suction device to remove the fluid and discharge.",
+    "vn": "Sau đó tôi dùng máy hút để hút dịch và mủ ra.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-12",
+    "en": "I'll clean the outer ear canal with povidone-iodine solution.",
+    "vn": "Tôi sẽ vệ sinh ống tai ngoài bằng dung dịch povidine pha loãng.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-13",
+    "en": "How are you feeling? Any pain or discomfort?",
+    "vn": "Bạn thấy thế nào? Có đau hay khó chịu không?",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-14",
+    "en": "The procedure is complete. Your ear is clean now.",
+    "vn": "Thủ thuật xong rồi. Tai bạn đã sạch.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-15",
+    "en": "I'm going to wash out your nasal sinuses today.",
+    "vn": "Hôm nay tôi sẽ rửa mũi xoang cho bạn.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-16",
+    "en": "Please lean your head back as far as comfortable.",
+    "vn": "Hãy ngửa đầu ra sau hết mức bạn thoải mái.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-17",
+    "en": "First I'll apply a decongestant spray to open up your nasal passages.",
+    "vn": "Đầu tiên tôi sẽ xịt thuốc co mạch để thông mũi.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-18",
+    "en": "I'll now block one nostril and ask you to say 'kê kê kê' to close your soft palate.",
+    "vn": "Tôi bịt một bên mũi và nhờ bạn nói 'kê kê kê' để đóng buồm hàm.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-19",
+    "en": "I'll flush the saline solution in and then suction it out with the secretions.",
+    "vn": "Tôi sẽ bơm nước muối vào và hút ra cùng dịch tiết.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-20",
+    "en": "After the irrigation, I'll put the medication into your sinuses.",
+    "vn": "Sau khi rửa, tôi sẽ đặt thuốc vào xoang cho bạn.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-21",
+    "en": "Please remain lying down for a few minutes so the medication doesn't drain into your throat.",
+    "vn": "Vui lòng nằm vài phút để thuốc không chảy xuống họng.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-22",
+    "en": "I'm going to put some ear drops in your ear.",
+    "vn": "Tôi sẽ nhỏ thuốc vào tai bạn.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-23",
+    "en": "Please tilt your head so the affected ear faces upward.",
+    "vn": "Vui lòng nghiêng đầu để tai cần nhỏ thuốc hướng lên.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-24",
+    "en": "I'll put 5 drops into the ear. You'll feel the drops go in — stay still for a moment.",
+    "vn": "Tôi sẽ nhỏ 5 giọt vào tai. Bạn sẽ cảm thấy giọt thuốc — giữ yên một lúc.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-25",
+    "en": "At home, use the ear drops twice a day — morning and evening. 5 drops each time.",
+    "vn": "Ở nhà dùng thuốc nhỏ tai 2 lần/ngày — sáng và tối. Mỗi lần 5 giọt.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-26",
+    "en": "After putting the drops in, press gently on the small bump in front of your ear to help the drops go in.",
+    "vn": "Sau khi nhỏ thuốc, ấn nhẹ vào nắp tai phía trước để thuốc vào sâu hơn.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-27",
+    "en": "I'm prescribing a nasal spray for you.",
+    "vn": "Tôi kê thuốc xịt mũi cho bạn.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-28",
+    "en": "Use it once every morning — 2 sprays in each nostril.",
+    "vn": "Dùng mỗi buổi sáng — 2 nhát mỗi bên mũi.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-29",
+    "en": "Before using, blow your nose gently to clear it.",
+    "vn": "Trước khi xịt, hỉ mũi nhẹ nhàng để thông mũi.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-30",
+    "en": "Point the nozzle slightly outward — away from the center of your nose.",
+    "vn": "Hướng đầu xịt hơi ra ngoài — không nhắm vào vách ngăn mũi.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-31",
+    "en": "Breathe in gently through your nose as you spray.",
+    "vn": "Hít nhẹ qua mũi trong khi xịt.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-32",
+    "en": "Don't blow your nose immediately after — wait at least 5 minutes.",
+    "vn": "Không hỉ mũi ngay sau khi xịt — đợi ít nhất 5 phút.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-33",
+    "en": "I need to perform a nasal endoscopy to examine the inside of your nose.",
+    "vn": "Tôi cần nội soi mũi để xem bên trong mũi bạn.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-34",
+    "en": "I'll insert a thin, flexible tube with a small camera into your nose.",
+    "vn": "Tôi sẽ đưa ống nhỏ có camera vào mũi bạn.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-35",
+    "en": "First, I'll apply some local anesthetic to reduce discomfort.",
+    "vn": "Đầu tiên tôi sẽ xịt thuốc tê tại chỗ để giảm khó chịu.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-36",
+    "en": "You'll feel some pressure but it should not be painful. Please breathe through your mouth.",
+    "vn": "Bạn sẽ cảm thấy áp lực nhưng không nên đau. Hãy thở bằng miệng.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-37",
+    "en": "I can see some polyps / inflammation / mucus in your nasal passage.",
+    "vn": "Tôi thấy có polyp / viêm / dịch nhầy trong đường mũi bạn.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-38",
+    "en": "The examination is complete. Please don't blow your nose forcefully for the next hour.",
+    "vn": "Khám xong rồi. Vui lòng không hỉ mũi mạnh trong vòng 1 giờ.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-39",
+    "en": "I can see there's a foreign object in your ear. I'll remove it for you.",
+    "vn": "Tôi thấy có dị vật trong tai bạn. Tôi sẽ lấy ra cho bạn.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-40",
+    "en": "Please remain very still during this procedure. It's important you don't move.",
+    "vn": "Vui lòng giữ thật yên trong khi làm thủ thuật. Quan trọng là không cử động.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-41",
+    "en": "I'll use a specialized instrument to gently remove the object.",
+    "vn": "Tôi sẽ dùng dụng cụ chuyên biệt để lấy dị vật ra nhẹ nhàng.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-42",
+    "en": "This may feel a little uncomfortable but I'll be as gentle as possible.",
+    "vn": "Có thể hơi khó chịu nhưng tôi sẽ cố gắng nhẹ nhàng nhất có thể.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-43",
+    "en": "The object has been removed. Your ear looks clear now.",
+    "vn": "Đã lấy dị vật ra rồi. Tai bạn trông ổn rồi.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-44",
+    "en": "Make sure nothing is placed in the ear again.",
+    "vn": "Đảm bảo không đặt gì vào tai nữa.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-45",
+    "en": "Your child has a foreign object stuck in their nose. I'll remove it now.",
+    "vn": "Con bạn có dị vật trong mũi. Tôi sẽ lấy ra ngay bây giờ.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-46",
+    "en": "Please keep your child as calm and still as possible.",
+    "vn": "Vui lòng giữ cho trẻ bình tĩnh và yên tĩnh nhất có thể.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-47",
+    "en": "I'll use a small instrument to carefully retrieve the object.",
+    "vn": "Tôi sẽ dùng dụng cụ nhỏ để cẩn thận lấy dị vật ra.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-48",
+    "en": "Try not to try to remove it yourself — it can push the object further in.",
+    "vn": "Đừng tự lấy — có thể đẩy dị vật vào sâu hơn.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-49",
+    "en": "Done! The object is out. Please watch that this doesn't happen again.",
+    "vn": "Xong rồi! Đã lấy được. Vui lòng chú ý để không xảy ra lần nữa.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-50",
+    "en": "I'm going to give you a nebulizer treatment for your throat and nose.",
+    "vn": "Tôi sẽ cho bạn xông khí dung họng và mũi.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-51",
+    "en": "Please sit in a relaxed, comfortable position.",
+    "vn": "Vui lòng ngồi thư giãn, thoải mái.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-52",
+    "en": "This mask will deliver the medicated mist — breathe normally through it.",
+    "vn": "Mặt nạ này sẽ đưa thuốc dạng sương — thở bình thường qua đó.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-53",
+    "en": "The treatment takes about 10–15 minutes. Just relax.",
+    "vn": "Điều trị mất khoảng 10–15 phút. Cứ thư giãn.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-54",
+    "en": "The medication contains an anti-inflammatory and an antibiotic.",
+    "vn": "Thuốc có chứa kháng viêm và kháng sinh.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-proc-55",
+    "en": "Try to breathe in deeply and slowly through your nose.",
+    "vn": "Cố hít thở sâu và chậm qua mũi.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "procedures"
+  },
+  {
+    "id": "drill-medi-0",
+    "en": "Take this medication 3 times a day — morning, noon, and evening.",
+    "vn": "Uống thuốc này 3 lần/ngày — sáng, trưa, tối.",
+    "note": "OPC3",
+    "category": "medical",
+    "subcategory": "medication"
+  },
+  {
+    "id": "drill-medi-1",
+    "en": "Take one sachet after each main meal and before bedtime — 4 times a day.",
+    "vn": "Uống 1 gói sau mỗi 3 bữa ăn chính và trước khi ngủ — 4 lần/ngày.",
+    "note": "GEL",
+    "category": "medical",
+    "subcategory": "medication"
+  },
+  {
+    "id": "drill-medi-2",
+    "en": "Take paracetamol only when your temperature is above 38.5°C or when you have significant pain. One tablet every 6 hours.",
+    "vn": "Uống paracetamol khi sốt từ 38.5°C hoặc đau nhiều. 1 viên cách 6 giờ.",
+    "note": "PARA",
+    "category": "medical",
+    "subcategory": "medication"
+  },
+  {
+    "id": "drill-medi-3",
+    "en": "Take this stomach tablet once daily, 30 minutes before breakfast.",
+    "vn": "Uống thuốc dạ dày 1 viên mỗi ngày, trước bữa sáng 30 phút.",
+    "note": "PPI",
+    "category": "medical",
+    "subcategory": "medication"
+  },
+  {
+    "id": "drill-medi-4",
+    "en": "Ear drops: 5 drops into the ear twice a day — morning and evening.",
+    "vn": "Thuốc nhỏ tai: 5 giọt vào tai, ngày 2 lần — sáng và tối.",
+    "note": "NT",
+    "category": "medical",
+    "subcategory": "medication"
+  },
+  {
+    "id": "drill-medi-5",
+    "en": "Nasal spray: use every morning, 2 sprays in each nostril.",
+    "vn": "Thuốc xịt mũi: dùng mỗi sáng, 2 nhát mỗi bên mũi.",
+    "note": "XM",
+    "category": "medical",
+    "subcategory": "medication"
+  },
+  {
+    "id": "drill-medi-6",
+    "en": "This tablet dissolves under your tongue — do not swallow it.",
+    "vn": "Viên này ngậm dưới lưỡi — không nuốt.",
+    "note": "NDL - Ngậm dưới lưỡi",
+    "category": "medical",
+    "subcategory": "medication"
+  },
+  {
+    "id": "drill-medi-7",
+    "en": "Finish the entire course of antibiotics even if you feel better.",
+    "vn": "Uống hết kháng sinh kể cả khi thấy khỏe hơn.",
+    "note": "Quan trọng! Không bỏ thuốc giữa chừng.",
+    "category": "medical",
+    "subcategory": "medication"
+  },
+  {
+    "id": "drill-medi-8",
+    "en": "Take this with food to protect your stomach.",
+    "vn": "Uống thuốc này cùng bữa ăn để bảo vệ dạ dày.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "medication"
+  },
+  {
+    "id": "drill-medi-9",
+    "en": "If you experience any side effects, stop the medication and come back to see me.",
+    "vn": "Nếu có tác dụng phụ, ngừng thuốc và quay lại gặp tôi.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "medication"
+  },
+  {
+    "id": "drill-medi-10",
+    "en": "Take 15ml three times a day — morning, noon, and evening.",
+    "vn": "Uống 15ml ngày 3 lần — sáng, trưa, tối.",
+    "note": "OPC3",
+    "category": "medical",
+    "subcategory": "medication"
+  },
+  {
+    "id": "drill-medi-11",
+    "en": "Do not exceed 4 tablets of paracetamol in 24 hours.",
+    "vn": "Không dùng quá 4 viên paracetamol trong 24 giờ.",
+    "note": "",
+    "category": "medical",
+    "subcategory": "medication"
+  },
+  {
+    "id": "daily-greetings-001",
+    "en": "Good morning! How are you doing today?",
+    "vn": "Chào buổi sáng! Hôm nay bạn thế nào?",
+    "note": "Câu mở đầu lịch sự nhất",
+    "category": "daily-life",
+    "subcategory": "greetings"
+  },
+  {
+    "id": "daily-greetings-002",
+    "en": "I'm doing great, thanks for asking!",
+    "vn": "Tôi rất tốt, cảm ơn bạn đã hỏi!",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "greetings"
+  },
+  {
+    "id": "daily-greetings-003",
+    "en": "Not bad, could be better. How about you?",
+    "vn": "Cũng ổn thôi, có thể tốt hơn. Còn bạn thì sao?",
+    "note": "Câu trung thực nhưng lịch sự",
+    "category": "daily-life",
+    "subcategory": "greetings"
+  },
+  {
+    "id": "daily-greetings-004",
+    "en": "Long time no see! What have you been up to?",
+    "vn": "Lâu không gặp! Dạo này bạn làm gì vậy?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "greetings"
+  },
+  {
+    "id": "daily-greetings-005",
+    "en": "It's been a while. You look great!",
+    "vn": "Lâu rồi không gặp. Bạn trông rất tốt!",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "greetings"
+  },
+  {
+    "id": "daily-greetings-006",
+    "en": "What a small world — fancy meeting you here!",
+    "vn": "Thế giới thật nhỏ — thật trùng hợp khi gặp bạn ở đây!",
+    "note": "Khi gặp người quen bất ngờ",
+    "category": "daily-life",
+    "subcategory": "greetings"
+  },
+  {
+    "id": "daily-greetings-007",
+    "en": "I'm sorry, I didn't catch your name?",
+    "vn": "Xin lỗi, tôi chưa kịp nghe tên bạn?",
+    "note": "Lịch sự khi không nghe rõ tên",
+    "category": "daily-life",
+    "subcategory": "greetings"
+  },
+  {
+    "id": "daily-greetings-008",
+    "en": "It's nice to meet you. I'm [name].",
+    "vn": "Rất vui được gặp bạn. Tôi là [tên].",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "greetings"
+  },
+  {
+    "id": "daily-greetings-009",
+    "en": "How's the family?",
+    "vn": "Gia đình bạn thế nào rồi?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "greetings"
+  },
+  {
+    "id": "daily-greetings-010",
+    "en": "I've been keeping busy. Work has been hectic lately.",
+    "vn": "Tôi khá bận. Công việc dạo này hơi hối hả.",
+    "note": "hectic = bận rộn, hối hả",
+    "category": "daily-life",
+    "subcategory": "greetings"
+  },
+  {
+    "id": "daily-greetings-011",
+    "en": "Anyway, it was great running into you!",
+    "vn": "Dù sao, thật vui khi tình cờ gặp bạn!",
+    "note": "Câu khi chia tay",
+    "category": "daily-life",
+    "subcategory": "greetings"
+  },
+  {
+    "id": "daily-greetings-012",
+    "en": "Take care! See you around.",
+    "vn": "Bảo trọng nhé! Hẹn gặp lại.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "greetings"
+  },
+  {
+    "id": "daily-cafe-001",
+    "en": "Hi, can I get a medium latte, please?",
+    "vn": "Xin chào, cho tôi một ly latte cỡ vừa nhé?",
+    "note": "medium = cỡ vừa (Starbucks: tall/grande/venti)",
+    "category": "daily-life",
+    "subcategory": "cafe"
+  },
+  {
+    "id": "daily-cafe-002",
+    "en": "Could I have that with oat milk instead?",
+    "vn": "Bạn có thể dùng sữa yến mạch thay thế không?",
+    "note": "oat milk = sữa yến mạch; popular substitution",
+    "category": "daily-life",
+    "subcategory": "cafe"
+  },
+  {
+    "id": "daily-cafe-003",
+    "en": "Make it decaf, please.",
+    "vn": "Không cà phê nhé (decaf).",
+    "note": "decaf = không caffeine",
+    "category": "daily-life",
+    "subcategory": "cafe"
+  },
+  {
+    "id": "daily-cafe-004",
+    "en": "Can I have an extra shot of espresso?",
+    "vn": "Cho thêm một shot espresso được không?",
+    "note": "extra shot = thêm một phần espresso",
+    "category": "daily-life",
+    "subcategory": "cafe"
+  },
+  {
+    "id": "daily-cafe-005",
+    "en": "Is this seat taken?",
+    "vn": "Ghế này có ai ngồi chưa?",
+    "note": "Câu hỏi khi muốn ngồi cạnh người lạ",
+    "category": "daily-life",
+    "subcategory": "cafe"
+  },
+  {
+    "id": "daily-cafe-006",
+    "en": "Do you have free Wi-Fi here? What's the password?",
+    "vn": "Ở đây có Wi-Fi miễn phí không? Mật khẩu là gì?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "cafe"
+  },
+  {
+    "id": "daily-cafe-007",
+    "en": "Could I get this to go?",
+    "vn": "Tôi có thể lấy mang về không?",
+    "note": "to go = mang về; dine in = ăn tại chỗ",
+    "category": "daily-life",
+    "subcategory": "cafe"
+  },
+  {
+    "id": "daily-cafe-008",
+    "en": "I'll have the same as her.",
+    "vn": "Cho tôi giống như của cô ấy.",
+    "note": "Câu nhanh gọn khi muốn gọi giống người khác",
+    "category": "daily-life",
+    "subcategory": "cafe"
+  },
+  {
+    "id": "daily-cafe-009",
+    "en": "Can I get a refill?",
+    "vn": "Tôi có thể xin thêm không?",
+    "note": "refill = rót thêm (thường miễn phí ở Mỹ)",
+    "category": "daily-life",
+    "subcategory": "cafe"
+  },
+  {
+    "id": "daily-cafe-010",
+    "en": "Do you have any dairy-free options?",
+    "vn": "Bạn có lựa chọn không có sữa không?",
+    "note": "dairy-free = không chứa sản phẩm từ sữa",
+    "category": "daily-life",
+    "subcategory": "cafe"
+  },
+  {
+    "id": "daily-cafe-011",
+    "en": "I'd like to order a slice of cheesecake too.",
+    "vn": "Cho tôi thêm một miếng cheesecake nữa.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "cafe"
+  },
+  {
+    "id": "daily-cafe-012",
+    "en": "Could I get a receipt?",
+    "vn": "Cho tôi hóa đơn được không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "cafe"
+  },
+  {
+    "id": "daily-restaurant-001",
+    "en": "Do you have a table for two available?",
+    "vn": "Bạn có bàn trống cho 2 người không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "restaurant"
+  },
+  {
+    "id": "daily-restaurant-002",
+    "en": "I have a reservation under Dr. [Name] at 7 pm.",
+    "vn": "Tôi có đặt bàn với tên bác sĩ [Tên] lúc 7 giờ tối.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "restaurant"
+  },
+  {
+    "id": "daily-restaurant-003",
+    "en": "Could we see the menu, please?",
+    "vn": "Cho chúng tôi xem thực đơn được không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "restaurant"
+  },
+  {
+    "id": "daily-restaurant-004",
+    "en": "What do you recommend? What's the specialty here?",
+    "vn": "Bạn gợi ý món gì? Đặc sản ở đây là gì?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "restaurant"
+  },
+  {
+    "id": "daily-restaurant-005",
+    "en": "I'm allergic to shellfish — no shrimp, crab, or oyster.",
+    "vn": "Tôi dị ứng hải sản có vỏ — không tôm, cua, hay hàu.",
+    "note": "shellfish = hải sản có vỏ",
+    "category": "daily-life",
+    "subcategory": "restaurant"
+  },
+  {
+    "id": "daily-restaurant-006",
+    "en": "I'd like my steak medium-rare, please.",
+    "vn": "Cho tôi bít tết chín tái vừa nhé.",
+    "note": "rare/medium-rare/medium/well-done",
+    "category": "daily-life",
+    "subcategory": "restaurant"
+  },
+  {
+    "id": "daily-restaurant-007",
+    "en": "Could I substitute the fries for a salad?",
+    "vn": "Tôi có thể đổi khoai chiên lấy salad không?",
+    "note": "substitute = đổi, thay thế",
+    "category": "daily-life",
+    "subcategory": "restaurant"
+  },
+  {
+    "id": "daily-restaurant-008",
+    "en": "Excuse me, we've been waiting for 20 minutes.",
+    "vn": "Xin lỗi, chúng tôi đã đợi 20 phút rồi.",
+    "note": "Lịch sự nhưng rõ ràng",
+    "category": "daily-life",
+    "subcategory": "restaurant"
+  },
+  {
+    "id": "daily-restaurant-009",
+    "en": "This isn't what I ordered. I asked for the salmon.",
+    "vn": "Đây không phải món tôi gọi. Tôi đã gọi cá hồi.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "restaurant"
+  },
+  {
+    "id": "daily-restaurant-010",
+    "en": "Could we get some more water, please?",
+    "vn": "Cho chúng tôi thêm nước được không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "restaurant"
+  },
+  {
+    "id": "daily-restaurant-011",
+    "en": "Everything was delicious. Compliments to the chef.",
+    "vn": "Mọi thứ đều ngon. Khen đầu bếp giúp tôi nhé.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "restaurant"
+  },
+  {
+    "id": "daily-restaurant-012",
+    "en": "Could we get the bill please? We'll split it.",
+    "vn": "Cho chúng tôi tính tiền nhé? Chúng tôi chia đôi.",
+    "note": "split the bill = chia tiền",
+    "category": "daily-life",
+    "subcategory": "restaurant"
+  },
+  {
+    "id": "daily-restaurant-013",
+    "en": "Is service charge included in the bill?",
+    "vn": "Phí phục vụ có bao gồm trong hóa đơn không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "restaurant"
+  },
+  {
+    "id": "daily-transport-001",
+    "en": "Could you take me to the Marriott Hotel on Nguyen Hue Street?",
+    "vn": "Bạn có thể đưa tôi đến khách sạn Marriott trên đường Nguyễn Huệ không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "transport"
+  },
+  {
+    "id": "daily-transport-002",
+    "en": "How long will it take to get there?",
+    "vn": "Mất bao lâu để đến đó?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "transport"
+  },
+  {
+    "id": "daily-transport-003",
+    "en": "Could you please turn on the air conditioning?",
+    "vn": "Bạn có thể bật điều hòa được không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "transport"
+  },
+  {
+    "id": "daily-transport-004",
+    "en": "Please drop me off at the corner.",
+    "vn": "Vui lòng để tôi xuống ở góc đường.",
+    "note": "drop off = để xuống (xe)",
+    "category": "daily-life",
+    "subcategory": "transport"
+  },
+  {
+    "id": "daily-transport-005",
+    "en": "Keep the change.",
+    "vn": "Bạn giữ tiền lẻ đi.",
+    "note": "Câu boa cho tài xế",
+    "category": "daily-life",
+    "subcategory": "transport"
+  },
+  {
+    "id": "daily-transport-006",
+    "en": "Excuse me, how do I get to the nearest subway station?",
+    "vn": "Xin lỗi, tôi đi đến trạm tàu điện ngầm gần nhất như thế nào?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "transport"
+  },
+  {
+    "id": "daily-transport-007",
+    "en": "Is this the right bus for the city centre?",
+    "vn": "Đây có phải xe buýt đi trung tâm thành phố không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "transport"
+  },
+  {
+    "id": "daily-transport-008",
+    "en": "Where should I get off for the museum?",
+    "vn": "Tôi nên xuống trạm nào để đến bảo tàng?",
+    "note": "get off = xuống (xe buýt/tàu)",
+    "category": "daily-life",
+    "subcategory": "transport"
+  },
+  {
+    "id": "daily-transport-009",
+    "en": "I think I'm lost. Can you show me on the map?",
+    "vn": "Tôi nghĩ mình bị lạc. Bạn có thể chỉ cho tôi trên bản đồ không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "transport"
+  },
+  {
+    "id": "daily-transport-010",
+    "en": "How far is it on foot from here?",
+    "vn": "Từ đây đi bộ bao xa?",
+    "note": "on foot = đi bộ",
+    "category": "daily-life",
+    "subcategory": "transport"
+  },
+  {
+    "id": "daily-transport-011",
+    "en": "Could you call me an Uber/Grab?",
+    "vn": "Bạn có thể gọi Uber/Grab cho tôi không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "transport"
+  },
+  {
+    "id": "daily-transport-012",
+    "en": "I'll be at the departures terminal in 10 minutes.",
+    "vn": "Tôi sẽ đến sảnh khởi hành trong 10 phút.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "transport"
+  },
+  {
+    "id": "daily-shopping-001",
+    "en": "I'm just browsing, thank you.",
+    "vn": "Tôi chỉ đang xem thôi, cảm ơn.",
+    "note": "Khi nhân viên hỏi có cần giúp không",
+    "category": "daily-life",
+    "subcategory": "shopping"
+  },
+  {
+    "id": "daily-shopping-002",
+    "en": "Do you have this in a larger size?",
+    "vn": "Bạn có cái này size lớn hơn không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "shopping"
+  },
+  {
+    "id": "daily-shopping-003",
+    "en": "Could I try this on? Where's the fitting room?",
+    "vn": "Tôi có thể mặc thử không? Phòng thử đồ ở đâu?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "shopping"
+  },
+  {
+    "id": "daily-shopping-004",
+    "en": "This is a bit tight. Do you have the next size up?",
+    "vn": "Cái này hơi chật. Bạn có size lớn hơn một bậc không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "shopping"
+  },
+  {
+    "id": "daily-shopping-005",
+    "en": "Is this on sale? Do you have any discounts?",
+    "vn": "Cái này có đang giảm giá không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "shopping"
+  },
+  {
+    "id": "daily-shopping-006",
+    "en": "Do you do tax refunds for tourists?",
+    "vn": "Bạn có hoàn thuế cho khách du lịch không?",
+    "note": "tax refund = hoàn thuế",
+    "category": "daily-life",
+    "subcategory": "shopping"
+  },
+  {
+    "id": "daily-shopping-007",
+    "en": "Could I return this if it doesn't fit?",
+    "vn": "Tôi có thể trả lại nếu không vừa không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "shopping"
+  },
+  {
+    "id": "daily-shopping-008",
+    "en": "Do you have ibuprofen over the counter?",
+    "vn": "Bạn có ibuprofen bán không cần toa không?",
+    "note": "over the counter = không cần toa thuốc",
+    "category": "daily-life",
+    "subcategory": "shopping"
+  },
+  {
+    "id": "daily-shopping-009",
+    "en": "I need something for a cold and a sore throat.",
+    "vn": "Tôi cần thuốc cho cảm lạnh và đau họng.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "shopping"
+  },
+  {
+    "id": "daily-shopping-010",
+    "en": "Is this medication safe to take with antibiotics?",
+    "vn": "Thuốc này có an toàn khi dùng cùng kháng sinh không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "shopping"
+  },
+  {
+    "id": "daily-shopping-011",
+    "en": "What are the dosage instructions?",
+    "vn": "Hướng dẫn liều dùng là gì?",
+    "note": "dosage = liều dùng",
+    "category": "daily-life",
+    "subcategory": "shopping"
+  },
+  {
+    "id": "daily-shopping-012",
+    "en": "Do I need a prescription for this?",
+    "vn": "Tôi có cần toa thuốc cho loại này không?",
+    "note": "prescription = toa thuốc",
+    "category": "daily-life",
+    "subcategory": "shopping"
+  },
+  {
+    "id": "daily-hotel-001",
+    "en": "I have a reservation. The name is Dr. Nguyen.",
+    "vn": "Tôi có đặt phòng. Tên là bác sĩ Nguyễn.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "hotel"
+  },
+  {
+    "id": "daily-hotel-002",
+    "en": "Could I have a room with a higher floor?",
+    "vn": "Tôi có thể có phòng tầng cao hơn không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "hotel"
+  },
+  {
+    "id": "daily-hotel-003",
+    "en": "Is the breakfast included?",
+    "vn": "Bữa sáng có bao gồm không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "hotel"
+  },
+  {
+    "id": "daily-hotel-004",
+    "en": "What time is checkout?",
+    "vn": "Checkout lúc mấy giờ?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "hotel"
+  },
+  {
+    "id": "daily-hotel-005",
+    "en": "Could I request a late checkout — around noon?",
+    "vn": "Tôi có thể xin checkout muộn — khoảng trưa không?",
+    "note": "late checkout = checkout muộn hơn giờ quy định",
+    "category": "daily-life",
+    "subcategory": "hotel"
+  },
+  {
+    "id": "daily-hotel-006",
+    "en": "The air conditioning doesn't seem to be working.",
+    "vn": "Điều hòa không chạy được.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "hotel"
+  },
+  {
+    "id": "daily-hotel-007",
+    "en": "There's no hot water in my room.",
+    "vn": "Phòng tôi không có nước nóng.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "hotel"
+  },
+  {
+    "id": "daily-hotel-008",
+    "en": "Could I get some extra towels and toiletries?",
+    "vn": "Cho tôi xin thêm khăn và đồ vệ sinh cá nhân.",
+    "note": "toiletries = đồ vệ sinh cá nhân",
+    "category": "daily-life",
+    "subcategory": "hotel"
+  },
+  {
+    "id": "daily-hotel-009",
+    "en": "Could you arrange an airport transfer for 6 am?",
+    "vn": "Bạn có thể sắp xếp xe đưa ra sân bay lúc 6 giờ sáng không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "hotel"
+  },
+  {
+    "id": "daily-hotel-010",
+    "en": "I'd like to extend my stay by one night.",
+    "vn": "Tôi muốn ở thêm một đêm nữa.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "hotel"
+  },
+  {
+    "id": "daily-hotel-011",
+    "en": "Can I leave my luggage here while I check out?",
+    "vn": "Tôi có thể để hành lý ở đây trong khi checkout không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "hotel"
+  },
+  {
+    "id": "daily-hotel-012",
+    "en": "Could you recommend a good local restaurant nearby?",
+    "vn": "Bạn có thể giới thiệu một nhà hàng địa phương ngon gần đây không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "hotel"
+  },
+  {
+    "id": "daily-phone-001",
+    "en": "Hello, this is Dr. Nguyen calling.",
+    "vn": "Xin chào, tôi là bác sĩ Nguyễn gọi.",
+    "note": "Câu mở đầu điện thoại công việc",
+    "category": "daily-life",
+    "subcategory": "phone"
+  },
+  {
+    "id": "daily-phone-002",
+    "en": "Could I speak to Dr. Smith, please?",
+    "vn": "Tôi có thể nói chuyện với bác sĩ Smith không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "phone"
+  },
+  {
+    "id": "daily-phone-003",
+    "en": "I'm sorry, could you speak a bit louder? The line isn't great.",
+    "vn": "Xin lỗi, bạn có thể nói to hơn một chút không? Đường truyền không tốt lắm.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "phone"
+  },
+  {
+    "id": "daily-phone-004",
+    "en": "Sorry, I didn't catch that. Could you repeat?",
+    "vn": "Xin lỗi, tôi không nghe rõ. Bạn có thể nói lại không?",
+    "note": "Câu quan trọng! Đừng ngại dùng.",
+    "category": "daily-life",
+    "subcategory": "phone"
+  },
+  {
+    "id": "daily-phone-005",
+    "en": "I'd like to make an appointment for next Tuesday.",
+    "vn": "Tôi muốn đặt lịch hẹn vào thứ Ba tuần tới.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "phone"
+  },
+  {
+    "id": "daily-phone-006",
+    "en": "Could we reschedule our meeting? Something's come up.",
+    "vn": "Chúng ta có thể đổi lịch họp không? Có việc đột xuất.",
+    "note": "reschedule = đổi lịch; something came up = có việc đột xuất",
+    "category": "daily-life",
+    "subcategory": "phone"
+  },
+  {
+    "id": "daily-phone-007",
+    "en": "What time works best for you?",
+    "vn": "Thời gian nào phù hợp nhất với bạn?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "phone"
+  },
+  {
+    "id": "daily-phone-008",
+    "en": "Would 3 pm on Thursday work?",
+    "vn": "3 giờ chiều thứ Năm có được không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "phone"
+  },
+  {
+    "id": "daily-phone-009",
+    "en": "Could you send me a calendar invite?",
+    "vn": "Bạn có thể gửi cho tôi lời mời lịch không?",
+    "note": "calendar invite = lời mời trên lịch",
+    "category": "daily-life",
+    "subcategory": "phone"
+  },
+  {
+    "id": "daily-phone-010",
+    "en": "I'll have to get back to you on that.",
+    "vn": "Tôi sẽ phải trả lời bạn sau về vấn đề đó.",
+    "note": "get back to someone = liên hệ lại",
+    "category": "daily-life",
+    "subcategory": "phone"
+  },
+  {
+    "id": "daily-phone-011",
+    "en": "Let me check my schedule and confirm.",
+    "vn": "Để tôi kiểm tra lịch và xác nhận.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "phone"
+  },
+  {
+    "id": "daily-phone-012",
+    "en": "I'm afraid I have to cancel our appointment.",
+    "vn": "Tôi e rằng phải hủy cuộc hẹn của chúng ta.",
+    "note": "I'm afraid = tiếc rằng (lịch sự)",
+    "category": "daily-life",
+    "subcategory": "phone"
+  },
+  {
+    "id": "daily-airport-001",
+    "en": "Could you tell me where the check-in counter for Singapore Airlines is?",
+    "vn": "Bạn có thể chỉ cho tôi quầy check-in của Singapore Airlines ở đâu không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "airport"
+  },
+  {
+    "id": "daily-airport-002",
+    "en": "I'd prefer a window seat, please.",
+    "vn": "Tôi muốn ngồi ghế cạnh cửa sổ.",
+    "note": "window / middle / aisle seat",
+    "category": "daily-life",
+    "subcategory": "airport"
+  },
+  {
+    "id": "daily-airport-003",
+    "en": "Is my flight on time?",
+    "vn": "Chuyến bay của tôi có đúng giờ không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "airport"
+  },
+  {
+    "id": "daily-airport-004",
+    "en": "My flight has been delayed. Is there another option?",
+    "vn": "Chuyến bay của tôi bị hoãn. Có lựa chọn nào khác không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "airport"
+  },
+  {
+    "id": "daily-airport-005",
+    "en": "I need to make my connecting flight in Singapore.",
+    "vn": "Tôi cần kịp chuyến bay nối ở Singapore.",
+    "note": "connecting flight = chuyến bay nối",
+    "category": "daily-life",
+    "subcategory": "airport"
+  },
+  {
+    "id": "daily-airport-006",
+    "en": "My luggage is overweight. What's the excess baggage fee?",
+    "vn": "Hành lý của tôi bị quá cân. Phí hành lý thêm là bao nhiêu?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "airport"
+  },
+  {
+    "id": "daily-airport-007",
+    "en": "Where is gate C12?",
+    "vn": "Cửa ra máy bay C12 ở đâu?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "airport"
+  },
+  {
+    "id": "daily-airport-008",
+    "en": "Could I get a transit hotel voucher?",
+    "vn": "Tôi có thể nhận voucher khách sạn quá cảnh không?",
+    "note": "transit = quá cảnh",
+    "category": "daily-life",
+    "subcategory": "airport"
+  },
+  {
+    "id": "daily-airport-009",
+    "en": "Could I request a wheelchair for my patient?",
+    "vn": "Tôi có thể yêu cầu xe lăn cho bệnh nhân của tôi không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "airport"
+  },
+  {
+    "id": "daily-airport-010",
+    "en": "Do I need to re-check my bags for the connecting flight?",
+    "vn": "Tôi có cần check lại hành lý cho chuyến bay nối không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "airport"
+  },
+  {
+    "id": "daily-airport-011",
+    "en": "Where is the duty-free shopping area?",
+    "vn": "Khu mua sắm miễn thuế ở đâu?",
+    "note": "duty-free = hàng miễn thuế",
+    "category": "daily-life",
+    "subcategory": "airport"
+  },
+  {
+    "id": "daily-airport-012",
+    "en": "What's the Wi-Fi password for the lounge?",
+    "vn": "Mật khẩu Wi-Fi của phòng chờ là gì?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "airport"
+  },
+  {
+    "id": "daily-social-001",
+    "en": "In my opinion, this approach works better because...",
+    "vn": "Theo ý kiến của tôi, cách này hiệu quả hơn vì...",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "social"
+  },
+  {
+    "id": "daily-social-002",
+    "en": "That's a good point, but I see it slightly differently.",
+    "vn": "Đó là điểm hay, nhưng tôi thấy hơi khác một chút.",
+    "note": "Cách phản bác lịch sự",
+    "category": "daily-life",
+    "subcategory": "social"
+  },
+  {
+    "id": "daily-social-003",
+    "en": "I completely agree with you on that.",
+    "vn": "Tôi hoàn toàn đồng ý với bạn về điều đó.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "social"
+  },
+  {
+    "id": "daily-social-004",
+    "en": "I'm not sure I agree — could you explain more?",
+    "vn": "Tôi không chắc đồng ý — bạn có thể giải thích thêm không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "social"
+  },
+  {
+    "id": "daily-social-005",
+    "en": "To be honest, I'm not really a fan of that idea.",
+    "vn": "Thật ra, tôi không mấy hứng thú với ý tưởng đó.",
+    "note": "to be honest = thật ra, nói thật",
+    "category": "daily-life",
+    "subcategory": "social"
+  },
+  {
+    "id": "daily-social-006",
+    "en": "That's fascinating! I hadn't thought of it that way.",
+    "vn": "Thú vị thật! Tôi chưa nghĩ theo hướng đó.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "social"
+  },
+  {
+    "id": "daily-social-007",
+    "en": "I'm really impressed by how they managed that.",
+    "vn": "Tôi thực sự ấn tượng với cách họ xử lý điều đó.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "social"
+  },
+  {
+    "id": "daily-social-008",
+    "en": "Honestly, I'm a bit overwhelmed at the moment.",
+    "vn": "Thật ra, tôi đang hơi bị quá tải lúc này.",
+    "note": "overwhelmed = quá tải, ngập đầu",
+    "category": "daily-life",
+    "subcategory": "social"
+  },
+  {
+    "id": "daily-social-009",
+    "en": "I couldn't agree more — that's exactly how I feel.",
+    "vn": "Tôi đồng ý hoàn toàn — đó chính xác là cảm giác của tôi.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "social"
+  },
+  {
+    "id": "daily-social-010",
+    "en": "Let me think about that for a moment.",
+    "vn": "Để tôi suy nghĩ một chút.",
+    "note": "Câu hay để câu giờ khi cần nghĩ",
+    "category": "daily-life",
+    "subcategory": "social"
+  },
+  {
+    "id": "daily-social-011",
+    "en": "I see where you're coming from.",
+    "vn": "Tôi hiểu ý bạn nói.",
+    "note": "Thể hiện bạn đang nghe và hiểu",
+    "category": "daily-life",
+    "subcategory": "social"
+  },
+  {
+    "id": "daily-social-012",
+    "en": "Fair enough — you make a valid point.",
+    "vn": "Có lý đó — bạn đưa ra quan điểm xác đáng.",
+    "note": "fair enough = có lý",
+    "category": "daily-life",
+    "subcategory": "social"
+  },
+  {
+    "id": "daily-plans-001",
+    "en": "Are you free this weekend?",
+    "vn": "Cuối tuần này bạn rảnh không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "plans"
+  },
+  {
+    "id": "daily-plans-002",
+    "en": "Would you like to grab dinner after the conference?",
+    "vn": "Bạn có muốn ăn tối sau hội nghị không?",
+    "note": "grab = rủ đi (thân mật)",
+    "category": "daily-life",
+    "subcategory": "plans"
+  },
+  {
+    "id": "daily-plans-003",
+    "en": "I was wondering if you'd like to join us for drinks?",
+    "vn": "Tôi tự hỏi liệu bạn có muốn cùng chúng tôi đi uống không?",
+    "note": "Cách mời lịch sự, ít áp lực hơn",
+    "category": "daily-life",
+    "subcategory": "plans"
+  },
+  {
+    "id": "daily-plans-004",
+    "en": "That sounds great! What time were you thinking?",
+    "vn": "Nghe hay đó! Bạn nghĩ khoảng mấy giờ?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "plans"
+  },
+  {
+    "id": "daily-plans-005",
+    "en": "I'd love to, but I have a prior commitment.",
+    "vn": "Tôi rất muốn, nhưng tôi có việc đã hẹn trước.",
+    "note": "prior commitment = việc đã có trước",
+    "category": "daily-life",
+    "subcategory": "plans"
+  },
+  {
+    "id": "daily-plans-006",
+    "en": "Could we do it another time? I'm swamped this week.",
+    "vn": "Chúng ta có thể làm lần khác không? Tuần này tôi kẹt lắm.",
+    "note": "swamped = ngập đầu công việc",
+    "category": "daily-life",
+    "subcategory": "plans"
+  },
+  {
+    "id": "daily-plans-007",
+    "en": "Let me check and get back to you.",
+    "vn": "Để tôi kiểm tra rồi trả lời bạn sau.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "plans"
+  },
+  {
+    "id": "daily-plans-008",
+    "en": "Count me in!",
+    "vn": "Tính tôi vào!",
+    "note": "count me in = tôi tham gia",
+    "category": "daily-life",
+    "subcategory": "plans"
+  },
+  {
+    "id": "daily-plans-009",
+    "en": "I'll have to take a rain check on that.",
+    "vn": "Tôi phải hoãn lại lần này.",
+    "note": "rain check = hẹn lại lần khác (thành ngữ Mỹ)",
+    "category": "daily-life",
+    "subcategory": "plans"
+  },
+  {
+    "id": "daily-plans-010",
+    "en": "Do you want to split a cab to the restaurant?",
+    "vn": "Bạn có muốn đi chung taxi đến nhà hàng không?",
+    "note": "split a cab = đi chung taxi chia tiền",
+    "category": "daily-life",
+    "subcategory": "plans"
+  },
+  {
+    "id": "daily-plans-011",
+    "en": "It's my treat tonight.",
+    "vn": "Tối nay tôi mời.",
+    "note": "my treat = tôi mời (trả tiền)",
+    "category": "daily-life",
+    "subcategory": "plans"
+  },
+  {
+    "id": "daily-plans-012",
+    "en": "Dutch? We'll split the bill.",
+    "vn": "Chia đôi nhé? Chúng ta chia tiền.",
+    "note": "go Dutch = chia tiền",
+    "category": "daily-life",
+    "subcategory": "plans"
+  },
+  {
+    "id": "daily-problems-001",
+    "en": "Excuse me, I think there's been a mistake with my order.",
+    "vn": "Xin lỗi, tôi nghĩ có sự nhầm lẫn với đơn của tôi.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "problems"
+  },
+  {
+    "id": "daily-problems-002",
+    "en": "I'm not happy with the service I received today.",
+    "vn": "Tôi không hài lòng với dịch vụ hôm nay.",
+    "note": "Câu phàn nàn nhẹ nhàng",
+    "category": "daily-life",
+    "subcategory": "problems"
+  },
+  {
+    "id": "daily-problems-003",
+    "en": "I'd like to speak with the manager, please.",
+    "vn": "Tôi muốn nói chuyện với quản lý.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "problems"
+  },
+  {
+    "id": "daily-problems-004",
+    "en": "This isn't what I was told. I was promised that...",
+    "vn": "Đây không phải những gì tôi được nói. Tôi được hứa rằng...",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "problems"
+  },
+  {
+    "id": "daily-problems-005",
+    "en": "Could you help me resolve this issue?",
+    "vn": "Bạn có thể giúp tôi giải quyết vấn đề này không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "problems"
+  },
+  {
+    "id": "daily-problems-006",
+    "en": "I was overcharged. The menu says $15 but I was charged $20.",
+    "vn": "Tôi bị tính tiền sai. Menu ghi 15$ nhưng tôi bị tính 20$.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "problems"
+  },
+  {
+    "id": "daily-problems-007",
+    "en": "I'd like a refund, please.",
+    "vn": "Tôi muốn được hoàn tiền.",
+    "note": "refund = hoàn tiền",
+    "category": "daily-life",
+    "subcategory": "problems"
+  },
+  {
+    "id": "daily-problems-008",
+    "en": "There's been a mix-up with my booking.",
+    "vn": "Có sự nhầm lẫn với đặt chỗ của tôi.",
+    "note": "mix-up = nhầm lẫn",
+    "category": "daily-life",
+    "subcategory": "problems"
+  },
+  {
+    "id": "daily-problems-009",
+    "en": "I understand you're busy, but this has been going on for a while.",
+    "vn": "Tôi hiểu bạn đang bận, nhưng vấn đề này đã kéo dài một lúc rồi.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "problems"
+  },
+  {
+    "id": "daily-problems-010",
+    "en": "I appreciate your help in sorting this out.",
+    "vn": "Tôi đánh giá cao sự giúp đỡ của bạn trong việc giải quyết điều này.",
+    "note": "sorting out = giải quyết, sắp xếp",
+    "category": "daily-life",
+    "subcategory": "problems"
+  },
+  {
+    "id": "daily-problems-011",
+    "en": "Could I have that in writing?",
+    "vn": "Tôi có thể có điều đó bằng văn bản không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "problems"
+  },
+  {
+    "id": "daily-problems-012",
+    "en": "I'll follow up with an email.",
+    "vn": "Tôi sẽ theo dõi bằng email.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "problems"
+  },
+  {
+    "id": "daily-clarification-001",
+    "en": "Sorry, I didn't quite catch that. Could you repeat?",
+    "vn": "Xin lỗi, tôi không bắt kịp. Bạn có thể nói lại không?",
+    "note": "CÂU QUAN TRỌNG NHẤT — dùng tự tin!",
+    "category": "daily-life",
+    "subcategory": "clarification"
+  },
+  {
+    "id": "daily-clarification-002",
+    "en": "Could you slow down a little? My English is still improving.",
+    "vn": "Bạn có thể nói chậm hơn không? Tiếng Anh của tôi vẫn đang cải thiện.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "clarification"
+  },
+  {
+    "id": "daily-clarification-003",
+    "en": "I'm sorry, could you say that in a different way?",
+    "vn": "Xin lỗi, bạn có thể diễn đạt theo cách khác không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "clarification"
+  },
+  {
+    "id": "daily-clarification-004",
+    "en": "Could you spell that out for me?",
+    "vn": "Bạn có thể đánh vần cho tôi không?",
+    "note": "Khi không nghe rõ tên/từ lạ",
+    "category": "daily-life",
+    "subcategory": "clarification"
+  },
+  {
+    "id": "daily-clarification-005",
+    "en": "What does [word] mean exactly?",
+    "vn": "[từ] có nghĩa chính xác là gì?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "clarification"
+  },
+  {
+    "id": "daily-clarification-006",
+    "en": "So if I understand correctly, you're saying that...",
+    "vn": "Vậy nếu tôi hiểu đúng, bạn đang nói rằng...",
+    "note": "Xác nhận lại ý hiểu — rất chuyên nghiệp",
+    "category": "daily-life",
+    "subcategory": "clarification"
+  },
+  {
+    "id": "daily-clarification-007",
+    "en": "Let me make sure I understand — you mean...?",
+    "vn": "Để tôi chắc chắn tôi hiểu — ý bạn là...?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "clarification"
+  },
+  {
+    "id": "daily-clarification-008",
+    "en": "Could you write that down? I want to make sure I get it right.",
+    "vn": "Bạn có thể viết ra không? Tôi muốn đảm bảo hiểu đúng.",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "clarification"
+  },
+  {
+    "id": "daily-clarification-009",
+    "en": "Sorry — the line is a bit unclear. Could you repeat that?",
+    "vn": "Xin lỗi — đường dây hơi không rõ. Bạn có thể nói lại không?",
+    "note": "Dùng qua điện thoại",
+    "category": "daily-life",
+    "subcategory": "clarification"
+  },
+  {
+    "id": "daily-clarification-010",
+    "en": "I think I understand, but let me confirm — you said [X], right?",
+    "vn": "Tôi nghĩ tôi hiểu, nhưng để tôi xác nhận — bạn nói [X], đúng không?",
+    "note": "",
+    "category": "daily-life",
+    "subcategory": "clarification"
+  },
+  {
+    "id": "daily-clarification-011",
+    "en": "Bear with me — I'm still thinking of the right word.",
+    "vn": "Chịu khó đợi tôi một chút — tôi vẫn đang nghĩ từ phù hợp.",
+    "note": "bear with me = kiên nhẫn với tôi",
+    "category": "daily-life",
+    "subcategory": "clarification"
+  },
+  {
+    "id": "daily-clarification-012",
+    "en": "Excuse my English — I'm still learning.",
+    "vn": "Xin lỗi vì tiếng Anh của tôi — tôi vẫn đang học.",
+    "note": "Câu tự tin và chân thành",
+    "category": "daily-life",
+    "subcategory": "clarification"
+  },
+  {
+    "id": "med-conf-presentation-001",
+    "en": "Good morning everyone. I'd like to present an interesting case.",
+    "vn": "Chào buổi sáng mọi người. Tôi muốn trình bày một ca thú vị.",
+    "note": "",
+    "category": "conference",
+    "subcategory": "presentation"
+  },
+  {
+    "id": "med-conf-presentation-002",
+    "en": "The patient is a 45-year-old male presenting with a 3-week history of hearing loss.",
+    "vn": "Bệnh nhân nam 45 tuổi, bệnh sử 3 tuần giảm thính lực.",
+    "note": "",
+    "category": "conference",
+    "subcategory": "presentation"
+  },
+  {
+    "id": "med-conf-presentation-003",
+    "en": "On examination, we found significant cerumen impaction bilaterally.",
+    "vn": "Khi khám, chúng tôi thấy ráy tai tắc nghẽn 2 bên.",
+    "note": "cerumen impaction = ráy tai tắc; bilateral = 2 bên",
+    "category": "conference",
+    "subcategory": "presentation"
+  },
+  {
+    "id": "med-conf-presentation-004",
+    "en": "The CT scan revealed opacification of the right maxillary sinus.",
+    "vn": "CT scan cho thấy mờ đục xoang hàm phải.",
+    "note": "maxillary sinus = xoang hàm",
+    "category": "conference",
+    "subcategory": "presentation"
+  },
+  {
+    "id": "med-conf-presentation-005",
+    "en": "After treatment, the patient showed significant improvement.",
+    "vn": "Sau điều trị, bệnh nhân cải thiện đáng kể.",
+    "note": "",
+    "category": "conference",
+    "subcategory": "presentation"
+  },
+  {
+    "id": "med-conf-presentation-006",
+    "en": "In conclusion, this case highlights the importance of early diagnosis.",
+    "vn": "Kết luận, ca này nhấn mạnh tầm quan trọng của chẩn đoán sớm.",
+    "note": "",
+    "category": "conference",
+    "subcategory": "presentation"
+  },
+  {
+    "id": "med-conf-presentation-007",
+    "en": "I'd be happy to take any questions.",
+    "vn": "Tôi sẵn sàng nhận câu hỏi.",
+    "note": "",
+    "category": "conference",
+    "subcategory": "presentation"
+  },
+  {
+    "id": "med-conf-networking-001",
+    "en": "Your presentation was very insightful. I have a similar experience in my practice.",
+    "vn": "Bài trình bày của bạn rất sâu sắc. Tôi có kinh nghiệm tương tự trong thực hành.",
+    "note": "",
+    "category": "conference",
+    "subcategory": "networking"
+  },
+  {
+    "id": "med-conf-networking-002",
+    "en": "Could we exchange contact details? I'd love to collaborate.",
+    "vn": "Chúng ta có thể trao đổi thông tin liên hệ không? Tôi muốn hợp tác.",
+    "note": "",
+    "category": "conference",
+    "subcategory": "networking"
+  },
+  {
+    "id": "med-conf-networking-003",
+    "en": "Which hospital do you work at?",
+    "vn": "Bạn làm ở bệnh viện nào?",
+    "note": "",
+    "category": "conference",
+    "subcategory": "networking"
+  },
+  {
+    "id": "med-conf-networking-004",
+    "en": "Have you published any papers on this topic?",
+    "vn": "Bạn có đăng bài về chủ đề này chưa?",
+    "note": "paper = bài báo khoa học",
+    "category": "conference",
+    "subcategory": "networking"
+  },
+  {
+    "id": "med-conf-networking-005",
+    "en": "What's your approach to difficult cases like this?",
+    "vn": "Cách tiếp cận của bạn với các ca khó như thế này là gì?",
+    "note": "",
+    "category": "conference",
+    "subcategory": "networking"
+  },
+  {
+    "id": "med-conf-networking-006",
+    "en": "We use a slightly different protocol in Vietnam. Let me tell you about it.",
+    "vn": "Ở Việt Nam chúng tôi dùng phác đồ hơi khác. Để tôi kể cho bạn nghe.",
+    "note": "",
+    "category": "conference",
+    "subcategory": "networking"
+  },
+  {
+    "id": "med-conf-discussion-001",
+    "en": "I agree with your point, however I'd like to add...",
+    "vn": "Tôi đồng ý với quan điểm của bạn, nhưng tôi muốn bổ sung...",
+    "note": "",
+    "category": "conference",
+    "subcategory": "discussion"
+  },
+  {
+    "id": "med-conf-discussion-002",
+    "en": "Based on the evidence, I think the first-line treatment should be...",
+    "vn": "Dựa trên bằng chứng, tôi nghĩ điều trị hàng đầu nên là...",
+    "note": "",
+    "category": "conference",
+    "subcategory": "discussion"
+  },
+  {
+    "id": "med-conf-discussion-003",
+    "en": "What does the current literature say about this?",
+    "vn": "Tài liệu hiện tại nói gì về vấn đề này?",
+    "note": "literature = tài liệu y văn",
+    "category": "conference",
+    "subcategory": "discussion"
+  },
+  {
+    "id": "med-conf-discussion-004",
+    "en": "That's a valid point. We've seen similar results.",
+    "vn": "Đó là điểm hợp lệ. Chúng tôi cũng thấy kết quả tương tự.",
+    "note": "",
+    "category": "conference",
+    "subcategory": "discussion"
+  },
+  {
+    "id": "med-conf-discussion-005",
+    "en": "Could you clarify what you mean by that?",
+    "vn": "Bạn có thể làm rõ ý bạn không?",
+    "note": "Câu lịch sự để hỏi lại khi chưa hiểu.",
+    "category": "conference",
+    "subcategory": "discussion"
+  }
+]

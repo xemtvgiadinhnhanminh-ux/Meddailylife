@@ -1,0 +1,237 @@
+{
+  "greeting": {
+    "label": "👋 Chào hỏi",
+    "phrases": [
+      {
+        "id": "med-consult-greeting-001",
+        "en": "Good morning! Please come in and have a seat.",
+        "vn": "Chào buổi sáng! Mời vào và ngồi đây.",
+        "note": ""
+      },
+      {
+        "id": "med-consult-greeting-002",
+        "en": "Hello, I'm Dr. [Your name]. How can I help you today?",
+        "vn": "Xin chào, tôi là bác sĩ [Tên]. Hôm nay bạn cần khám gì?",
+        "note": ""
+      },
+      {
+        "id": "med-consult-greeting-003",
+        "en": "What brings you here today?",
+        "vn": "Hôm nay bạn đến vì vấn đề gì?",
+        "note": "Câu hỏi mở, thường dùng nhất khi bắt đầu khám."
+      },
+      {
+        "id": "med-consult-greeting-004",
+        "en": "How long have you had this problem?",
+        "vn": "Vấn đề này đã được bao lâu rồi?",
+        "note": ""
+      },
+      {
+        "id": "med-consult-greeting-005",
+        "en": "Is this the first time you've experienced this?",
+        "vn": "Đây có phải lần đầu bạn bị như vậy không?",
+        "note": ""
+      },
+      {
+        "id": "med-consult-greeting-006",
+        "en": "Please describe your symptoms.",
+        "vn": "Hãy mô tả các triệu chứng của bạn.",
+        "note": ""
+      }
+    ]
+  },
+  "ear": {
+    "label": "👂 Khám Tai",
+    "phrases": [
+      {
+        "id": "med-consult-ear-001",
+        "en": "Do you have any ear pain?",
+        "vn": "Bạn có đau tai không?",
+        "note": ""
+      },
+      {
+        "id": "med-consult-ear-002",
+        "en": "Are you experiencing any hearing loss?",
+        "vn": "Bạn có bị giảm thính lực không?",
+        "note": ""
+      },
+      {
+        "id": "med-consult-ear-003",
+        "en": "Do you have any ringing in your ears?",
+        "vn": "Bạn có bị ù tai không?",
+        "note": "Ringing in ears = tinnitus /ˈtɪnɪtəs/"
+      },
+      {
+        "id": "med-consult-ear-004",
+        "en": "Is there any discharge coming from your ear?",
+        "vn": "Có dịch chảy ra từ tai không?",
+        "note": "discharge = dịch tiết"
+      },
+      {
+        "id": "med-consult-ear-005",
+        "en": "Do you feel dizzy or have problems with balance?",
+        "vn": "Bạn có chóng mặt hoặc mất thăng bằng không?",
+        "note": "dizzy = chóng mặt, balance = thăng bằng"
+      },
+      {
+        "id": "med-consult-ear-006",
+        "en": "I'm going to examine your ear now. Please hold still.",
+        "vn": "Tôi sẽ khám tai cho bạn bây giờ. Vui lòng giữ yên.",
+        "note": ""
+      },
+      {
+        "id": "med-consult-ear-007",
+        "en": "I can see some earwax buildup. That's likely causing the problem.",
+        "vn": "Tôi thấy có ráy tai tích tụ. Đó có thể là nguyên nhân.",
+        "note": "earwax buildup = ráy tai tích tụ"
+      },
+      {
+        "id": "med-consult-ear-008",
+        "en": "Your eardrum looks normal.",
+        "vn": "Màng nhĩ của bạn trông bình thường.",
+        "note": "eardrum = màng nhĩ"
+      },
+      {
+        "id": "med-consult-ear-009",
+        "en": "There appears to be a foreign object in your ear.",
+        "vn": "Có vẻ có dị vật trong tai bạn.",
+        "note": "foreign object = dị vật"
+      }
+    ]
+  },
+  "nose": {
+    "label": "👃 Khám Mũi",
+    "phrases": [
+      {
+        "id": "med-consult-nose-001",
+        "en": "Do you have a stuffy or blocked nose?",
+        "vn": "Bạn có nghẹt mũi không?",
+        "note": "stuffy/blocked nose = nghẹt mũi"
+      },
+      {
+        "id": "med-consult-nose-002",
+        "en": "Are you experiencing any nasal discharge? What color is it?",
+        "vn": "Bạn có chảy nước mũi không? Màu gì?",
+        "note": "nasal discharge = nước mũi chảy"
+      },
+      {
+        "id": "med-consult-nose-003",
+        "en": "Do you have frequent nosebleeds?",
+        "vn": "Bạn có hay bị chảy máu mũi không?",
+        "note": "nosebleed = chảy máu cam"
+      },
+      {
+        "id": "med-consult-nose-004",
+        "en": "Have you lost your sense of smell?",
+        "vn": "Bạn có mất mùi không?",
+        "note": "sense of smell = khứu giác"
+      },
+      {
+        "id": "med-consult-nose-005",
+        "en": "Do you have any allergies?",
+        "vn": "Bạn có bị dị ứng gì không?",
+        "note": ""
+      },
+      {
+        "id": "med-consult-nose-006",
+        "en": "Has your nose been injured before?",
+        "vn": "Mũi bạn đã từng bị chấn thương chưa?",
+        "note": ""
+      },
+      {
+        "id": "med-consult-nose-007",
+        "en": "I'm going to spray some decongestant into your nose before the examination.",
+        "vn": "Tôi sẽ xịt thuốc co mạch vào mũi trước khi khám.",
+        "note": "decongestant = thuốc co mạch/thông mũi"
+      }
+    ]
+  },
+  "throat": {
+    "label": "🗣️ Khám Họng",
+    "phrases": [
+      {
+        "id": "med-consult-throat-001",
+        "en": "Do you have a sore throat?",
+        "vn": "Bạn có đau họng không?",
+        "note": ""
+      },
+      {
+        "id": "med-consult-throat-002",
+        "en": "How long have you had trouble swallowing?",
+        "vn": "Bạn bị khó nuốt được bao lâu rồi?",
+        "note": "swallowing = nuốt"
+      },
+      {
+        "id": "med-consult-throat-003",
+        "en": "Do you have a hoarse voice?",
+        "vn": "Bạn có bị khàn tiếng không?",
+        "note": "hoarse = khàn giọng"
+      },
+      {
+        "id": "med-consult-throat-004",
+        "en": "Please open your mouth and say 'Ahh'.",
+        "vn": "Mở miệng ra và nói 'Ahh'.",
+        "note": "Câu dùng khi khám họng"
+      },
+      {
+        "id": "med-consult-throat-005",
+        "en": "Your tonsils are swollen.",
+        "vn": "Amidan của bạn đang sưng.",
+        "note": "tonsils = amidan"
+      },
+      {
+        "id": "med-consult-throat-006",
+        "en": "I can see some redness and swelling in your throat.",
+        "vn": "Tôi thấy có vùng đỏ và sưng trong họng bạn.",
+        "note": ""
+      }
+    ]
+  },
+  "diagnosis": {
+    "label": "🔍 Chẩn Đoán & Kế Hoạch",
+    "phrases": [
+      {
+        "id": "med-consult-diagnosis-001",
+        "en": "Based on my examination, you have a middle ear infection.",
+        "vn": "Dựa trên khám bệnh, bạn bị viêm tai giữa.",
+        "note": "middle ear infection = viêm tai giữa"
+      },
+      {
+        "id": "med-consult-diagnosis-002",
+        "en": "You have sinusitis — inflammation of the sinuses.",
+        "vn": "Bạn bị viêm xoang.",
+        "note": "sinusitis = viêm xoang"
+      },
+      {
+        "id": "med-consult-diagnosis-003",
+        "en": "I'd like to do a nasal endoscopy to get a better look.",
+        "vn": "Tôi muốn làm nội soi mũi để xem rõ hơn.",
+        "note": "endoscopy = nội soi"
+      },
+      {
+        "id": "med-consult-diagnosis-004",
+        "en": "I'm going to prescribe some antibiotics for you.",
+        "vn": "Tôi sẽ kê kháng sinh cho bạn.",
+        "note": "prescribe = kê toa, antibiotics = kháng sinh"
+      },
+      {
+        "id": "med-consult-diagnosis-005",
+        "en": "Please come back in one week if it doesn't improve.",
+        "vn": "Nếu không cải thiện, vui lòng tái khám sau một tuần.",
+        "note": ""
+      },
+      {
+        "id": "med-consult-diagnosis-006",
+        "en": "Do you have any questions for me?",
+        "vn": "Bạn có câu hỏi gì cho tôi không?",
+        "note": "Luôn hỏi câu này trước khi kết thúc khám."
+      },
+      {
+        "id": "med-consult-diagnosis-007",
+        "en": "I'll refer you to a specialist.",
+        "vn": "Tôi sẽ giới thiệu bạn đến bác sĩ chuyên khoa.",
+        "note": "refer = giới thiệu, specialist = bác sĩ chuyên khoa"
+      }
+    ]
+  }
+}
