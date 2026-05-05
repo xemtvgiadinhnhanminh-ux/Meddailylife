@@ -15,8 +15,8 @@ export default async function ProceduresPage() {
         <span className="eyebrow">ENT procedures</span>
         <h1 className="section-title mt-4">Procedure library</h1>
         <p className="mt-4 max-w-3xl text-base leading-8 text-slate-600">
-          Moi thu thuat duoc tach thanh mot record rieng, de admin co the them
-          procedure moi, sua step, hoac doi trinh tu thao tac bat cu luc nao.
+          Mỗi thủ thuật được tách thành một record riêng, để admin có thể thêm
+          procedure mới, sửa step, hoặc đổi trình tự thao tác bất cứ lúc nào.
         </p>
       </section>
 

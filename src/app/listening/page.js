@@ -14,8 +14,8 @@ export default async function ListeningPage() {
         <span className="eyebrow">Listening lab</span>
         <h1 className="section-title mt-4">VOA / BBC lessons</h1>
         <p className="mt-4 max-w-3xl text-base leading-8 text-slate-600">
-          Mỗi lesson duoc luu thanh mot record rieng de ban co the them transcript,
-          vocab, connected speech va quiz moi ngay trong admin.
+          Mỗi lesson được lưu thành một record riêng để bạn có thể thêm transcript,
+          vocab, connected speech và quiz mỗi ngày trong admin.
         </p>
       </section>
 

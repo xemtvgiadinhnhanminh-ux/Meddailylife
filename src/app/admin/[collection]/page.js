@@ -37,7 +37,7 @@ export default async function AdminCollectionPage({ params, searchParams }) {
                 : "cursor-not-allowed bg-slate-200 text-slate-500"
             }`}
           >
-            Them moi
+            Thêm mới
           </Link>
         </div>
 
@@ -89,7 +89,7 @@ export default async function AdminCollectionPage({ params, searchParams }) {
                       href={`/admin/${collection}/${getCollectionRouteId(config, row)}`}
                       className="font-medium text-emerald-700 transition hover:text-emerald-600"
                     >
-                      Mo editor
+                      Mở editor
                     </Link>
                   </td>
                 </tr>
@@ -100,7 +100,7 @@ export default async function AdminCollectionPage({ params, searchParams }) {
 
         {!rows.length ? (
           <div className="px-6 py-8 text-sm text-slate-500">
-            Chua co ban ghi nao trong collection nay.
+            Chưa có bản ghi nào trong collection này.
           </div>
         ) : null}
       </div>

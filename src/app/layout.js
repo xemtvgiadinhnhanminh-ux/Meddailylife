@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "MedSpeak Web",
-  description: "Web hoc tieng Anh co admin, toi uu de deploy tren Vercel.",
+  description: "Web học tiếng Anh có admin, tối ưu để deploy trên Vercel.",
 };
 
 export default function RootLayout({ children }) {

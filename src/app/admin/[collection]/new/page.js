@@ -17,10 +17,10 @@ export default async function AdminNewItemPage({ params, searchParams }) {
     <div className="space-y-6">
       <div className="rounded-[2rem] border border-slate-200 bg-white p-8 shadow-sm">
         <h1 className="text-3xl font-semibold tracking-tight text-slate-950">
-          Them moi · {config.label}
+          Thêm mới · {config.label}
         </h1>
         <p className="mt-2 text-sm leading-7 text-slate-600">
-          Tao noi dung moi voi schema da duoc chuan hoa cho ban web.
+          Tạo nội dung mới với schema đã được chuẩn hóa cho bản web.
         </p>
       </div>
 

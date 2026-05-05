@@ -13,9 +13,9 @@ export default async function ScenariosPage() {
         <span className="eyebrow">Roleplay design</span>
         <h1 className="section-title mt-4">AI scenario library</h1>
         <p className="mt-4 max-w-3xl text-base leading-8 text-slate-600">
-          Hien tai trang nay tap trung vao quan ly scenario va script mo dau.
-          Khi ban chot provider AI ve sau, minh se noi them chat real-time vao
-          bo scenario nay ma khong phai viet lai noi dung.
+          Hiện tại trang này tập trung vào quản lý scenario và script mở đầu.
+          Khi bạn chốt provider AI về sau, mình sẽ nối thêm chat real-time vào
+          bộ scenario này mà không phải viết lại nội dung.
         </p>
       </section>
 

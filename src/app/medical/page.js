@@ -30,8 +30,8 @@ export default async function MedicalPage() {
         <span className="eyebrow">Medical communication</span>
         <h1 className="section-title mt-4">Medical English modules</h1>
         <p className="mt-4 max-w-3xl text-base leading-8 text-slate-600">
-          Noi dung y khoa duoc tach theo nhom ro rang de sau nay ban de mo rong
-          trong admin, khong bi dong cung trong mot file JS lon.
+          Nội dung y khoa được tách theo nhóm rõ ràng để sau này bạn dễ mở rộng
+          trong admin, không bị đóng cứng trong một file JS lớn.
         </p>
       </section>
 

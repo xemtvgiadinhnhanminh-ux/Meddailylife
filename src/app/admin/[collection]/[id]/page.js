@@ -23,10 +23,10 @@ export default async function AdminEditItemPage({ params, searchParams }) {
     <div className="space-y-6">
       <div className="rounded-[2rem] border border-slate-200 bg-white p-8 shadow-sm">
         <h1 className="text-3xl font-semibold tracking-tight text-slate-950">
-          Chinh sua · {config.label}
+          Chỉnh sửa · {config.label}
         </h1>
         <p className="mt-2 text-sm leading-7 text-slate-600">
-          Ban ghi dang mo: <span className="font-medium text-slate-950">{item.title || item.slug || item.legacy_id || item.id}</span>
+          Bản ghi đang mở: <span className="font-medium text-slate-950">{item.title || item.slug || item.legacy_id || item.id}</span>
         </p>
       </div>
 

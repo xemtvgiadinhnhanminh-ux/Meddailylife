@@ -17,7 +17,7 @@ export default async function AdminLayout({ children }) {
             MedSpeak Web
           </Link>
           <p className="mt-2 text-sm leading-6 text-slate-600">
-            Khu quan tri noi dung deploy len Vercel.
+            Khu quản trị nội dung deploy lên Vercel.
           </p>
         </div>
 
@@ -30,7 +30,7 @@ export default async function AdminLayout({ children }) {
               href="/admin"
               className="block rounded-2xl px-3 py-2 text-sm font-medium text-slate-700 transition hover:bg-slate-50 hover:text-slate-950"
             >
-              Tong quan
+              Tổng quan
             </Link>
             {listCollectionConfigs().map((collection) => (
               <Link
@@ -58,7 +58,7 @@ export default async function AdminLayout({ children }) {
                 type="submit"
                 className="rounded-full border border-slate-200 px-4 py-2 text-sm font-medium text-slate-700 transition hover:bg-slate-50"
               >
-                Dang xuat
+                Đăng xuất
               </button>
             </form>
           ) : null}

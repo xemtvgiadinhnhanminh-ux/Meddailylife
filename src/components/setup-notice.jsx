@@ -6,12 +6,12 @@ export function SetupNotice({ compact = false }) {
       }`}
     >
       <h2 className={`font-semibold ${compact ? "text-sm" : "text-lg"}`}>
-        Supabase chua duoc ket noi
+        Supabase chưa được kết nối
       </h2>
       <p className={`mt-2 leading-6 ${compact ? "text-sm" : "text-base"}`}>
-        Ban web moi da duoc viet theo huong co admin that. De bat che do luu
-        noi dung va dang nhap quan tri, ban can tao Supabase project, chay file
-        `supabase/schema.sql`, sau do dien `.env`.
+        Bản web mới đã được viết theo hướng có admin thật. Để bật chế độ lưu
+        nội dung và đăng nhập quản trị, bạn cần tạo Supabase project, chạy file
+        `supabase/schema.sql`, sau đó điền `.env`.
       </p>
     </div>
   );

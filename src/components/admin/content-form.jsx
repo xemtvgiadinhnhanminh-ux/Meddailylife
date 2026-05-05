@@ -55,7 +55,7 @@ function renderInput(field, value, readOnly) {
           disabled={readOnly}
           className="h-4 w-4 rounded border-slate-300 text-emerald-600"
         />
-        Kich hoat
+        Kích hoạt
       </label>
     );
   }
@@ -102,7 +102,7 @@ export function ContentForm({
 
       {readOnly ? (
         <div className="rounded-2xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-900">
-          Dang o che do xem truoc. Ket noi Supabase de bat tinh nang luu va xoa.
+          Đang ở chế độ xem trước. Kết nối Supabase để bật tính năng lưu và xóa.
         </div>
       ) : null}
 
@@ -132,7 +132,7 @@ export function ContentForm({
               type="submit"
               className="rounded-full bg-emerald-600 px-5 py-2.5 text-sm font-semibold text-white transition hover:bg-emerald-500"
             >
-              Luu noi dung
+              Lưu nội dung
             </button>
           ) : null}
 
@@ -142,7 +142,7 @@ export function ContentForm({
               type="submit"
               className="rounded-full border border-rose-200 px-5 py-2.5 text-sm font-semibold text-rose-700 transition hover:bg-rose-50"
             >
-              Xoa ban ghi
+              Xóa bản ghi
             </button>
           ) : null}
         </div>

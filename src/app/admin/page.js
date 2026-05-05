@@ -24,8 +24,8 @@ export default async function AdminDashboardPage({ searchParams }) {
               Admin dashboard
             </h1>
             <p className="mt-2 max-w-2xl text-sm leading-7 text-slate-600">
-              Day la noi ban co the quan ly noi dung hoc tieng Anh, bo sung bai moi,
-              sua phrase, them lesson va mo rong app ma khong can sua du lieu hardcode.
+              Đây là nơi bạn có thể quản lý nội dung học tiếng Anh, bổ sung bài mới,
+              sửa phrase, thêm lesson và mở rộng app mà không cần sửa dữ liệu hardcode.
             </p>
           </div>
 
@@ -33,7 +33,7 @@ export default async function AdminDashboardPage({ searchParams }) {
             href="/"
             className="rounded-full border border-slate-200 px-4 py-2 text-sm font-medium text-slate-700 transition hover:bg-slate-50"
           >
-            Xem trang hoc
+            Xem trang học
           </Link>
         </div>
 

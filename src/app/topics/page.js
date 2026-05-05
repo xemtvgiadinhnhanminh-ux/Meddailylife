@@ -15,8 +15,8 @@ export default async function TopicsPage() {
         <span className="eyebrow">Daily life</span>
         <h1 className="section-title mt-4">Daily Topics</h1>
         <p className="mt-4 max-w-3xl text-base leading-8 text-slate-600">
-          Chon mot tinh huong cu the, nghe phrase, doc vocab va xem dialogue mau
-          de luyen cach giao tiep tu nhien hon.
+          Chọn một tình huống cụ thể, nghe phrase, đọc vocab và xem dialogue mẫu
+          để luyện cách giao tiếp tự nhiên hơn.
         </p>
       </section>
 

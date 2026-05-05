@@ -111,7 +111,7 @@ export function DrillTrainer({ items }) {
   if (!currentItem) {
     return (
       <div className="rounded-[1.75rem] border border-slate-200 bg-white p-8 text-center text-slate-600 shadow-sm">
-        Khong co drill nao trong category nay.
+        Không có drill nào trong category này.
       </div>
     );
   }
@@ -139,12 +139,12 @@ export function DrillTrainer({ items }) {
           onClick={shuffleItems}
           className="rounded-full border border-slate-200 px-4 py-2 text-sm font-medium text-slate-700 transition hover:border-slate-300 hover:bg-slate-50"
         >
-          Ngau nhien
+          Ngẫu nhiên
         </button>
 
         <div className="ml-auto flex gap-4 text-sm text-slate-500">
-          <span>Tot: {correct}</span>
-          <span>Can luyen them: {wrong}</span>
+          <span>Tốt: {correct}</span>
+          <span>Cần luyện thêm: {wrong}</span>
         </div>
       </div>
 
@@ -176,17 +176,17 @@ export function DrillTrainer({ items }) {
             onClick={startRecognition}
             className="rounded-full border border-slate-200 px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-slate-50"
           >
-            Noi lai
+            Nói lại
           </button>
         </div>
 
         {heard ? (
           <div className="mt-6 rounded-2xl border border-slate-200 bg-slate-50 p-4">
-            <div className="text-sm text-slate-500">Ban vua noi</div>
+            <div className="text-sm text-slate-500">Bạn vừa nói</div>
             <div className="mt-1 text-base text-slate-900">{heard}</div>
             {score !== null ? (
               <div className="mt-3 text-sm font-medium text-slate-700">
-                Muc khop: {score}% {score >= 60 ? "· Tot" : "· Can nhac lai"}
+                Mức khớp: {score}% {score >= 60 ? "· Tốt" : "· Cần nhắc lại"}
               </div>
             ) : null}
           </div>
@@ -199,14 +199,14 @@ export function DrillTrainer({ items }) {
           onClick={prevItem}
           className="rounded-full border border-slate-200 px-4 py-2 text-sm font-medium text-slate-700 transition hover:border-slate-300 hover:bg-slate-50"
         >
-          ← Truoc
+          ← Trước
         </button>
         <button
           type="button"
           onClick={nextItem}
           className="rounded-full border border-slate-200 px-4 py-2 text-sm font-medium text-slate-700 transition hover:border-slate-300 hover:bg-slate-50"
         >
-          Tiep →
+          Tiếp →
         </button>
       </div>
     </div>

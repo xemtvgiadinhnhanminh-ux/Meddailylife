@@ -64,12 +64,12 @@ export async function saveCollectionItemAction(collectionKey, routeId, formData)
     await requireAdminAccess();
 
     if (!hasSupabaseAdminConfig()) {
-      redirect(`/admin?error=${encodeMessage("Can ket noi Supabase truoc khi luu noi dung.")}`);
+      redirect(`/admin?error=${encodeMessage("Cần kết nối Supabase trước khi lưu nội dung.")}`);
     }
 
     const collection = getCollectionConfig(collectionKey);
     if (!collection) {
-      redirect(`/admin?error=${encodeMessage("Collection khong hop le.")}`);
+      redirect(`/admin?error=${encodeMessage("Collection không hợp lệ.")}`);
     }
 
     const payload = buildPayload(collection, formData);
@@ -98,7 +98,7 @@ export async function saveCollectionItemAction(collectionKey, routeId, formData)
     });
 
     if (!existing?.id) {
-      throw new Error("Khong tim thay ban ghi can cap nhat.");
+      throw new Error("Không tìm thấy bản ghi cần cập nhật.");
     }
 
     const { data, error } = await client
@@ -115,9 +115,9 @@ export async function saveCollectionItemAction(collectionKey, routeId, formData)
     revalidatePath("/admin");
     revalidatePath(`/admin/${collectionKey}`);
     revalidatePath(collection.routeBase);
-    redirect(`/admin/${collectionKey}/${data.id}?message=${encodeMessage("Da luu thay doi.")}`);
+    redirect(`/admin/${collectionKey}/${data.id}?message=${encodeMessage("Đã lưu thay đổi.")}`);
   } catch (error) {
-    const message = error instanceof Error ? error.message : "Khong the luu noi dung.";
+    const message = error instanceof Error ? error.message : "Không thể lưu nội dung.";
     redirect(`${getEditorPath(collectionKey, routeId)}?error=${encodeMessage(message)}`);
   }
 }
@@ -127,12 +127,12 @@ export async function deleteCollectionItemAction(collectionKey, routeId) {
     await requireAdminAccess();
 
     if (!hasSupabaseAdminConfig()) {
-      redirect(`/admin/${collectionKey}?error=${encodeMessage("Can ket noi Supabase truoc khi xoa.")}`);
+      redirect(`/admin/${collectionKey}?error=${encodeMessage("Cần kết nối Supabase trước khi xóa.")}`);
     }
 
     const collection = getCollectionConfig(collectionKey);
     if (!collection) {
-      redirect(`/admin?error=${encodeMessage("Collection khong hop le.")}`);
+      redirect(`/admin?error=${encodeMessage("Collection không hợp lệ.")}`);
     }
 
     const existing = await getCollectionRow(collectionKey, routeId, {
@@ -141,7 +141,7 @@ export async function deleteCollectionItemAction(collectionKey, routeId) {
     });
 
     if (!existing?.id) {
-      throw new Error("Khong tim thay ban ghi can xoa.");
+      throw new Error("Không tìm thấy bản ghi cần xóa.");
     }
 
     const client = createSupabaseAdminClient();
@@ -154,9 +154,9 @@ export async function deleteCollectionItemAction(collectionKey, routeId) {
     revalidatePath("/admin");
     revalidatePath(`/admin/${collectionKey}`);
     revalidatePath(collection.routeBase);
-    redirect(`/admin/${collectionKey}?message=${encodeMessage("Da xoa ban ghi.")}`);
+    redirect(`/admin/${collectionKey}?message=${encodeMessage("Đã xóa bản ghi.")}`);
   } catch (error) {
-    const message = error instanceof Error ? error.message : "Khong the xoa ban ghi.";
+    const message = error instanceof Error ? error.message : "Không thể xóa bản ghi.";
     redirect(`${getEditorPath(collectionKey, routeId)}?error=${encodeMessage(message)}`);
   }
 }

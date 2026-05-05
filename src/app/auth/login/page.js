@@ -22,44 +22,44 @@ export default async function LoginPage({ searchParams }) {
             Admin access
           </span>
           <h1 className="mt-5 text-4xl font-semibold tracking-tight text-slate-950">
-            Quan ly noi dung MedSpeak tren web
+            Quản lý nội dung MedSpeak trên web
           </h1>
           <p className="mt-4 max-w-2xl text-base leading-7 text-slate-600">
-            Khu nay danh cho tai khoan quan tri de them chu de moi, sua lesson,
-            them drills va mo rong noi dung ma khong can sua tay trong code.
+            Khu này dành cho tài khoản quản trị để thêm chủ đề mới, sửa lesson,
+            thêm drills và mở rộng nội dung mà không cần sửa tay trong code.
           </p>
 
           {reason === "forbidden" ? (
             <div className="mt-6 rounded-2xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-900">
-              Tai khoan nay da dang nhap, nhung chua duoc gan quyen admin.
-              Hãy them email cua ban vao `ADMIN_EMAILS` va dang nhap lai.
+              Tài khoản này đã đăng nhập, nhưng chưa được gán quyền admin.
+              Hãy thêm email của bạn vào `ADMIN_EMAILS` và đăng nhập lại.
             </div>
           ) : null}
 
           {!hasSupabaseAdminConfig() ? (
             <div className="mt-6 rounded-2xl border border-rose-200 bg-rose-50 px-4 py-3 text-sm leading-6 text-rose-900">
-              Supabase chua duoc ket noi, nen form dang nhap hien tai chua the
-              luu session that. Sau khi ban tao Supabase project va dien `.env`,
-              khu admin se hoat dong day du tren Vercel.
+              Supabase chưa được kết nối, nên form đăng nhập hiện tại chưa thể
+              lưu session thật. Sau khi bạn tạo Supabase project và điền `.env`,
+              khu admin sẽ hoạt động đầy đủ trên Vercel.
             </div>
           ) : null}
 
           <div className="mt-8 rounded-[1.5rem] bg-slate-950 p-6 text-slate-100">
-            <h2 className="text-lg font-semibold">Quyen quan tri da duoc thiet ke san</h2>
+            <h2 className="text-lg font-semibold">Quyền quản trị đã được thiết kế sẵn</h2>
             <ul className="mt-4 space-y-3 text-sm leading-6 text-slate-300">
-              <li>Email nam trong `ADMIN_EMAILS` se tu dong duoc nang quyen `admin`.</li>
-              <li>Admin co the CRUD daily topics, procedures, drills, lessons va scenarios.</li>
-              <li>Nguoi hoc thong thuong chi xem noi dung, khong sua duoc.</li>
+              <li>Email nằm trong `ADMIN_EMAILS` sẽ tự động được nâng quyền `admin`.</li>
+              <li>Admin có thể CRUD daily topics, procedures, drills, lessons và scenarios.</li>
+              <li>Người học thông thường chỉ xem nội dung, không sửa được.</li>
             </ul>
           </div>
         </section>
 
         <section className="rounded-[2rem] border border-slate-200 bg-white p-8 shadow-sm">
           <h2 className="text-2xl font-semibold tracking-tight text-slate-950">
-            Dang nhap
+            Đăng nhập
           </h2>
           <p className="mt-2 text-sm text-slate-600">
-            Dung email ma ban muon gan quyen admin.
+            Dùng email mà bạn muốn gán quyền admin.
           </p>
 
           {error ? (
@@ -102,7 +102,7 @@ export default async function LoginPage({ searchParams }) {
               type="submit"
               className="w-full rounded-2xl bg-emerald-600 px-4 py-3 text-sm font-semibold text-white transition hover:bg-emerald-500"
             >
-              Dang nhap vao admin
+              Đăng nhập vào admin
             </button>
           </form>
 
@@ -112,15 +112,15 @@ export default async function LoginPage({ searchParams }) {
           </form>
 
           <div className="mt-6 rounded-2xl border border-slate-200 bg-slate-50 px-4 py-4 text-sm leading-6 text-slate-600">
-            Muon tao user moi? Ban co the tao tai khoan trong Supabase Auth, hoac
-            doi form nay thanh self sign-up sau khi da xac nhan chinh sach admin.
+            Muốn tạo user mới? Bạn có thể tạo tài khoản trong Supabase Auth, hoặc
+            đổi form này thành self sign-up sau khi đã xác nhận chính sách admin.
           </div>
 
           <Link
             href="/"
             className="mt-6 inline-flex text-sm font-medium text-slate-600 transition hover:text-slate-950"
           >
-            ← Quay lai trang hoc
+            ← Quay lại trang học
           </Link>
         </section>
       </div>

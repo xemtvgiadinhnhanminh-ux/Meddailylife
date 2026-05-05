@@ -21,12 +21,12 @@ export default async function HomePage() {
           <div>
             <span className="eyebrow">Vercel-ready learning hub</span>
             <h1 className="fancy-title mt-5 max-w-3xl text-5xl leading-[1.02] font-semibold tracking-tight text-slate-950 lg:text-6xl">
-              Web hoc tieng Anh rieng cho ban, co admin de mo rong noi dung ve sau.
+              Web học tiếng Anh riêng cho bạn, có admin để mở rộng nội dung về sau.
             </h1>
             <p className="mt-6 max-w-2xl text-base leading-8 text-slate-600">
-              Ban nay tach khoi app local cu, nhung giu lai toan bo noi dung hoc
-              quan trong. Khi gan Supabase, ban se co login + quyen admin + CRUD
-              noi dung de deploy len Vercel mot cach sach se.
+              Bản này tách khỏi app local cũ, nhưng giữ lại toàn bộ nội dung học
+              quan trọng. Khi gắn Supabase, bạn sẽ có login + quyền admin + CRUD
+              nội dung để deploy lên Vercel một cách sạch sẽ.
             </p>
 
             <div className="mt-8 flex flex-wrap gap-3">
@@ -34,13 +34,13 @@ export default async function HomePage() {
                 href="/topics"
                 className="rounded-full bg-emerald-600 px-5 py-3 text-sm font-semibold text-white transition hover:bg-emerald-500"
               >
-                Bat dau hoc
+                Bắt đầu học
               </Link>
               <Link
                 href="/admin"
                 className="rounded-full border border-slate-200 bg-white px-5 py-3 text-sm font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-slate-50"
               >
-                Vao admin
+                Vào admin
               </Link>
             </div>
           </div>
@@ -52,7 +52,7 @@ export default async function HomePage() {
                 {stats.counts.dailyTopics || 0}
               </div>
               <p className="mt-3 prose-muted">
-                Tinh huong doi thuong co phrases, vocab, tips va dialogue.
+                Tình huống đời thường có phrases, vocab, tips và dialogue.
               </p>
             </div>
             <div className="section-card p-6">
@@ -61,7 +61,7 @@ export default async function HomePage() {
                 {stats.counts.drillItems || 0}
               </div>
               <p className="mt-3 prose-muted">
-                Cum tu tong hop de luyen nghe-noi phan xa ngay tren web.
+                Cụm từ tổng hợp để luyện nghe-nói phản xạ ngay trên web.
               </p>
             </div>
             <div className="section-card p-6">
@@ -71,8 +71,8 @@ export default async function HomePage() {
               </div>
               <p className="mt-3 prose-muted">
                 {stats.source === "database"
-                  ? "Noi dung dang doc truc tiep tu database."
-                  : "Dang hien du lieu lay tu file legacy cho den khi ket noi Supabase."}
+                  ? "Nội dung đang đọc trực tiếp từ database."
+                  : "Đang hiện dữ liệu lấy từ file legacy cho đến khi kết nối Supabase."}
               </p>
             </div>
           </div>
@@ -86,22 +86,22 @@ export default async function HomePage() {
           {
             href: "/topics",
             title: "Daily Life",
-            text: "12 chu de doi thuong nhu restaurant, airport, hotel va complaints.",
+            text: "12 chủ đề đời thường như restaurant, airport, hotel và complaints.",
           },
           {
             href: "/medical",
             title: "Medical English",
-            text: "Consultation, medication, conference va phrase groups cho bac si TMH.",
+            text: "Consultation, medication, conference và phrase groups cho bác sĩ TMH.",
           },
           {
             href: "/procedures",
             title: "Procedures",
-            text: "Thu thuat y khoa voi tung step de nghe va nhac lai bang web speech.",
+            text: "Thủ thuật y khoa với từng step để nghe và nhắc lại bằng web speech.",
           },
           {
             href: "/drills",
             title: "Drills",
-            text: "Bo drill web de luyen noi nhanh va giu dong luc hoc moi ngay.",
+            text: "Bộ drill web để luyện nói nhanh và giữ động lực học mỗi ngày.",
           },
         ].map((item) => (
           <Link
@@ -123,10 +123,10 @@ export default async function HomePage() {
           <div className="flex items-center justify-between gap-4">
             <div>
               <span className="eyebrow">Preview</span>
-              <h2 className="section-title mt-4 text-3xl">Chu de noi bat</h2>
+              <h2 className="section-title mt-4 text-3xl">Chủ đề nổi bật</h2>
             </div>
             <Link href="/topics" className="text-sm font-semibold text-emerald-700">
-              Xem tat ca →
+              Xem tất cả →
             </Link>
           </div>
 
@@ -151,10 +151,10 @@ export default async function HomePage() {
             <div className="flex items-center justify-between gap-4">
               <div>
                 <span className="eyebrow">Procedures</span>
-                <h2 className="section-title mt-4 text-3xl">Thao tac nhanh</h2>
+                <h2 className="section-title mt-4 text-3xl">Thao tác nhanh</h2>
               </div>
               <Link href="/procedures" className="text-sm font-semibold text-emerald-700">
-                Xem them →
+                Xem thêm →
               </Link>
             </div>
 
@@ -181,10 +181,10 @@ export default async function HomePage() {
             <div className="flex items-center justify-between gap-4">
               <div>
                 <span className="eyebrow">Listening</span>
-                <h2 className="section-title mt-4 text-3xl">Lesson mau</h2>
+                <h2 className="section-title mt-4 text-3xl">Lesson mẫu</h2>
               </div>
               <Link href="/listening" className="text-sm font-semibold text-emerald-700">
-                Xem tat ca →
+                Xem tất cả →
               </Link>
             </div>
 
@@ -200,7 +200,7 @@ export default async function HomePage() {
                   </div>
                   <h3 className="mt-3 text-xl font-semibold text-slate-950">{lesson.title}</h3>
                   <p className="mt-2 prose-muted">
-                    {lesson.transcript.length} dong transcript · {lesson.quiz.length} cau quiz
+                    {lesson.transcript.length} dòng transcript · {lesson.quiz.length} câu quiz
                   </p>
                 </div>
               ))}
